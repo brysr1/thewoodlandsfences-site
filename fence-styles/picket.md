@@ -1,5 +1,5 @@
 ---
-title: "Picket Fences | The Woodlands & Spring, TX"
+title: "Picket Fences"
 description: "Low, open fences for front yards, gardens, and curb appeal. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/picket/
 ---

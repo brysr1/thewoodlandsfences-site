@@ -1,5 +1,5 @@
 ---
-title: "Split Rail & Rail Fences | The Woodlands & Spring, TX"
+title: "Split Rail & Rail Fences"
 description: "Open rail fences for frontage, wooded lots, and acreage. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/split-rail/
 ---

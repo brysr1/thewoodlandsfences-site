@@ -1,5 +1,5 @@
 ---
-title: "Semi-Privacy Fences | The Woodlands & Spring, TX"
+title: "Semi-Privacy Fences"
 description: "Shadowbox, lattice-top, and spaced-picket designs that let air and light through. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/semi-privacy/
 ---

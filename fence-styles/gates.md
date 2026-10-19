@@ -1,5 +1,5 @@
 ---
-title: "Gates & Gate Openers | The Woodlands & Spring, TX"
+title: "Gates & Gate Openers"
 description: "Walk gates, drive gates, and automatic openers that swing true for years. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/gates/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pool Enclosure Fences | The Woodlands & Spring, TX"
+title: "Pool Enclosure Fences"
 description: "Code-compliant pool barriers with self-closing, self-latching gates. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/pool-enclosure/
 faq:

@@ -1,5 +1,5 @@
 ---
-title: "Pet Fences | The Woodlands & Spring, TX"
+title: "Pet Fences"
 description: "Fences that keep dogs in: dig barriers, tight gaps, and latches they can't open. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/pet/
 ---

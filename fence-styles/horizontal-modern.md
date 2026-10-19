@@ -1,5 +1,5 @@
 ---
-title: "Horizontal & Modern Fences | The Woodlands & Spring, TX"
+title: "Horizontal & Modern Fences"
 description: "Clean horizontal boards for contemporary homes and outdoor living spaces. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/horizontal-modern/
 ---

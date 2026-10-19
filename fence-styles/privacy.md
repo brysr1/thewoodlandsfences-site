@@ -1,5 +1,5 @@
 ---
-title: "Privacy Fences | The Woodlands & Spring, TX"
+title: "Privacy Fences"
 description: "Six- to eight-foot fences that close off the backyard, built to your neighborhood's height and style rules. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/privacy/
 faq:

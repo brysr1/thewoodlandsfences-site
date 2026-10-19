@@ -1,5 +1,5 @@
 ---
-title: "Ornamental Fences | The Woodlands & Spring, TX"
+title: "Ornamental Fences"
 description: "Black aluminum and steel fences that secure the yard and keep the view. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/ornamental/
 ---
