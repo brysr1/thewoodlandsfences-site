@@ -21,7 +21,7 @@ business:
 
 # Add a GA4 measurement ID (G-XXXXXXX) and Search Console code when they exist
 google_analytics:
-google_site_verification:
+google_site_verification: "uDwRHa8EuJLm3ixCVrYNmSSbcY30RNPeUK3jASqn3Ew"
 
 plugins:
   - jekyll-seo-tag
