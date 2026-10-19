@@ -1,5 +1,5 @@
 ---
-title: Fence Materials Compared | 76 Fence of The Woodlands
+title: Fence Materials Compared
 description: Compare wood, cedar, vinyl, ornamental steel and aluminum, chain link, composite, and ranch fencing for homes from The Woodlands to Lake Houston.
 permalink: /materials/
 ---

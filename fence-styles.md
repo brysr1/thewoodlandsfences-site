@@ -1,5 +1,5 @@
 ---
-title: Fence Styles | Privacy, Ornamental, Pool & More
+title: Fence Styles
 description: "Fence styles from 76 Fence of The Woodlands: privacy, semi-privacy, picket, horizontal, ornamental, pool, split rail, gates, and pet fences."
 permalink: /fence-styles/
 ---

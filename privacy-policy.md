@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy | thewoodlandsfences.com
+title: Privacy Policy
 description: How thewoodlandsfences.com and 76 Fence of The Woodlands collect, use, and share information from the contact form, online booking, analytics, and maps.
 permalink: /privacy-policy/
 no_cta: true

@@ -1,5 +1,5 @@
 ---
-title: About 76 Fence of The Woodlands | Meet the Team
+title: About Us & Meet the Team
 description: Meet the team behind 76 Fence of The Woodlands, based on Lake Plaza Drive off I-45 and building fences from The Woodlands to Lake Houston. Call (713) 331-9385.
 permalink: /about/
 ---

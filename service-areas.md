@@ -1,5 +1,5 @@
 ---
-title: Fence Service Areas | The Woodlands to Lake Houston
+title: Fence Service Areas
 description: 76 Fence of The Woodlands builds and repairs fences in The Woodlands, Spring, Kingwood, Atascocita, Humble, Huffman, Porter, New Caney, and Splendora. Call (713) 331-9385.
 permalink: /service-areas/
 ---

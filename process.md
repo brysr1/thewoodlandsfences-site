@@ -1,5 +1,5 @@
 ---
-title: Our Fence Installation Process | 76 Fence of The Woodlands
+title: Our Fence Installation Process
 description: How a fence project runs with 76 Fence of The Woodlands, from the estimate and RDRC or HOA approval to permits, Texas 811, build day, and aftercare.
 permalink: /process/
 cta_heading: Start with a site visit

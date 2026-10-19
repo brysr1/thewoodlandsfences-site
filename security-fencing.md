@@ -1,5 +1,5 @@
 ---
-title: Security Fencing & Metal Cages | 76 Fence of The Woodlands
+title: Security Fencing & Metal Cages
 description: Security fencing, metal cages, and access-controlled gates for businesses, equipment yards, and utility sites from The Woodlands to Lake Houston. Call (713) 331-9385.
 permalink: /security-fencing/
 ---

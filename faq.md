@@ -1,5 +1,5 @@
 ---
-title: Fence FAQ | The Woodlands, Spring, Kingwood & Lake Houston
+title: Fence FAQ
 description: "Answers to common fence questions in The Woodlands, Spring, Kingwood, Humble, Atascocita, Huffman, and Porter: permits, HOA approval, heights, materials, 811, and pricing."
 permalink: /faq/
 faq_title: Frequently asked questions

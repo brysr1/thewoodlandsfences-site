@@ -1,5 +1,5 @@
 ---
-title: Fence Resources & Guides | 76 Fence of The Woodlands
+title: Fence Resources & Guides
 description: Practical fence guides for homeowners in The Woodlands and the Lake Houston area, plus links to Texas 811, FEMA flood maps, and local permitting offices.
 permalink: /resources/
 ---

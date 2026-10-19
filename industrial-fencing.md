@@ -1,5 +1,5 @@
 ---
-title: Industrial Fencing | Yards, Warehouses & Job Sites
+title: Industrial Fencing
 description: "Industrial fencing along the I-45, I-69, and Grand Parkway corridors: heavy-gauge chain link, barbed wire toppers, steel, and cantilever gates. Call (713) 331-9385."
 permalink: /industrial-fencing/
 ---

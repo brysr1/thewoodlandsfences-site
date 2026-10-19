@@ -1,5 +1,5 @@
 ---
-title: HOA & Community Fencing | The Woodlands, Spring & Kingwood
+title: HOA & Community Fencing
 description: "HOA-compliant homeowner fences and community fencing for HOAs, POAs, and MUDs: perimeter walls, entries, amenity centers, and pool fences. Call (713) 331-9385."
 permalink: /hoa-fencing/
 faq:

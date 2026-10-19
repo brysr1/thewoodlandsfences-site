@@ -1,5 +1,5 @@
 ---
-title: "As Seen on HGTV: Worst Yard on the Block | 76 Fence"
+title: "As Seen on HGTV: Worst Yard on the Block"
 description: 76 Fence crews built the fences for three Season 1 episodes of HGTV's Worst Yard on the Block. Episode notes and what we built.
 permalink: /as-seen-on-hgtv/
 cta_heading: Want a fence built to the same standard?

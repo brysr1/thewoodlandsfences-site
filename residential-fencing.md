@@ -1,5 +1,5 @@
 ---
-title: Residential Fence Installation | The Woodlands & Spring, TX
+title: Residential Fence Installation
 description: "Residential fences for homes in The Woodlands, Spring, Kingwood, and Lake Houston: cedar privacy, ornamental, pool, pet, and builder-fence replacements. Call (713) 331-9385."
 permalink: /residential-fencing/
 faq:

@@ -1,5 +1,5 @@
 ---
-title: Fence Staining & Power Washing | The Woodlands & Spring
+title: Fence Staining & Power Washing
 description: Fence power washing and staining from The Woodlands to Lake Houston, with Township-approved transparent and semi-transparent stains and HOA color matching.
 permalink: /fence-staining-power-washing/
 faq:

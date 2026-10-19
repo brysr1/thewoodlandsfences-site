@@ -1,5 +1,5 @@
 ---
-title: Fence Financing | 76 Fence of The Woodlands
+title: Fence Financing
 description: Pay for your fence over time with Hearth financing. Plans from a 550 credit score, with possible 0% offers at 680 and above. Call (713) 331-9385.
 permalink: /financing/
 cta_heading: Ask about financing at your estimate

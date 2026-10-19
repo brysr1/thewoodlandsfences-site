@@ -1,5 +1,5 @@
 ---
-title: Commercial Fence Company | The Woodlands & North Houston
+title: Commercial Fence Company
 description: Commercial fencing for offices, retail, churches, schools, and property managers from The Woodlands to Lake Houston. Chain link, ornamental steel, gates, and access control.
 permalink: /commercial-fencing/
 ---

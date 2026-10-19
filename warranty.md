@@ -1,5 +1,5 @@
 ---
-title: 18-Month Fence Workmanship Warranty | 76 Fence of The Woodlands
+title: 18-Month Fence Workmanship Warranty
 description: Every fence installed by 76 Fence of The Woodlands carries an 18-month limited workmanship warranty. What's covered, what isn't, and how to make a claim.
 permalink: /warranty/
 cta_heading: Something not right with your fence?

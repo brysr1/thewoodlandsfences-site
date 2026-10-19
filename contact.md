@@ -1,5 +1,5 @@
 ---
-title: Contact & Free Estimate | 76 Fence of The Woodlands
+title: Contact & Free Estimate
 description: Request a free fence estimate from 76 Fence of The Woodlands. 1401 Lake Plaza Dr, Suite 200, Spring, TX 77389. Open 7 days, 7 AM to 7 PM. Call or text (713) 331-9385.
 permalink: /contact/
 no_cta: true

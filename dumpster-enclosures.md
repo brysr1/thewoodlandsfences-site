@@ -1,5 +1,5 @@
 ---
-title: Dumpster Enclosures | 76 Fence of The Woodlands
+title: Dumpster Enclosures
 description: Dumpster and equipment enclosures for restaurants, offices, retail, and HOAs from The Woodlands to Lake Houston. Wood, composite, and steel with heavy-duty gates.
 permalink: /dumpster-enclosures/
 ---

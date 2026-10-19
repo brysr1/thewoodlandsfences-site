@@ -1,5 +1,5 @@
 ---
-title: Fence Repair & Maintenance | The Woodlands & Spring, TX
+title: Fence Repair & Maintenance
 description: "Fence repair from The Woodlands to Lake Houston: leaning posts, storm damage, broken pickets, sagging gates, and honest repair-or-replace advice. Call (713) 331-9385."
 permalink: /maintenance-repair/
 faq:
