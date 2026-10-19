@@ -1,5 +1,5 @@
 ---
-title: Fence Company in Huffman, TX | Acreage & Residential Fencing
+title: Fence Company in Huffman, TX
 description: Fence installation and repair in Huffman, TX, from The Commons of Lake Houston to acreage tracts near Lake Houston Wilderness Park. Ranch, privacy, and gate work. Call (713) 331-9385.
 permalink: /service-areas/huffman-tx/
 cta_heading: Fencing property in Huffman?

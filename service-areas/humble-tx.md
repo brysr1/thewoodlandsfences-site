@@ -1,5 +1,5 @@
 ---
-title: Fence Company in Humble, TX | Installation & Repair
+title: Fence Company in Humble, TX
 description: Fence installation and repair in Humble, TX, including Lakeshore, Deerbrook Estates, Foxwood, Kenswick, Cypresswood Point, and Forest Shadows. City permits handled. Call (713) 331-9385.
 permalink: /service-areas/humble-tx/
 cta_heading: Planning a fence in Humble?

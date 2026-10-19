@@ -1,5 +1,5 @@
 ---
-title: Fence Company in Spring, TX | Installation & Repair
+title: Fence Company in Spring, TX
 description: Fence installation and repair in Spring, TX, from Gleannloch Farms and Champion Forest to Augusta Pines, Harmony, and Woodson's Reserve. Floodplain and HOA checks included. Call (713) 331-9385.
 permalink: /service-areas/spring-tx/
 cta_heading: Fencing a home in Spring?

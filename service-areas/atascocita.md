@@ -1,5 +1,5 @@
 ---
-title: Fence Company in Atascocita, TX | Installation & Repair
+title: Fence Company in Atascocita, TX
 description: Fence installation and repair in Atascocita, including Eagle Springs, Summerwood, Balmoral, Fall Creek, Walden on Lake Houston, and Atascocita Shores. Call (713) 331-9385.
 permalink: /service-areas/atascocita/
 cta_heading: Fencing a home in Atascocita?

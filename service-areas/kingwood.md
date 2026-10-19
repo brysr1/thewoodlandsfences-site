@@ -1,5 +1,5 @@
 ---
-title: Fence Company in Kingwood, TX | All 21 Villages
+title: Fence Company in Kingwood, TX
 description: Fence installation and repair across Kingwood's villages, from Trailwood and Bear Branch to Kings Manor. Deed-restriction approvals, greenbelt lots, and flood-aware builds. Call (713) 331-9385.
 permalink: /service-areas/kingwood/
 cta_heading: Planning a fence in Kingwood?

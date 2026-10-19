@@ -1,5 +1,5 @@
 ---
-title: Fence Company in The Woodlands, TX | Township-Approved Fences
+title: Fence Company in The Woodlands, TX
 description: Fence installation and repair in all eight villages of The Woodlands, built to the Township's Residential Development Standards with RDRC approval handled for you. Call (713) 331-9385.
 permalink: /service-areas/the-woodlands/
 cta_heading: Planning a fence in The Woodlands?
