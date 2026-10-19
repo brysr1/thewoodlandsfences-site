@@ -1,0 +1,60 @@
+main:
+  - title: Services
+    url: /residential-fencing/
+    children:
+      - { title: Residential Fencing, url: /residential-fencing/ }
+      - { title: Commercial Fencing, url: /commercial-fencing/ }
+      - { title: Industrial Fencing, url: /industrial-fencing/ }
+      - { title: HOA & Community Fencing, url: /hoa-fencing/ }
+      - { title: Maintenance & Repair, url: /maintenance-repair/ }
+      - { title: Staining & Power Washing, url: /fence-staining-power-washing/ }
+      - { title: Security Fencing, url: /security-fencing/ }
+      - { title: Dumpster Enclosures, url: /dumpster-enclosures/ }
+  - title: Materials
+    url: /materials/
+    match: /materials/
+    children:
+      - { title: Wood & Cedar, url: /materials/wood-cedar/ }
+      - { title: Vinyl, url: /materials/vinyl/ }
+      - { title: Ornamental Steel & Aluminum, url: /materials/ornamental-steel-aluminum/ }
+      - { title: Chain Link, url: /materials/chain-link/ }
+      - { title: Composite / Trex, url: /materials/composite-trex/ }
+      - { title: Farm & Ranch, url: /materials/farm-ranch/ }
+  - title: Fence Styles
+    url: /fence-styles/
+    match: /fence-styles/
+    children:
+      - { title: Privacy, url: /fence-styles/privacy/ }
+      - { title: Semi-Privacy, url: /fence-styles/semi-privacy/ }
+      - { title: Picket, url: /fence-styles/picket/ }
+      - { title: Horizontal & Modern, url: /fence-styles/horizontal-modern/ }
+      - { title: Ornamental, url: /fence-styles/ornamental/ }
+      - { title: Pool Enclosure, url: /fence-styles/pool-enclosure/ }
+      - { title: Split Rail, url: /fence-styles/split-rail/ }
+      - { title: Gates & Openers, url: /fence-styles/gates/ }
+      - { title: Pet & Dog Fences, url: /fence-styles/pet/ }
+  - title: Service Areas
+    url: /service-areas/
+    match: /service-areas/
+    children:
+      - { title: The Woodlands, url: /service-areas/the-woodlands/ }
+      - { title: Spring, url: /service-areas/spring-tx/ }
+      - { title: "Porter, New Caney & Splendora", url: /service-areas/porter-new-caney-splendora/ }
+      - { title: Kingwood, url: /service-areas/kingwood/ }
+      - { title: Atascocita, url: /service-areas/atascocita/ }
+      - { title: Humble, url: /service-areas/humble-tx/ }
+      - { title: Huffman, url: /service-areas/huffman-tx/ }
+  - title: Resources
+    url: /resources/
+  - title: About
+    url: /about/
+    children:
+      - { title: About & Meet the Team, url: /about/ }
+      - { title: Our Process, url: /process/ }
+      - { title: Pricing Guide, url: /pricing-guide/ }
+      - { title: Financing, url: /financing/ }
+      - { title: Warranty, url: /warranty/ }
+      - { title: As Seen on HGTV, url: /as-seen-on-hgtv/ }
+      - { title: FAQ, url: /faq/ }
+  - title: Contact
+    url: /contact/
