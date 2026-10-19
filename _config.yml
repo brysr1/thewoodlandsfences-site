@@ -1,0 +1,38 @@
+title: 76 Fence of The Woodlands
+description: Fence installation and repair for The Woodlands, Spring, Kingwood, Humble, Atascocita, Huffman, and Porter, New Caney & Splendora. Wood, iron, vinyl, chain link, composite, HOA and commercial fencing.
+url: https://thewoodlandsfences.com
+baseurl: "/thewoodlandsfences-site"  # preview only: remove at go-live, when CNAME is added
+lang: en_US
+logo: /assets/images/logo-76-fence.png
+
+# Business details (from the The Woodlands-Spring Google Business Profile)
+business:
+  name: 76 Fence of The Woodlands
+  phone: (713) 331-9385
+  phone_tel: "+17133319385"
+  street: 1401 Lake Plaza Dr, Suite 200
+  city: Spring
+  state: TX
+  zip: "77389"
+  hours_text: Open 7 days, 7:00 AM – 7:00 PM
+  book_url: https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=thewoodlandsfences&utm_medium=website&utm_campaign=site_booking
+  form_action: https://formspree.io/f/maeqqoog
+  facebook: https://www.facebook.com/76FenceTheWoodlands
+  instagram: https://www.instagram.com/76fencethewoodlands
+
+# Add a GA4 measurement ID (G-XXXXXXX) and Search Console code when they exist
+google_analytics:
+google_site_verification:
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - README.md
