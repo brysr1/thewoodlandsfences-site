@@ -1,15 +1,18 @@
-{%- comment -%} Cover hero. params: eyebrow, title, lede, image, alt, small, pos {%- endcomment -%}
+{%- comment -%} Split editorial hero. params: eyebrow, title, lede, image, alt, small, pos {%- endcomment -%}
 <section class="fx-hero{% if include.small %} fx-hero-small{% endif %}">
-  <img class="fx-hero-img" src="{{ include.image | default: '/assets/images/fences/shadowbox-cedar.jpg' | relative_url }}" alt="{{ include.alt }}"{% if include.pos %} style="object-position:{{ include.pos }}"{% endif %} fetchpriority="high">
-  <div class="fx-hero-shade"></div>
-  <div class="fx-container fx-hero-in">
-    {%- if include.eyebrow %}<p class="fx-eyebrow fx-eyebrow-light"><span class="rule"></span><span class="label">{{ include.eyebrow }}</span></p>{% endif %}
-    <h1>{{ include.title }}</h1>
-    {%- if include.lede %}<p class="fx-hero-lede">{{ include.lede }}</p>{% endif %}
-    <div class="fx-btn-row">
-      <a class="fx-btn fx-btn-navy" href="{{ site.business.book_url }}"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Book a Free Estimate</a>
-      <a class="fx-btn fx-btn-ghost" href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone }}</a>
+  <div class="fx-hero-text">
+    <div class="fx-hero-in">
+      {%- if include.eyebrow %}<p class="fx-hero-eyebrow">{{ include.eyebrow }}</p>{% endif %}
+      <h1>{{ include.title }}</h1>
+      {%- if include.lede %}<p class="fx-hero-lede">{{ include.lede }}</p>{% endif %}
+      <div class="fx-btn-row">
+        <a class="fx-btn fx-btn-red" href="{{ site.business.book_url }}"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Book a Free Estimate</a>
+        <a class="fx-btn fx-btn-line" href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone }}</a>
+      </div>
     </div>
   </div>
+  <figure class="fx-hero-media">
+    <img class="fx-hero-img" src="{{ include.image | default: '/assets/images/fences/shadowbox-cedar.jpg' | relative_url }}" alt="{{ include.alt }}"{% if include.pos %} style="object-position:{{ include.pos }}"{% endif %} fetchpriority="high">
+  </figure>
 </section>
 {% include trust.html %}
