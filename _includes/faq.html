@@ -1,0 +1,14 @@
+<section class="fx-band fx-faq-band">
+  <div class="fx-container fx-narrow">
+    {% include eyebrow.html text="Questions" %}
+    <h2>{{ include.title | default: "Common questions" }}</h2>
+    <div class="fx-faq">
+      {%- for q in include.items %}
+      <details><summary>{{ q.q }}</summary><div class="fx-answer">{{ q.a | markdownify }}</div></details>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for q in include.items -%}{"@type":"Question","name":{{ q.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ q.a | markdownify | strip_html | strip_newlines | strip | jsonify }}}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]}
+</script>

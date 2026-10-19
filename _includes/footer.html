@@ -1,0 +1,54 @@
+{%- assign b = site.business -%}
+<footer class="fx-footer" role="contentinfo">
+  <div class="fx-container fx-footer-grid">
+    <div class="fx-footer-brand">
+      <p class="fx-footer-name">76 Fence of The Woodlands</p>
+      <p>{{ b.street }}<br>{{ b.city }}, {{ b.state }} {{ b.zip }}</p>
+      <p><a class="fx-footer-phone" href="tel:{{ b.phone_tel }}">{{ b.phone }}</a> &middot; <a href="sms:{{ b.phone_tel }}">Text us</a></p>
+      <p>{{ b.hours_text }}</p>
+      <p><a class="fx-btn fx-btn-red fx-btn-sm" href="{{ b.book_url }}">Book a Free Estimate</a></p>
+      <p class="fx-footer-social"><a href="{{ b.facebook }}">Facebook</a> &middot; <a href="{{ b.instagram }}">Instagram</a></p>
+    </div>
+    <div>
+      <p class="fx-footer-title">Services</p>
+      <ul>
+        <li><a href="{{ '/residential-fencing/' | relative_url }}">Residential</a></li>
+        <li><a href="{{ '/commercial-fencing/' | relative_url }}">Commercial</a></li>
+        <li><a href="{{ '/industrial-fencing/' | relative_url }}">Industrial</a></li>
+        <li><a href="{{ '/hoa-fencing/' | relative_url }}">HOA &amp; Community</a></li>
+        <li><a href="{{ '/maintenance-repair/' | relative_url }}">Maintenance &amp; Repair</a></li>
+        <li><a href="{{ '/fence-staining-power-washing/' | relative_url }}">Staining &amp; Power Washing</a></li>
+        <li><a href="{{ '/security-fencing/' | relative_url }}">Security Fencing</a></li>
+        <li><a href="{{ '/dumpster-enclosures/' | relative_url }}">Dumpster Enclosures</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="fx-footer-title">Service Areas</p>
+      <ul>
+        {%- for c in site.data.navigation.main[3].children %}<li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>{%- endfor %}
+        <li><a href="{{ '/service-areas/' | relative_url }}">All service areas</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="fx-footer-title">Company</p>
+      <ul>
+        <li><a href="{{ '/about/' | relative_url }}">About &amp; Team</a></li>
+        <li><a href="{{ '/materials/' | relative_url }}">Materials</a></li>
+        <li><a href="{{ '/fence-styles/' | relative_url }}">Fence Styles</a></li>
+        <li><a href="{{ '/process/' | relative_url }}">Our Process</a></li>
+        <li><a href="{{ '/pricing-guide/' | relative_url }}">Pricing Guide</a></li>
+        <li><a href="{{ '/financing/' | relative_url }}">Financing</a></li>
+        <li><a href="{{ '/warranty/' | relative_url }}">Warranty</a></li>
+        <li><a href="{{ '/as-seen-on-hgtv/' | relative_url }}">As Seen on HGTV</a></li>
+        <li><a href="{{ '/faq/' | relative_url }}">FAQ</a></li>
+        <li><a href="{{ '/resources/' | relative_url }}">Resources</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="fx-container fx-footer-bottom">
+    <p>&copy; {{ site.time | date: "%Y" }} 76 Fence of The Woodlands &middot; <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a></p>
+    <p>Part of the 76 Fence family &mdash; also serving <a href="https://northhoustonfence.com">North Houston</a>, <a href="https://conroetxfences.com">Conroe</a>, and <a href="https://magnoliatxfences.com">Magnolia</a>.</p>
+  </div>
+</footer>
+<div class="fx-dock"><a href="{{ b.book_url }}">Book a Free Estimate</a><a href="tel:{{ b.phone_tel }}">Call</a></div>

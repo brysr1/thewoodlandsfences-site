@@ -1,0 +1,72 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- seo -%}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
+  <meta name="theme-color" content="#20396C">
+  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/android-chrome-192x192.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
+  {%- if site.google_analytics and jekyll.environment == 'production' %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.google_analytics }}');</script>
+  {%- endif %}
+  {%- if site.google_site_verification %}
+  <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+  {%- endif %}
+  {%- assign b = site.business %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HomeAndConstructionBusiness",
+    "@id": "{{ site.url }}/#business",
+    "name": "{{ b.name }}",
+    "url": "{{ site.url }}/",
+    "logo": "{{ site.url }}/assets/images/logo-76-fence.png",
+    "image": "{{ site.url }}/assets/images/fences/shadowbox-cedar.jpg",
+    "telephone": "{{ b.phone_tel }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ b.street }}",
+      "addressLocality": "{{ b.city }}",
+      "addressRegion": "{{ b.state }}",
+      "postalCode": "{{ b.zip }}",
+      "addressCountry": "US"
+    },
+    "openingHoursSpecification": [{
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+      "opens": "07:00",
+      "closes": "19:00"
+    }],
+    "areaServed": [
+      {"@type": "Place", "name": "The Woodlands, TX"},
+      {"@type": "Place", "name": "Spring, TX"},
+      {"@type": "Place", "name": "Kingwood, TX"},
+      {"@type": "Place", "name": "Atascocita, TX"},
+      {"@type": "Place", "name": "Humble, TX"},
+      {"@type": "Place", "name": "Huffman, TX"},
+      {"@type": "Place", "name": "Porter, TX"},
+      {"@type": "Place", "name": "New Caney, TX"},
+      {"@type": "Place", "name": "Splendora, TX"},
+      {"@type": "AdministrativeArea", "name": "Montgomery County, TX"}
+    ],
+    "sameAs": ["{{ b.facebook }}", "{{ b.instagram }}"],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Fence services",
+      "itemListElement": [
+        {%- assign svc = "Fence installation|Custom fence construction|Fence design|Wood fence installation|Vinyl fence installation|Aluminum fence installation|Iron and ornamental fence installation|Chain link fence installation|Trex and composite fence installation|Privacy fence installation|Pool fence installation|Dog fence installation|Deer fencing and ranch rail installation|HOA fence installation|POA fence installation|Gate installation|Automatic gate installation and repair|Security fencing|Fence staining and painting|Fence repair and maintenance" | split: "|" -%}
+        {%- for s in svc %}
+        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "{{ s }}"}}{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      ]
+    },
+    "branchOf": { "@type": "Organization", "name": "76 Fence", "url": "https://76fence.com/" }
+  }
+  </script>
+</head>

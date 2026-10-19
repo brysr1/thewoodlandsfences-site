@@ -1,0 +1,18 @@
+<section class="fx-band fx-reviews" aria-labelledby="fx-reviews-title">
+  <div class="fx-container">
+    <div class="fx-center">
+      {% include eyebrow.html text="Reviews" %}
+      <h2 id="fx-reviews-title">What our customers say</h2>
+      <p class="fx-lead">Five-star Google reviews from homeowners who hired the 76 Fence crew.</p>
+    </div>
+    <div class="fx-review-grid">
+      {%- for r in site.data.testimonials %}
+      <figure class="fx-review">
+        <div class="fx-stars" role="img" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <blockquote><p>&ldquo;{{ r.quote }}&rdquo;</p></blockquote>
+        <figcaption><strong>{{ r.name }}</strong><span>Google review</span></figcaption>
+      </figure>
+      {%- endfor %}
+    </div>
+  </div>
+</section>

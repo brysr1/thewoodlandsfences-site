@@ -1,0 +1,10 @@
+<section class="fx-band fx-band-dark fx-cta">
+  <div class="fx-container">
+    <h2>{{ include.heading | default: "Ready for a Free Estimate?" }}</h2>
+    <p>{{ include.text | default: "Call or text us, or book online. We'll walk your property and send a straight, written quote." }}</p>
+    <div class="fx-btn-row fx-btn-row-center">
+      <a class="fx-btn fx-btn-red fx-btn-lg" href="{{ site.business.book_url }}">Book a Free Estimate</a>
+      <a class="fx-btn fx-btn-ghost" href="tel:{{ site.business.phone_tel }}">Call {{ site.business.phone }}</a>
+    </div>
+  </div>
+</section>
