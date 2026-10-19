@@ -8,7 +8,7 @@ faq:
   - q: Can you match the rest of the neighborhood?
     a: Yes. We match community-standard picket styles, caps, and stain colors so a new fence blends in with its neighbors.
   - q: Do you bid community projects?
-    a: Yes. We bid perimeter, entry, amenity, and pool fencing for HOAs, POAs, and MUDs, with itemized pricing for board review.
+    a: Yes. We bid perimeter, entry, amenity, and pool fencing for HOAs, POAs, and MUDs, with written bids ready for board review.
 ---
 
 {% include hero.html small=true eyebrow="HOA & community" title="Fences your HOA will approve" lede="For homeowners working through architectural review, and for associations maintaining community fences." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="Shadowbox cedar fence along a side yard" %}

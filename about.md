@@ -36,7 +36,7 @@ permalink: /about/
     <h2>What every job gets</h2>
     <ul class="fx-checklist">
       <li><span><b>The rules checked first.</b> Township standards, city permits, county floodplain, HOA guidelines: we find out which apply before you choose a fence.</span></li>
-      <li><span><b>A written, itemized quote.</b> Footage, height, material, posts, gates, and tear-out, line by line.</span></li>
+      <li><span><b>A written quote.</b> What we agreed on is in writing before work starts.</span></li>
       <li><span><b>811 before every dig.</b> No exceptions.</span></li>
       <li><span><b>Posts set for your soil.</b> Clay, sand, roots, and wet ground each change how we set posts.</span></li>
       <li><span><b>Clean job sites.</b> Old fencing, cut-offs, and post-hole spoil leave with the crew.</span></li>

@@ -6,7 +6,7 @@ faq:
   - q: How long does a backyard fence take?
     a: Most residential fences take one to three days on site once materials arrive. Approval from your RDRC or HOA and Texas 811 locates usually set the start date.
   - q: Do you remove the old fence?
-    a: Yes. Tear-out and haul-off are listed on your quote, and the old fence leaves with the crew.
+    a: Yes. Tear-out and haul-off are part of your quote, and the old fence leaves with the crew.
   - q: Can you work with my neighbor on a shared fence?
     a: Yes. We can quote both households, coordinate access, and match an existing fence where the new one ties in.
 ---

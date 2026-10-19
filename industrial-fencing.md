@@ -23,7 +23,7 @@ permalink: /industrial-fencing/
   <div class="fx-container fx-prose fx-narrow">
     {% include eyebrow.html text="Planning" %}
     <h2>What we look at on an industrial site</h2>
-    <p>Truck turning radii and gate widths, drainage across the fence line, how posts will hold in disturbed or fill soil, whether a mapped floodplain triggers a county permit, and how to keep the site secure while old fence comes out and new fence goes in. You get a written, itemized bid and a schedule built around your operations.</p>
+    <p>Truck turning radii and gate widths, drainage across the fence line, how posts will hold in disturbed or fill soil, whether a mapped floodplain triggers a county permit, and how to keep the site secure while old fence comes out and new fence goes in. You get a written bid and a schedule built around your operations.</p>
     <p>See also <a href="{{ '/security-fencing/' | relative_url }}">security fencing</a> and <a href="{{ '/commercial-fencing/' | relative_url }}">commercial fencing</a>.</p>
   </div>
 </section>

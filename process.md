@@ -14,7 +14,7 @@ cta_text: Call or text (713) 331-9385, or book online. We'll check the rules for
     <h2>Five steps</h2>
     <div class="fx-steps">
       <div class="fx-step"><p class="n">01</p><p class="t">Tell us about the property</p><p>Address, rough fence line, and photos if you have them.</p></div>
-      <div class="fx-step"><p class="n">02</p><p class="t">Site visit &amp; quote</p><p>We measure, note trees, slope, and drainage, and send an itemized quote.</p></div>
+      <div class="fx-step"><p class="n">02</p><p class="t">Site visit &amp; quote</p><p>We measure, note trees, slope, and drainage, and send a written quote.</p></div>
       <div class="fx-step"><p class="n">03</p><p class="t">Approvals &amp; locates</p><p>RDRC or HOA packet, permit check, and Texas 811.</p></div>
       <div class="fx-step"><p class="n">04</p><p class="t">Build day</p><p>Layout, tear-out, posts, panels, gates, and cleanup.</p></div>
       <div class="fx-step"><p class="n">05</p><p class="t">Walkthrough</p><p>We test every gate with you and fix anything that's off.</p></div>
@@ -26,7 +26,7 @@ cta_text: Call or text (713) 331-9385, or book online. We'll check the rules for
   <div class="fx-container fx-prose fx-narrow">
     <h2>Steps 1 and 2: the estimate</h2>
     <p>Your address tells us a lot: whether you're inside The Woodlands, the City of Houston, the City of Humble, or unincorporated Harris or Montgomery County; whether an HOA is involved; and whether the lot is near a creek or in a mapped flood zone. Photos and a rough length help us arrive prepared.</p>
-    <p>Small repairs can sometimes be priced from photos. New fences and replacements get a site visit, because footage, grade, and trees change the price. Your quote is written and itemized: footage, height, material, posts, gates and hardware, tear-out, and any clearing. See typical ranges in the <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>.</p>
+    <p>Small repairs can sometimes be priced from photos. New fences and replacements get a site visit, because footage, grade, and trees change the price. You get a written quote for the fence we talked through, including tear-out and any clearing. See typical ranges in the <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>.</p>
   </div>
 </section>
 
