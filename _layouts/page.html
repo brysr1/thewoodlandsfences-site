@@ -1,0 +1,7 @@
+---
+layout: default
+---
+{{ content }}
+{%- if page.faq %}{% include faq.html items=page.faq title=page.faq_title %}{%- endif %}
+{%- if page.testimonials %}{% include testimonials.html %}{%- endif %}
+{%- unless page.no_cta %}{% include cta.html heading=page.cta_heading text=page.cta_text %}{%- endunless %}

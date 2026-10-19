@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+{%- include head.html -%}
+<body class="{% if page.url == '/' %}is-home{% endif %}">
+<a class="fx-skip" href="#main">Skip to content</a>
+{%- include header.html -%}
+<main id="main">
+{{ content }}
+</main>
+{%- include footer.html -%}
+</body>
+</html>
