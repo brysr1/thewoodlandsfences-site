@@ -1,5 +1,5 @@
 ---
-title: "Farm & Ranch Fences | 76 Fence of The Woodlands"
+title: "Farm & Ranch Fences"
 description: "Board, pipe, and wire fencing for acreage in Porter, Splendora, Huffman, and beyond. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/farm-ranch/
 faq:

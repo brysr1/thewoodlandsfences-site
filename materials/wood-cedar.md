@@ -1,5 +1,5 @@
 ---
-title: "Wood & Cedar Fences | 76 Fence of The Woodlands"
+title: "Wood & Cedar Fences"
 description: "The most common privacy fence from The Woodlands to Lake Houston, built to last in heat and humidity. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/wood-cedar/
 faq:

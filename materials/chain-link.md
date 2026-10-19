@@ -1,5 +1,5 @@
 ---
-title: "Chain Link Fences | 76 Fence of The Woodlands"
+title: "Chain Link Fences"
 description: "Tough, affordable fencing for dog runs, acreage, and commercial yards. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/chain-link/
 faq:

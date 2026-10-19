@@ -1,5 +1,5 @@
 ---
-title: "Ornamental Steel & Aluminum Fences | 76 Fence of The Woodlands"
+title: "Ornamental Steel & Aluminum Fences"
 description: "See-through fencing for pools, golf courses, lakes, and front yards. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/ornamental-steel-aluminum/
 faq:

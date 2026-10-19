@@ -1,5 +1,5 @@
 ---
-title: "Vinyl Fences | 76 Fence of The Woodlands"
+title: "Vinyl Fences"
 description: "Privacy and rail fences with no staining, no rot, and an easy rinse when the pollen comes. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/vinyl/
 faq:

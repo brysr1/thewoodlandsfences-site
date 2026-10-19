@@ -1,5 +1,5 @@
 ---
-title: "Composite & Trex Fences | 76 Fence of The Woodlands"
+title: "Composite & Trex Fences"
 description: "The look of wood without the sanding, staining, or rot. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/composite-trex/
 faq:
