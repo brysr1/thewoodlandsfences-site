@@ -1,12 +1,21 @@
 /* ==========================================================
-   76 Fence of The Woodlands
-   Design system matched to northhoustonfence.com:
-   navy #20396C, ink #101c38, red #E22C37, cream #F7F4EE,
-   muted #4a5474, pale #C7CEDD, pink-on-dark #FF9AA2.
-   Headings: DM Serif Display. Body: Inter.
+   76 Fence of The Woodlands: "Forest editorial"
+   Core 76 Fence brand: navy #20396C, ink #101c38, red #E22C37,
+   DM Serif Display + Inter, 76 logo, trust items, HGTV strip.
+   Woodlands-only layer: forest green, paper and sage grounds,
+   split heroes, numbered sections, picket-rule dividers,
+   squarer corners, editorial reviews and FAQ.
    ========================================================== */
 
 :root {
+  --forest: #1F3D2B;
+  --forest-2: #2C5A3F;
+  --forest-ink: #14261B;
+  --sage: #EDF1EA;
+  --paper: #F6F2E9;
+  --wheat: #E9CFA8;
+  --wood: #A9744C;
+  --wood-dark: #7E5434;
   --navy: #20396C;
   --ink: #101c38;
   --red: #E22C37;
@@ -116,7 +125,7 @@ ul, ol { padding-left: 1.2em; }
 .fx-hgtv-show { color: var(--ink); }
 .fx-hgtv-strip a { color: var(--red); font-weight: 700; }
 
-@media (max-width: 1340px) {
+@media (max-width: 1440px) {
   .fx-header-phone span { display: none; }
 }
 @media (max-width: 1200px) {
@@ -140,23 +149,37 @@ ul, ol { padding-left: 1.2em; }
   .fx-container { padding: 0 18px; }
 }
 
-/* ---------- Hero / cover ---------- */
-.fx-hero { position: relative; min-height: 620px; display: flex; align-items: center; color: #fff; overflow: hidden; }
-.fx-hero-small { min-height: 440px; }
+/* ---------- Split editorial hero ---------- */
+.fx-hero { display: grid; grid-template-columns: minmax(0, 1.05fr) minmax(0, .95fr); min-height: 600px; background: var(--paper); }
+.fx-hero-small { min-height: 420px; }
+.fx-hero-text { display: flex; align-items: center; justify-content: flex-end; }
+.fx-hero-in { width: 100%; max-width: 640px; padding: 72px 56px 72px 28px; }
+.fx-hero-eyebrow { margin: 0 0 18px; font-size: 13px; font-weight: 700; letter-spacing: 2.4px; text-transform: uppercase; color: var(--forest-2); display: flex; align-items: center; gap: 12px; }
+.fx-hero-eyebrow::before { content: ""; width: 34px; height: 2px; background: var(--red); flex: none; }
+.fx-hero h1 { color: var(--navy); font-size: clamp(2.4rem, 4.6vw, 3.7rem); line-height: 1.06; letter-spacing: -.01em; }
+.fx-hero-small h1 { font-size: clamp(2.1rem, 3.8vw, 3rem); }
+.fx-hero-lede { font-size: 1.12rem; color: var(--muted); max-width: 520px; }
+.fx-hero-media { position: relative; margin: 0; min-height: 320px; }
+.fx-hero-media::before { content: ""; position: absolute; left: -18px; top: 40px; bottom: 40px; width: 18px; background: var(--forest); z-index: 1; }
 .fx-hero-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-.fx-hero-shade { position: absolute; inset: 0; background: linear-gradient(90deg, rgba(10, 18, 38, .62) 0%, rgba(10, 18, 38, .32) 45%, rgba(10, 18, 38, .1) 100%), linear-gradient(rgba(10, 18, 38, .35) 0%, rgba(10, 18, 38, .5) 100%); }
-.fx-hero-in { position: relative; z-index: 1; width: 100%; padding-top: 70px; padding-bottom: 110px; }
-.fx-hero h1 { color: #fff; max-width: 760px; }
-.fx-hero-lede { font-size: 1.15rem; max-width: 600px; color: #fff; }
+@media (max-width: 860px) {
+  .fx-hero, .fx-hero-small { grid-template-columns: 1fr; min-height: 0; }
+  .fx-hero-media { order: -1; aspect-ratio: 16 / 10; min-height: 0; }
+  .fx-hero-media::before { display: none; }
+  .fx-hero-text { justify-content: flex-start; }
+  .fx-hero-in { padding: 34px 18px 40px; max-width: none; }
+}
 
-/* ---------- Floating trust card ---------- */
-.fx-trust-card { position: relative; z-index: 2; margin: -56px auto 0; background: #fff; border-radius: var(--radius); box-shadow: var(--shadow-lg); padding: 24px 28px; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px 36px; }
-.fx-trust-card .item { display: flex; align-items: center; gap: 10px; font-weight: 600; color: var(--ink); font-size: 14px; line-height: 1.25; white-space: nowrap; }
-.fx-trust-card .item a { color: var(--ink); text-decoration: none; }
-.fx-trust-card .item a:hover { color: var(--red); }
-.fx-trust-card .item svg { flex: none; width: 24px; height: 24px; color: var(--red); }
-@media (max-width: 900px) { .fx-trust-card { margin: -48px 0 0; gap: 18px 28px; } }
-@media (max-width: 640px) { .fx-trust-card { flex-direction: column; align-items: flex-start; margin: -40px 0 0; padding: 22px; gap: 16px; } .fx-trust-card .item { white-space: normal; } }
+/* ---------- Trust strip ---------- */
+.fx-trust-strip { background: var(--forest); color: #fff; }
+.fx-trust-card { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 14px 28px; padding-top: 18px; padding-bottom: 18px; }
+.fx-trust-card .item { display: flex; align-items: center; gap: 10px; font-weight: 600; color: #fff; font-size: 14px; line-height: 1.25; white-space: nowrap; }
+.fx-trust-card .item a { color: #fff; text-decoration: none; }
+.fx-trust-card .item a:hover { color: var(--wheat); }
+.fx-trust-card .item svg { flex: none; width: 22px; height: 22px; color: var(--wheat); }
+.fx-trust-strip::after { content: ""; display: block; height: 10px; background: repeating-linear-gradient(90deg, var(--wood) 0 42px, var(--wood-dark) 42px 45px); }
+@media (max-width: 900px) { .fx-trust-card { justify-content: flex-start; } }
+@media (max-width: 640px) { .fx-trust-card { display: grid; grid-template-columns: 1fr 1fr; } .fx-trust-card .item { white-space: normal; } }
 
 /* ---------- Tiles ("What We Build") ---------- */
 .fx-build-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 24px; margin-top: 28px; }
@@ -314,3 +337,110 @@ ul, ol { padding-left: 1.2em; }
 
 /* ---------- HGTV page ---------- */
 .fx-episode img { width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover; }
+
+/* ==========================================================
+   Forest editorial layer (Woodlands-only look)
+   ========================================================== */
+:root { --radius: 6px; --shadow: none; }
+
+/* Header: forest top rule, sage HGTV strip */
+.fx-header { border-top: 4px solid var(--forest); }
+.fx-hgtv-strip { background: var(--sage); border-bottom: 0; }
+.fx-sub { border-radius: 6px; border-top: 3px solid var(--forest); }
+.fx-sub a:hover, .fx-sub a[aria-current] { background: var(--sage); }
+.fx-burger { border-radius: 6px; }
+
+/* Grounds */
+.fx-band { padding: 76px 0; }
+.fx-band-alt { background: var(--sage); }
+.fx-band-dark { background: var(--forest); }
+.fx-band-dark p { color: #d5e0d4; }
+.fx-band-dark .fx-eyebrow .label, .fx-band-dark .fx-eyebrow::before { color: var(--wheat); }
+.fx-cta { background: var(--navy); position: relative; padding: 70px 0 64px; }
+.fx-cta::before { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 10px; background: repeating-linear-gradient(90deg, var(--wood) 0 42px, var(--wood-dark) 42px 45px); }
+.fx-cta p { color: var(--pale); }
+
+/* Headings */
+h2 { font-size: clamp(1.9rem, 3.5vw, 2.7rem); letter-spacing: -.005em; }
+.fx-band h2 { max-width: 820px; }
+.fx-center h2 { margin-left: auto; margin-right: auto; }
+
+/* Numbered section eyebrows: 01 ---- LABEL */
+main { counter-reset: fxsec; }
+.fx-eyebrow { gap: 14px; margin-bottom: 14px; }
+.fx-eyebrow::before { counter-increment: fxsec; content: counter(fxsec, decimal-leading-zero); font-family: var(--serif); font-size: 26px; letter-spacing: 0; color: var(--forest-2); font-weight: 400; line-height: 1; }
+.fx-eyebrow .rule { width: 40px; height: 1px; background: currentColor; color: var(--forest-2); opacity: .6; }
+.fx-eyebrow .label { color: var(--forest-2); }
+.fx-band-alt .fx-eyebrow .label { color: var(--forest); }
+
+/* Buttons: squarer, outline variants in forest */
+.fx-btn { border-radius: 6px; }
+.fx-btn-line { border-color: var(--navy); color: var(--navy); background: transparent; }
+.fx-btn-line:hover { background: var(--navy); color: #fff; }
+.fx-btn-outline { border-radius: 6px; border-color: var(--forest); color: var(--forest); }
+.fx-btn-outline:hover { background: var(--forest); color: #fff; }
+.fx-nav-mobile-cta .fx-btn-outline { border-radius: 6px; }
+
+/* Tiles and cards: flat, hairline, forest top rule */
+.fx-tile, .fx-material-card, .fx-card { border: 1px solid #dfe5dc; box-shadow: none; }
+.fx-band-alt .fx-tile, .fx-band-alt .fx-material-card, .fx-band-alt .fx-card { border-color: #d6ddd2; box-shadow: none; }
+.fx-tile:hover, .fx-material-card:hover { box-shadow: 0 14px 30px rgba(20, 38, 27, .12); transform: translateY(-2px); }
+.fx-tile, .fx-material-card { transition: transform .15s ease, box-shadow .15s ease; }
+.fx-tile .tx h3 { font-family: var(--serif); font-weight: 400; font-size: 21px; color: var(--navy); }
+.fx-card { border-top: 3px solid var(--forest); }
+.fx-card h3 { color: var(--navy); }
+.fx-tile .tx .more, .fx-card a.more, .fx-material-card a.learn { color: var(--forest-2); }
+.fx-tile .tx .more::after, .fx-card a.more::after { content: ""; }
+
+/* Checklist: forest checks */
+.fx-checklist li::before { background-color: var(--forest-2); }
+
+/* Photo callout: offset forest frame + forest stat */
+.fx-photo-callout { overflow: visible; }
+.fx-photo-callout img { border-radius: 6px; position: relative; z-index: 1; }
+.fx-photo-callout::before { content: ""; position: absolute; right: -14px; bottom: -14px; width: 60%; height: 60%; background: var(--forest); border-radius: 6px; z-index: 0; }
+.fx-photo-callout .stat { z-index: 2; background: var(--forest); border-radius: 4px; box-shadow: none; }
+.fx-photo-callout .stat .num { color: #fff; }
+.fx-photo-callout .stat .lbl { color: var(--wheat); }
+@media (max-width: 820px) { .fx-photo-callout::before { right: -8px; bottom: -8px; } }
+
+/* Steps on forest */
+.fx-step { border-radius: 6px; border-color: rgba(255, 255, 255, .16); }
+.fx-step .n { color: var(--wheat); font-size: 34px; }
+.fx-step p { color: #cfdbcf; }
+.fx-band:not(.fx-band-dark) .fx-step { box-shadow: none; border-top: 3px solid var(--forest); }
+.fx-band:not(.fx-band-dark) .fx-step .n { color: var(--forest-2); }
+
+/* Service-area grid: ruled columns */
+.fx-area-grid > div { border-top: 2px solid var(--forest); padding-top: 14px; }
+.fx-area-grid h3 a:hover { color: var(--forest-2); }
+
+/* Rule box, tables, forms */
+.fx-rule-box { border-left-color: var(--forest); border-radius: 0 6px 6px 0; border: 1px solid #dfe5dc; border-left: 4px solid var(--forest); }
+.fx-table { border-radius: 6px; box-shadow: none; border: 1px solid #dfe5dc; }
+.fx-table th { background: var(--forest); }
+.fx-form { border: 1px solid #dfe5dc; border-top: 4px solid var(--forest); }
+.fx-form input, .fx-form textarea, .fx-form select { border-radius: 6px; }
+.fx-map { box-shadow: none; border: 1px solid #dfe5dc; }
+
+/* FAQ: editorial ruled list */
+.fx-faq { gap: 0; border-top: 2px solid var(--forest); }
+.fx-faq details, .fx-band-alt .fx-faq details { background: transparent; border: 0; border-bottom: 1px solid #d6ddd2; border-radius: 0; padding: 0 4px; }
+.fx-faq summary { font-family: var(--serif); font-weight: 400; font-size: 21px; color: var(--navy); padding: 22px 40px 22px 0; }
+.fx-faq summary::after { color: var(--forest-2); top: 18px; }
+
+/* Reviews: pull quotes */
+.fx-reviews { background: var(--paper); }
+.fx-review-grid { gap: 28px 34px; }
+.fx-review { background: transparent; box-shadow: none; border-radius: 0; border-left: 3px solid var(--forest); padding: 4px 0 4px 24px; }
+.fx-review blockquote p { font-family: var(--serif); font-size: 20px; line-height: 1.4; color: var(--navy); }
+.fx-stars { color: var(--red); font-size: 15px; }
+.fx-review figcaption strong { color: var(--forest); }
+
+/* Footer: deep forest */
+.fx-footer { background: var(--forest-ink); color: #c9d6c9; }
+.fx-footer a:hover { color: var(--wheat); }
+.fx-footer-bottom { border-top-color: rgba(255, 255, 255, .14); }
+.fx-dock a { border-radius: 6px; }
+.fx-dock a + a { background: var(--forest); }
+.fx-role { color: var(--forest-2); }
