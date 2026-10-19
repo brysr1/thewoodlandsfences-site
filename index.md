@@ -58,6 +58,7 @@ faq:
       <div>
         <p>North of Houston, the rules for a fence change from one street to the next. A lot in The Woodlands answers to the Township's Residential Development Standards. Kingwood sits inside the City of Houston. Much of Spring, Atascocita, and Huffman is unincorporated Harris County, where floodplain maps decide whether you need a permit. We figure out which rules apply to your address first, so the fence you choose is one you can actually build.</p>
         <ul class="fx-checklist">
+          <li><span><b>The same person from estimate to install.</b> Whoever walks your fence line is on site for the build, making sure it goes the way you planned.</span></li>
           <li><span><b>Approval packets done for you.</b> Drawings, heights, materials, and stain details for your RDRC, HOA, or POA.</span></li>
           <li><span><b>Trees protected.</b> Fence lines laid out around trunks and roots, never fastened to a tree.</span></li>
           <li><span><b>811 locates on every job.</b> Gas, water, and fiber lines get marked before we dig.</span></li>
