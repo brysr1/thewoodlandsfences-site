@@ -25,10 +25,10 @@ faq:
     <p class="fx-lead">A village lot backing to a Woodlands greenbelt, a wooded acre in Porter, and a warehouse yard off I-45 each need a different fence. We plan around the lot, the rules that apply to it, and how you'll use it.</p>
     <div class="fx-build-grid">
       <a class="fx-tile" href="{{ '/residential-fencing/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/cedar-privacy-backyard.jpg' | relative_url }}" alt="New cedar privacy fence around a backyard" loading="lazy"></div><div class="tx"><h3>Residential Fencing</h3><p>Privacy, picket, pool, and dog fences, plus replacements for tired builder fences.</p><span class="more">Learn more &rarr;</span></div></a>
-      <a class="fx-tile" href="{{ '/commercial-fencing/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/drive-gate-steel.jpg' | relative_url }}" alt="New steel drive gate between brick columns" loading="lazy"></div><div class="tx"><h3>Commercial Fencing</h3><p>Storefronts, offices, churches, and retail lots that need a clean, secure perimeter.</p><span class="more">Learn more &rarr;</span></div></a>
-      <a class="fx-tile" href="{{ '/industrial-fencing/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/chain-link-galvanized.jpg' | relative_url }}" alt="New galvanized chain link fence line" loading="lazy"></div><div class="tx"><h3>Industrial Fencing</h3><p>Heavy chain link, steel, and controlled gates for yards, warehouses, and job sites.</p><span class="more">Learn more &rarr;</span></div></a>
+      <a class="fx-tile" href="{{ '/commercial-fencing/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/commercial-steel-enclosure.jpg' | relative_url }}" alt="Black steel fence enclosing rooftop mechanical equipment at a commercial building" loading="lazy"></div><div class="tx"><h3>Commercial Fencing</h3><p>Storefronts, offices, churches, and retail lots that need a clean, secure perimeter.</p><span class="more">Learn more &rarr;</span></div></a>
+      <a class="fx-tile" href="{{ '/industrial-fencing/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/industrial-welded-mesh.jpg' | relative_url }}" alt="Welded wire mesh security fence along a warehouse" loading="lazy"></div><div class="tx"><h3>Industrial Fencing</h3><p>Heavy chain link, steel, and controlled gates for yards, warehouses, and job sites.</p><span class="more">Learn more &rarr;</span></div></a>
       <a class="fx-tile" href="{{ '/hoa-fencing/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/shadowbox-side-yard.jpg' | relative_url }}" alt="New shadowbox cedar fence along a side yard" loading="lazy"></div><div class="tx"><h3>HOA &amp; Community</h3><p>Covenant-compliant homeowner fences and community perimeter, entry, and amenity fencing.</p><span class="more">Learn more &rarr;</span></div></a>
-      <a class="fx-tile" href="{{ '/maintenance-repair/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/fence-build-drill.jpg' | relative_url }}" alt="Fence installer fastening a new cedar fence section" loading="lazy"></div><div class="tx"><h3>Maintenance &amp; Repair</h3><p>Leaning posts, storm damage, sagging gates, staining, and honest repair-or-replace advice.</p><span class="more">Learn more &rarr;</span></div></a>
+      <a class="fx-tile" href="{{ '/maintenance-repair/' | relative_url }}"><div class="ph"><img src="{{ '/assets/images/fences/fence-stain-sprayer.jpg' | relative_url }}" alt="Worker spraying stain onto a weathered wood fence" loading="lazy"></div><div class="tx"><h3>Maintenance &amp; Repair</h3><p>Leaning posts, storm damage, sagging gates, staining, and honest repair-or-replace advice.</p><span class="more">Learn more &rarr;</span></div></a>
     </div>
   </div>
 </section>
@@ -62,7 +62,6 @@ faq:
           <li><span><b>Trees protected.</b> Fence lines laid out around trunks and roots, never fastened to a tree.</span></li>
           <li><span><b>811 locates on every job.</b> Gas, water, and fiber lines get marked before we dig.</span></li>
           <li><span><b>Posts set for the ground you have.</b> Depth and concrete matched to clay, sand, and wet spots near the creeks.</span></li>
-          <li><span><b>A written, itemized quote.</b> Footage, posts, gates, and tear-out spelled out, with no lump sums.</span></li>
         </ul>
         <a class="fx-btn fx-btn-navy" href="{{ '/about/' | relative_url }}">Meet the team</a>
       </div>
@@ -88,7 +87,7 @@ faq:
     <p>Five steps, with one point of contact the whole way through.</p>
     <div class="fx-steps">
       <div class="fx-step"><p class="n">01</p><p class="t">Request an estimate</p><p>Call, text, or book online. Send your address and a few photos if you have them.</p></div>
-      <div class="fx-step"><p class="n">02</p><p class="t">Walk the line</p><p>We measure, note trees, slope, and drainage, and send an itemized quote.</p></div>
+      <div class="fx-step"><p class="n">02</p><p class="t">Walk the line</p><p>We measure, note trees, slope, and drainage, and send a written quote.</p></div>
       <div class="fx-step"><p class="n">03</p><p class="t">Approvals &amp; 811</p><p>RDRC or HOA packet, any permit check, and utility locates.</p></div>
       <div class="fx-step"><p class="n">04</p><p class="t">Build day</p><p>Old fence out, posts set, fence and gates built. Most homes take a day or two.</p></div>
       <div class="fx-step"><p class="n">05</p><p class="t">Walkthrough</p><p>We swing every gate with you and fix anything that's off.</p></div>

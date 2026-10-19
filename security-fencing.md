@@ -4,7 +4,7 @@ description: Security fencing, metal cages, and access-controlled gates for busi
 permalink: /security-fencing/
 ---
 
-{% include hero.html small=true eyebrow="Security fencing" title="Keep people out and equipment in" lede="Perimeters, cages, and gates sized to the risk at your site." image="/assets/images/fences/drive-gate-steel.jpg" alt="Steel security drive gate" %}
+{% include hero.html small=true eyebrow="Security fencing" title="Keep people out and equipment in" lede="Perimeters, cages, and gates sized to the risk at your site." image="/assets/images/fences/industrial-welded-mesh.jpg" alt="Welded wire mesh security fence along a warehouse" %}
 
 <section class="fx-band">
   <div class="fx-container">

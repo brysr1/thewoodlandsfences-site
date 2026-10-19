@@ -6,7 +6,7 @@ cta_heading: Start with a site visit
 cta_text: Call or text (713) 331-9385, or book online. We'll check the rules for your address before you pick a fence.
 ---
 
-{% include hero.html small=true eyebrow="Our process" title="How your fence project will go" lede="Five steps from first call to finished fence, with approvals sorted out before any post goes in." image="/assets/images/fences/fence-build-drill.jpg" alt="Installer fastening a new cedar fence section" %}
+{% include hero.html small=true eyebrow="Our process" title="How your fence project will go" lede="Five steps from first call to finished fence, with approvals sorted out before any post goes in." image="/assets/images/fences/board-on-board.jpg" alt="Stained board-on-board cedar fence" %}
 
 <section class="fx-band fx-band-dark">
   <div class="fx-container">

@@ -11,7 +11,7 @@ faq:
     a: If a few posts or sections are bad and the rest is sound, repair. If posts are failing along much of the line or rot is widespread, replacement usually costs less over time. We'll tell you which.
 ---
 
-{% include hero.html small=true eyebrow="Maintenance & repair" title="Fix it right, or tell you when it's time" lede="Leaning posts, storm damage, broken pickets, and gates that won't latch." image="/assets/images/fences/fence-build-drill.jpg" alt="Installer fastening a new fence section" %}
+{% include hero.html small=true eyebrow="Maintenance & repair" title="Fix it right, or tell you when it's time" lede="Leaning posts, storm damage, broken pickets, and gates that won't latch." image="/assets/images/fences/fence-stain-sprayer.jpg" alt="Worker spraying stain onto a weathered wood fence" %}
 
 <section class="fx-band">
   <div class="fx-container">

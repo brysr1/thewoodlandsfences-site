@@ -4,7 +4,7 @@ description: Commercial fencing for offices, retail, churches, schools, and prop
 permalink: /commercial-fencing/
 ---
 
-{% include hero.html small=true eyebrow="Commercial fencing" title="Commercial fences that look right and hold up" lede="Perimeters, gates, and screening for businesses and organizations across the north Houston suburbs." image="/assets/images/fences/drive-gate-steel.jpg" alt="Steel drive gate between brick columns" %}
+{% include hero.html small=true eyebrow="Commercial fencing" title="Commercial fences that look right and hold up" lede="Perimeters, gates, and screening for businesses and organizations across the north Houston suburbs." image="/assets/images/fences/commercial-steel-enclosure.jpg" alt="Black steel fence enclosing rooftop mechanical equipment at a commercial building" %}
 
 <section class="fx-band">
   <div class="fx-container">

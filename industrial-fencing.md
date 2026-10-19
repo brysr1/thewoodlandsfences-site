@@ -4,7 +4,7 @@ description: "Industrial fencing along the I-45, I-69, and Grand Parkway corrido
 permalink: /industrial-fencing/
 ---
 
-{% include hero.html small=true eyebrow="Industrial fencing" title="Perimeters for yards, warehouses, and job sites" lede="Heavy-duty fencing and gates for the industrial and logistics sites along I-45, I-69, and the Grand Parkway." image="/assets/images/fences/chain-link-galvanized.jpg" alt="Galvanized chain link fence line" %}
+{% include hero.html small=true eyebrow="Industrial fencing" title="Perimeters for yards, warehouses, and job sites" lede="Heavy-duty fencing and gates for the industrial and logistics sites along I-45, I-69, and the Grand Parkway." image="/assets/images/fences/industrial-welded-mesh.jpg" alt="Welded wire mesh security fence along a warehouse" %}
 
 <section class="fx-band">
   <div class="fx-container">
