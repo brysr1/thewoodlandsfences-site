@@ -60,7 +60,6 @@ faq:
         <ul class="fx-checklist">
           <li><span><b>The same person from estimate to install.</b> Whoever walks your fence line is on site for the build, making sure it goes the way you planned.</span></li>
           <li><span><b>Approval packets done for you.</b> Drawings, heights, materials, and stain details for your RDRC, HOA, or POA.</span></li>
-          <li><span><b>Trees protected.</b> Fence lines laid out around trunks and roots, never fastened to a tree.</span></li>
           <li><span><b>811 locates on every job.</b> Gas, water, and fiber lines get marked before we dig.</span></li>
           <li><span><b>Posts set for the ground you have.</b> Depth and concrete matched to clay, sand, and wet spots near the creeks.</span></li>
         </ul>
