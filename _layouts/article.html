@@ -1,0 +1,51 @@
+---
+layout: default
+---
+{%- comment -%}
+Resources article. Front matter: title, description, permalink (/resources/<slug>/), kind: article,
+date, headline, lede, read (minutes), topic, image, alt, related (list of URLs), faq (list of q/a).
+{%- endcomment -%}
+<section class="fx-art-hero">
+  <div class="fx-container fx-art-hero-in{% unless page.image %} solo{% endunless %}">
+    <div>
+      <p class="fx-crumbs"><a href="{{ '/' | relative_url }}">Home</a> / <a href="{{ '/resources/' | relative_url }}">Resources</a></p>
+      <p class="fx-hero-eyebrow">{{ page.topic | default: "Resources" }}{% if page.read %} &middot; {{ page.read }} min read{% endif %}</p>
+      <h1>{{ page.headline | default: page.title }}</h1>
+      {%- if page.lede %}<p class="fx-hero-lede">{{ page.lede }}</p>{% endif %}
+      <p class="fx-art-meta">By the 76 Fence of The Woodlands team &middot; <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+    </div>
+    {%- if page.image %}
+    <figure class="fx-art-media"><img src="{{ page.image | relative_url }}" alt="{{ page.alt }}" fetchpriority="high"></figure>
+    {%- endif %}
+  </div>
+</section>
+{% include trust.html %}
+
+<article class="fx-band">
+  <div class="fx-container fx-prose fx-article">
+{{ content }}
+  </div>
+</article>
+
+{%- if page.related %}
+<section class="fx-band fx-band-alt">
+  <div class="fx-container">
+    {% include eyebrow.html text="Keep reading" %}
+    <h2>Related pages</h2>
+    <div class="fx-cards">
+      {%- for r in page.related %}
+      {%- assign rp = site.pages | where: "url", r | first %}
+      {%- if rp %}
+      <div class="fx-card"><h3><a href="{{ rp.url | relative_url }}">{{ rp.headline | default: rp.title }}</a></h3>{% if rp.lede %}<p>{{ rp.lede }}</p>{% elsif rp.description %}<p>{{ rp.description | truncate: 140 }}</p>{% endif %}<a class="more" href="{{ rp.url | relative_url }}">Read more &rarr;</a></div>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+
+{%- if page.faq %}{% include faq.html items=page.faq title="Quick answers" %}{%- endif %}
+{% include cta.html heading=page.cta_heading text=page.cta_text %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ page.headline | default: page.title | jsonify }},"description":{{ page.description | jsonify }},"datePublished":"{{ page.date | date: '%Y-%m-%d' }}","dateModified":"{{ page.last_modified | default: page.date | date: '%Y-%m-%d' }}","mainEntityOfPage":"{{ page.url | absolute_url }}",{% if page.image %}"image":"{{ page.image | absolute_url }}",{% endif %}"author":{"@type":"Organization","name":"76 Fence of The Woodlands","url":"{{ '/' | absolute_url }}"},"publisher":{"@type":"Organization","name":"76 Fence of The Woodlands","logo":{"@type":"ImageObject","url":"{{ '/assets/images/logo-76-fence.png' | absolute_url }}"}}}
+</script>
