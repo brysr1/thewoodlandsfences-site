@@ -18,7 +18,7 @@ faq:
       <ul class="fx-checklist">
         <li><span><b>Self-closing, self-latching</b> gates.</span></li>
         <li><span><b>Code spacing</b> and height.</span></li>
-        <li><span><b>Powder-coated steel</b> as standard, with aluminum or glass-look on request.</span></li>
+        <li><span><b>Powder-coated steel</b> as standard, with aluminum on request.</span></li>
       </ul>
     </div>
     <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/walk-gate-aluminum.jpg' | relative_url }}" alt="Black metal pool gate" loading="lazy"></figure>
