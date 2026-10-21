@@ -1,0 +1,55 @@
+# Neighborhood pages grouped by hub town page. Used by _layouts/neighborhood.html and _includes/nbhd-list.html
+- hub: the-woodlands
+  title: "The Woodlands"
+  url: /service-areas/the-woodlands/
+  items:
+    - { title: "Alden Bridge", url: /neighborhoods/alden-bridge/ }
+    - { title: "Cochran's Crossing", url: /neighborhoods/cochrans-crossing/ }
+    - { title: "College Park", url: /neighborhoods/college-park/ }
+    - { title: "Creekside Park", url: /neighborhoods/creekside-park/ }
+    - { title: "Grogan's Mill", url: /neighborhoods/grogans-mill/ }
+    - { title: "Indian Springs", url: /neighborhoods/indian-springs/ }
+    - { title: "Panther Creek", url: /neighborhoods/panther-creek/ }
+    - { title: "Sterling Ridge", url: /neighborhoods/sterling-ridge/ }
+- hub: spring-tx
+  title: "Spring"
+  url: /service-areas/spring-tx/
+  items:
+    - { title: "Augusta Pines", url: /neighborhoods/augusta-pines/ }
+    - { title: "Gleannloch Farms", url: /neighborhoods/gleannloch-farms/ }
+    - { title: "Spring Trails", url: /neighborhoods/spring-trails/ }
+    - { title: "Woodson's Reserve", url: /neighborhoods/woodsons-reserve/ }
+- hub: kingwood
+  title: "Kingwood"
+  url: /service-areas/kingwood/
+  items:
+    - { title: "Bear Branch", url: /neighborhoods/bear-branch/ }
+    - { title: "Elm Grove", url: /neighborhoods/elm-grove/ }
+    - { title: "Fosters Mill", url: /neighborhoods/fosters-mill/ }
+    - { title: "Kings Point", url: /neighborhoods/kings-point/ }
+- hub: atascocita
+  title: "Atascocita"
+  url: /service-areas/atascocita/
+  items:
+    - { title: "Eagle Springs", url: /neighborhoods/eagle-springs/ }
+    - { title: "Villages at Tour 18", url: /neighborhoods/villages-at-tour-18/ }
+    - { title: "Walden on Lake Houston", url: /neighborhoods/walden-on-lake-houston/ }
+- hub: humble-tx
+  title: "Humble"
+  url: /service-areas/humble-tx/
+  items:
+    - { title: "Fall Creek", url: /neighborhoods/fall-creek/ }
+    - { title: "Lakeshore", url: /neighborhoods/lakeshore/ }
+- hub: huffman-tx
+  title: "Huffman"
+  url: /service-areas/huffman-tx/
+  items:
+    - { title: "The Commons of Lake Houston", url: /neighborhoods/commons-of-lake-houston/ }
+- hub: porter-new-caney-splendora
+  title: "Porter, New Caney & Splendora"
+  url: /service-areas/porter-new-caney-splendora/
+  items:
+    - { title: "The Highlands", url: /neighborhoods/the-highlands-porter/ }
+    - { title: "Oakhurst at Kingwood", url: /neighborhoods/oakhurst-at-kingwood/ }
+    - { title: "Valley Ranch", url: /neighborhoods/valley-ranch/ }
+    - { title: "Woodridge Forest", url: /neighborhoods/woodridge-forest/ }
