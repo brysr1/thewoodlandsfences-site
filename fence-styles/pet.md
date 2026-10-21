@@ -28,7 +28,7 @@ permalink: /fence-styles/pet/
     <h2>Choices to make</h2>
     <div class="fx-cards">
       <div class="fx-card"><h3>Wood privacy</h3><p>Blocks the view that sets off barking.</p></div>
-      <div class="fx-card"><h3>Aluminum with puppy pickets</h3><p>Tight spacing at the bottom.</p></div>
+      <div class="fx-card"><h3>Steel with puppy pickets</h3><p>Tight spacing at the bottom.</p></div>
       <div class="fx-card"><h3>Chain link dog runs</h3><p>Where your rules allow it.</p></div>
     </div>
     <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/fence-styles/privacy/' | relative_url }}">Privacy fences</a> · <a href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></p>

@@ -7,7 +7,7 @@ faq:
     a: "Yes. Pool barrier fences and gates need approval and a code inspection."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Pool enclosures" lede="Code-compliant pool barriers with self-closing, self-latching gates." image="/assets/images/fences/walk-gate-aluminum.jpg" alt="Aluminum walk gate" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Pool enclosures" lede="Code-compliant pool barriers with self-closing, self-latching gates." image="/assets/images/fences/walk-gate-aluminum.jpg" alt="Black metal pool gate" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
@@ -18,10 +18,10 @@ faq:
       <ul class="fx-checklist">
         <li><span><b>Self-closing, self-latching</b> gates.</span></li>
         <li><span><b>Code spacing</b> and height.</span></li>
-        <li><span><b>Aluminum, steel, or glass-look</b> options.</span></li>
+        <li><span><b>Powder-coated steel</b> as standard, with aluminum or glass-look on request.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/walk-gate-aluminum.jpg' | relative_url }}" alt="Aluminum walk gate" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/walk-gate-aluminum.jpg' | relative_url }}" alt="Black metal pool gate" loading="lazy"></figure>
   </div>
 </section>
 
@@ -30,7 +30,7 @@ faq:
     {% include eyebrow.html text="Options" %}
     <h2>Choices to make</h2>
     <div class="fx-cards">
-      <div class="fx-card"><h3>Aluminum pool fence</h3><p>The most common choice: rust-proof and see-through.</p></div>
+      <div class="fx-card"><h3>Steel pool fence</h3><p>The most common choice around Houston: strong, powder-coated, and see-through.</p></div>
       <div class="fx-card"><h3>Removable mesh</h3><p>Temporary barriers for families with small children.</p></div>
       <div class="fx-card"><h3>Gate hardware</h3><p>Magnetic latches mounted out of a child's reach.</p></div>
     </div>

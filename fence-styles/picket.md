@@ -11,11 +11,11 @@ permalink: /fence-styles/picket/
     <div class="fx-prose">
       {% include eyebrow.html text="Overview" %}
       <h2>Front-yard character</h2>
-      <p>Picket fences frame a front yard or garden without hiding the house. We build them in wood, aluminum, and vinyl where allowed, from classic dog-ear to French Gothic. Our HGTV crew built a white French Gothic picket fence for <em>Worst Yard on the Block</em>.</p>
+      <p>Picket fences frame a front yard or garden without hiding the house. We build them in wood, steel, and vinyl where allowed, from classic dog-ear to French Gothic. Our HGTV crew built a white French Gothic picket fence for <em>Worst Yard on the Block</em>.</p>
       <p>Front-yard placement is tightly controlled in many neighborhoods. In The Woodlands, front transparent fences must sit at least 5 feet back from the property line, and solid fences must stay 3 feet behind the front façade.</p>
       <ul class="fx-checklist">
         <li><span><b>Classic and French Gothic</b> styles.</span></li>
-        <li><span><b>Wood, aluminum, or vinyl</b> where allowed.</span></li>
+        <li><span><b>Wood, steel, or vinyl</b> where allowed.</span></li>
         <li><span><b>Placement checked</b> against front-yard rules.</span></li>
       </ul>
     </div>

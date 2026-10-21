@@ -1,10 +1,10 @@
 ---
 title: "Ornamental Fences"
-description: "Black aluminum and steel fences that secure the yard and keep the view. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
+description: "Black powder-coated steel fences that secure the yard and keep the view. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/ornamental/
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Ornamental fences" lede="Black aluminum and steel fences that secure the yard and keep the view." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black aluminum fence on a lakefront lawn" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Ornamental fences" lede="Black powder-coated steel fences that secure the yard and keep the view." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black ornamental fence on a lakefront lawn" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
@@ -14,11 +14,11 @@ permalink: /fence-styles/ornamental/
       <p>Golf courses, lakes, ponds, and greenbelts are why many of our customers bought their lots. An ornamental fence secures the yard without hiding that view, and it's often the only option allowed on those lots.</p>
       <ul class="fx-checklist">
         <li><span><b>Required on many</b> golf and lake lots.</span></li>
-        <li><span><b>Aluminum or steel.</b></span></li>
+        <li><span><b>Powder-coated steel</b>, the Houston-area standard.</span></li>
         <li><span><b>Pool-code</b> styles available.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/aluminum-lakefront.jpg' | relative_url }}" alt="Black aluminum fence on a lakefront lawn" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/aluminum-lakefront.jpg' | relative_url }}" alt="Black ornamental fence on a lakefront lawn" loading="lazy"></figure>
   </div>
 </section>
 
