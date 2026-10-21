@@ -1,0 +1,7 @@
+{%- comment -%} Chips linking to neighborhood pages for one hub. param: hub {%- endcomment -%}
+{%- assign g = site.data.neighborhoods | where: "hub", include.hub | first -%}
+{%- if g and g.items.size > 0 %}
+<ul class="fx-chips">
+  {%- for n in g.items %}<li><a href="{{ n.url | relative_url }}">{{ n.title }}</a></li>{% endfor %}
+</ul>
+{%- endif %}

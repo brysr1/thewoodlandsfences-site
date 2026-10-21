@@ -1,0 +1,12 @@
+{%- comment -%} Facts box + map for neighborhood pages. Uses page.facts (list of k/v) and page.map_q. {%- endcomment -%}
+<aside class="fx-facts">
+  <h3>{{ page.place }} at a glance</h3>
+  <dl>
+    {%- for f in page.facts %}
+    <div><dt>{{ f.k }}</dt><dd>{{ f.v }}</dd></div>
+    {%- endfor %}
+  </dl>
+</aside>
+{%- if page.map_q %}
+<div class="fx-map"><iframe src="https://www.google.com/maps?q={{ page.map_q | url_encode }}&amp;z={{ page.map_z | default: 13 }}&amp;output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map of {{ page.place }}"></iframe></div>
+{%- endif %}
