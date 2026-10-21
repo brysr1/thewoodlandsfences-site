@@ -22,7 +22,7 @@ faq:
         <li><span><b>Check approval</b> in The Woodlands and with your HOA.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/composite-walnut.jpg' | relative_url }}" alt="Walnut-colored composite fence" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/composite-pool-gate.jpg' | relative_url }}" alt="Brown composite privacy fence with a double gate beside a backyard pool" loading="lazy"></figure>
   </div>
 </section>
 
