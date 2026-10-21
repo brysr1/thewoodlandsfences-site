@@ -2,6 +2,7 @@
 title: Our Fence Installation Process
 description: How a fence project runs with 76 Fence of The Woodlands, from the estimate and RDRC or HOA approval to permits, Texas 811, build day, and aftercare.
 permalink: /process/
+no_section_numbers: true
 cta_heading: Start with a site visit
 cta_text: Call or text (713) 331-9385, or book online. We'll check the rules for your address before you pick a fence.
 ---
