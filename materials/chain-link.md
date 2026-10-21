@@ -22,7 +22,7 @@ faq:
         <li><span><b>Restricted in The Woodlands</b> and many HOAs.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/chain-link-black.jpg' | relative_url }}" alt="Black vinyl-coated chain link fence" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/chain-link-black-retaining-wall.jpg' | relative_url }}" alt="Black vinyl-coated chain link fence and gate along a stone retaining wall" loading="lazy"></figure>
   </div>
 </section>
 
