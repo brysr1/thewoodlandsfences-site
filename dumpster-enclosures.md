@@ -4,7 +4,7 @@ description: Dumpster and equipment enclosures for restaurants, offices, retail,
 permalink: /dumpster-enclosures/
 ---
 
-{% include hero.html small=true eyebrow="Dumpster enclosures" title="Dumpster enclosures that stay square" lede="Screened, gated enclosures built for daily truck service." image="/assets/images/fences/composite-gray-patio.jpg" alt="Gray composite fence panels" %}
+{% include hero.html small=true eyebrow="Dumpster enclosures" title="Dumpster enclosures that stay square" lede="Screened, gated enclosures built for daily truck service." image="/assets/images/fences/dumpster-enclosure-composite.jpg" alt="Dark brown composite dumpster enclosure beside a commercial building" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
@@ -19,6 +19,6 @@ permalink: /dumpster-enclosures/
         <li><span><b>Design-review ready</b> for commercial standards in The Woodlands and other planned communities.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/gate-hardware.jpg' | relative_url }}" alt="Heavy-duty gate hardware" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/dumpster-enclosure-bollards.jpg' | relative_url }}" alt="Tan dumpster enclosure with double swing gates and yellow safety bollards in a parking lot" loading="lazy"></figure>
   </div>
 </section>
