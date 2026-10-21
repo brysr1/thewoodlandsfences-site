@@ -369,6 +369,7 @@ h2 { font-size: clamp(1.9rem, 3.5vw, 2.7rem); letter-spacing: -.005em; }
 main { counter-reset: fxsec; }
 .fx-eyebrow { gap: 14px; margin-bottom: 14px; }
 .fx-eyebrow::before { counter-increment: fxsec; content: counter(fxsec, decimal-leading-zero); font-family: var(--serif); font-size: 26px; letter-spacing: 0; color: var(--forest-2); font-weight: 400; line-height: 1; }
+.no-sec-num .fx-eyebrow::before { content: none; }
 .fx-eyebrow .rule { width: 40px; height: 1px; background: currentColor; color: var(--forest-2); opacity: .6; }
 .fx-eyebrow .label { color: var(--forest-2); }
 .fx-band-alt .fx-eyebrow .label { color: var(--forest); }
