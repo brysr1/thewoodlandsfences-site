@@ -480,3 +480,18 @@ main { counter-reset: fxsec; }
 .fx-feed-pager button { font: inherit; font-weight: 600; font-size: 15px; padding: 8px 16px; border-radius: 6px; border: 1px solid #d6ddd2; background: #fff; color: var(--forest); cursor: pointer; }
 .fx-feed-pager button[aria-current] { background: var(--forest); border-color: var(--forest); color: #fff; }
 @media (max-width: 680px) { .fx-feed-card { grid-template-columns: 1fr; } .fx-feed-media img { min-height: 0; aspect-ratio: 16 / 9; } }
+
+/* Neighborhood pages */
+.fx-facts { background: #fff; border: 1px solid #dfe5dc; border-top: 4px solid var(--forest); border-radius: 6px; padding: 22px 24px; }
+.fx-facts h3 { margin: 0 0 12px; font-size: 1.2rem; }
+.fx-facts dl { margin: 0; }
+.fx-facts dl > div { padding: 10px 0; border-top: 1px solid #e7ebe4; }
+.fx-facts dl > div:first-child { border-top: 0; padding-top: 0; }
+.fx-facts dt { font-size: 12px; font-weight: 700; letter-spacing: 1.4px; text-transform: uppercase; color: var(--forest-2); margin-bottom: 2px; }
+.fx-facts dd { margin: 0; color: var(--ink); font-size: 15px; line-height: 1.5; }
+.fx-chips a:hover { color: var(--forest); text-decoration: underline; }
+.fx-nbhd-label { margin: 6px 0 0; font-size: 15px; }
+.fx-nbhd-label + .fx-chips { margin-bottom: 18px; }
+.fx-nbhd-groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 28px 36px; margin-top: 10px; }
+.fx-nbhd-groups h3 { font-size: 1.15rem; margin: 0; }
+.fx-nbhd-groups h3 a { color: var(--navy); text-decoration: none; }
