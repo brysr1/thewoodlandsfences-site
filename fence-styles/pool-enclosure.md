@@ -21,7 +21,7 @@ faq:
         <li><span><b>Powder-coated steel</b> as standard, with aluminum on request.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="https://images.unsplash.com/photo-1612896018599-3ba9e85cb147?auto=format&fit=crop&w=1000&q=80" alt="Backyard pool and spa enclosed by a metal pool fence" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/steel-pool-fence-job.jpg' | relative_url }}" alt="Black steel pool fence with loop-top pickets around a backyard pool" loading="lazy"></figure>
   </div>
 </section>
 
