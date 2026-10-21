@@ -7,7 +7,7 @@ faq:
     a: "Yes. Pool barrier fences and gates need approval and a code inspection."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Pool enclosures" lede="Code-compliant pool barriers with self-closing, self-latching gates." image="/assets/images/fences/walk-gate-aluminum.jpg" alt="Black metal pool gate" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Pool enclosures" lede="Code-compliant pool barriers with self-closing, self-latching gates." image="https://images.unsplash.com/photo-1635108200867-ccb3f64d0082?auto=format&fit=crop&w=1400&q=80" alt="Backyard pool behind a black metal pool fence and gate" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
@@ -21,7 +21,7 @@ faq:
         <li><span><b>Powder-coated steel</b> as standard, with aluminum on request.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/walk-gate-aluminum.jpg' | relative_url }}" alt="Black metal pool gate" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="https://images.unsplash.com/photo-1612896018599-3ba9e85cb147?auto=format&fit=crop&w=1000&q=80" alt="Backyard pool and spa enclosed by a metal pool fence" loading="lazy"></figure>
   </div>
 </section>
 

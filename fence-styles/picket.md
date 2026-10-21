@@ -4,7 +4,7 @@ description: "Low, open fences for front yards, gardens, and curb appeal. Built 
 permalink: /fence-styles/picket/
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Picket fences" lede="Low, open fences for front yards, gardens, and curb appeal." image="/assets/images/fences/walk-gate-cedar.jpg" alt="Cedar walk gate and pickets" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Picket fences" lede="Low, open fences for front yards, gardens, and curb appeal." image="https://images.unsplash.com/photo-1720175338668-2e96d090d780?auto=format&fit=crop&w=1400&q=80" alt="Cottage-style house with a white picket fence and arbor gate" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
@@ -19,7 +19,7 @@ permalink: /fence-styles/picket/
         <li><span><b>Placement checked</b> against front-yard rules.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/walk-gate-cedar.jpg' | relative_url }}" alt="Cedar walk gate and pickets" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="https://images.unsplash.com/photo-1662083107275-1c85e31c58a4?auto=format&fit=crop&w=1000&q=80" alt="White picket fence with a flower bed and a dog sitting in the yard" loading="lazy"></figure>
   </div>
 </section>
 
