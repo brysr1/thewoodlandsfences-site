@@ -4,7 +4,7 @@ description: Meet the team behind 76 Fence of The Woodlands, based on Lake Plaza
 permalink: /about/
 ---
 
-{% include hero.html small=true eyebrow="About us" title="A local fence team you can actually reach" lede="Small on purpose. The person who walks your fence line stays with the job through the build." image="/assets/images/fences/crew-building-fence.jpg" alt="Crew building a new wood fence" %}
+{% include hero.html small=true eyebrow="About us" title="A local fence team you can actually reach" lede="Small on purpose. The person who walks your fence line stays with the job through the build." image="/assets/images/about-team.jpg" alt="Owner Bryan Hayes and general manager Byron Dean beside a 76 Fence truck" pos="center 68%" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
