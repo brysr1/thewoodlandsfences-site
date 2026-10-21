@@ -13,7 +13,7 @@ faq:
   - q: Can I use chain link?
     a: Not as a visible fence. The standards prohibit chain link and wire fencing unless it's fully screened, along with plastic, fiberglass, and unfinished cinder block. Wood, metal, stone, and masonry are acceptable.
   - q: My lot backs to the golf course or a lake. What can I build?
-    a: Solid fences aren't allowed along the rear property line of golf course or lake lots. A see-through fence such as ornamental aluminum or steel, up to 6'6", is the usual answer.
+    a: Solid fences aren't allowed along the rear property line of golf course or lake lots. A see-through fence such as ornamental steel, up to 6'6", is the usual answer.
   - q: Do you work in Carlton Woods?
     a: Yes. Carlton Woods is a gated community inside the Village of Sterling Ridge, and Carlton Woods Creekside is in Creekside Park. Both follow The Woodlands standards plus their own neighborhood criteria.
 ---
@@ -58,7 +58,7 @@ faq:
     <h2>What we build most in The Woodlands</h2>
     <div class="fx-cards">
       <div class="fx-card"><h3>Cedar privacy, capped</h3><p>Board-on-board or shadowbox cedar is the most common backyard fence. A capped design earns two extra inches of allowed height, and a 6-inch rot board is the limit unless screened by evergreens.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
-      <div class="fx-card"><h3>Ornamental on golf, lake &amp; reserve lots</h3><p>Where solid fencing isn't allowed, black aluminum or steel keeps the view open and still contains kids and pets.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
+      <div class="fx-card"><h3>Ornamental on golf, lake &amp; reserve lots</h3><p>Where solid fencing isn't allowed, black ornamental steel keeps the view open and still contains kids and pets.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
       <div class="fx-card"><h3>Pool barriers</h3><p>Self-closing, self-latching gates and code-compliant spacing, inspected as part of approval.</p><a class="more" href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool enclosures &rarr;</a></div>
       <div class="fx-card"><h3>Working around trees and drainage</h3><p>Heavy tree cover means roots in many post holes. Many lots also back to natural drainage channels and greenbelts, and Panther Branch and Bear Branch both flooded in April 2016. We plan post locations, spacing, and footings around all of it.</p></div>
     </div>

@@ -36,7 +36,7 @@ faq:
     <div class="fx-cards">
       <div class="fx-card"><h3>Builder-fence upgrades</h3><p>New homes often come with a basic fence on two sides. We finish the yard, add gates, or rebuild in board-on-board with a cap.</p><a class="more" href="{{ '/fence-styles/privacy/' | relative_url }}">Privacy fences &rarr;</a></div>
       <div class="fx-card"><h3>Acreage and horse fence</h3><p>Field fence, no-climb wire, and pipe for larger tracts, built with H-braced corners.</p><a class="more" href="{{ '/materials/farm-ranch/' | relative_url }}">Farm &amp; ranch &rarr;</a></div>
-      <div class="fx-card"><h3>Lake and pond lots</h3><p>Ornamental aluminum where lots back to a lake, pond, or trail.</p><a class="more" href="{{ '/fence-styles/ornamental/' | relative_url }}">Ornamental &rarr;</a></div>
+      <div class="fx-card"><h3>Lake and pond lots</h3><p>Ornamental steel where lots back to a lake, pond, or trail.</p><a class="more" href="{{ '/fence-styles/ornamental/' | relative_url }}">Ornamental &rarr;</a></div>
       <div class="fx-card"><h3>Drive gates</h3><p>Steel and cedar drive gates with automatic openers for acreage entrances.</p><a class="more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates &rarr;</a></div>
     </div>
   </div>
