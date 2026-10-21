@@ -18,7 +18,7 @@ faq:
     a: Yes. Carlton Woods is a gated community inside the Village of Sterling Ridge, and Carlton Woods Creekside is in Creekside Park. Both follow The Woodlands standards plus their own neighborhood criteria.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · The Woodlands" title="Fences built to The Woodlands standards" lede="All eight villages, from Grogan's Mill to Creekside Park. We design to the Residential Development Standards and handle the RDRC submittal." image="/assets/images/fences/split-rail-pines.jpg" alt="New split rail fence along a lawn under tall pine trees" %}
+{% include hero.html small=true eyebrow="Service areas · The Woodlands" title="Fences built to The Woodlands standards" lede="All eight villages, from Grogan's Mill to Creekside Park. We design to the Residential Development Standards and handle the RDRC submittal." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="New shadowbox cedar fence along the side yard of a home under mature trees" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
