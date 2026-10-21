@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{%- assign hub = site.data.neighborhoods | where: "hub", page.hub | first -%}
+{% include hero.html small=true eyebrow=page.eyebrow title=page.headline lede=page.lede image=page.image alt=page.alt pos=page.pos %}
+{{ content }}
+{%- if hub %}
+<section class="fx-band fx-band-alt">
+  <div class="fx-container">
+    {% include eyebrow.html text="Nearby" %}
+    <h2>More around {{ hub.title }}</h2>
+    <ul class="fx-chips">
+      <li><a href="{{ hub.url | relative_url }}">{{ hub.title }} overview</a></li>
+      {%- for n in hub.items %}{% unless n.url == page.url %}
+      <li><a href="{{ n.url | relative_url }}">{{ n.title }}</a></li>
+      {%- endunless %}{% endfor %}
+    </ul>
+  </div>
+</section>
+{%- endif %}
+{%- if page.faq %}{% include faq.html items=page.faq title=page.faq_title %}{%- endif %}
+{%- unless page.no_cta %}{% include cta.html heading=page.cta_heading text=page.cta_text %}{%- endunless %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Service Areas","item":"{{ '/service-areas/' | absolute_url }}"}{% if hub %},{"@type":"ListItem","position":2,"name":{{ hub.title | jsonify }},"item":"{{ hub.url | absolute_url }}"}{% endif %},{"@type":"ListItem","position":{% if hub %}3{% else %}2{% endif %},"name":{{ page.place | jsonify }},"item":"{{ page.url | absolute_url }}"}]}
+</script>
