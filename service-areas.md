@@ -24,6 +24,19 @@ permalink: /service-areas/
 </section>
 
 <section class="fx-band fx-band-alt">
+  <div class="fx-container">
+    {% include eyebrow.html text="Neighborhood guides" %}
+    <h2>Find your neighborhood</h2>
+    <p class="fx-lead">Local guides to the approvals, lots, and fences in specific villages and communities.</p>
+    <div class="fx-nbhd-groups">
+      {%- for g in site.data.neighborhoods %}{% if g.items.size > 0 %}
+      <div><h3><a href="{{ g.url | relative_url }}">{{ g.title }}</a></h3>{% include nbhd-list.html hub=g.hub %}</div>
+      {%- endif %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="fx-band">
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Who sets the rules" %}
     <h2>Why the address comes first</h2>
