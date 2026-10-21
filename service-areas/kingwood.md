@@ -60,6 +60,8 @@ faq:
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Villages we serve" %}
     <h2>Every Kingwood village</h2>
+    <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
+    {% include nbhd-list.html hub="kingwood" %}
     <p>We build and repair fences throughout Kingwood: <strong>Trailwood</strong>, <strong>Woodland Hills</strong> (north and south, with part of North Woodland Hills in Montgomery County), <strong>Bear Branch</strong>, <strong>Hunters Ridge</strong>, <strong>Greentree</strong>, <strong>Sand Creek</strong>, <strong>Elm Grove</strong>, <strong>Kings Point</strong>, <strong>Foster's Mill</strong>, <strong>Riverchase</strong>, <strong>Mills Branch</strong>, <strong>Woodstream</strong>, <strong>Kingwood Greens Village</strong>, <strong>Barrington</strong>, <strong>Deer Ridge Estates</strong>, <strong>Forest Cove</strong>, <strong>Kings Forest</strong>, <strong>Kings Lake Estates</strong>, <strong>Kings River Estates</strong>, <strong>Royal Shores</strong>, and <strong>Kings Manor</strong>, the Montgomery County village of about 600 homes in New Caney ISD.</p>
     <p>Neighboring areas we also serve: <a href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter, New Caney &amp; Splendora</a> to the north, <a href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita</a> across the lake, and <a href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble</a> to the west.</p>
   </div>

@@ -46,6 +46,8 @@ faq:
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Neighborhoods we serve" %}
     <h2>Humble neighborhoods we work in</h2>
+    <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
+    {% include nbhd-list.html hub="humble-tx" %}
     <p>We build and repair fences in <strong>Lakeshore</strong>, north of Summerwood; <strong>Deerbrook Estates</strong>; <strong>Foxwood</strong> and <strong>Kenswick</strong>, both built in the 1980s; <strong>Cypresswood Point</strong>; and <strong>Forest Shadows</strong>, along with the rest of Humble and the surrounding unincorporated area.</p>
     <p>Nearby: <a href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita</a> to the east, <a href="{{ '/service-areas/kingwood/' | relative_url }}">Kingwood</a> to the northeast, and <a href="{{ '/service-areas/spring-tx/' | relative_url }}">Spring</a> to the west.</p>
   </div>

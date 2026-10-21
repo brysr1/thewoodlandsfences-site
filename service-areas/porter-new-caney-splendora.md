@@ -46,6 +46,8 @@ faq:
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Neighborhoods we serve" %}
     <h2>Neighborhoods we work in</h2>
+    <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
+    {% include nbhd-list.html hub="porter-new-caney-splendora" %}
     <p><strong>Porter and the I-69 corridor:</strong> <strong>Valley Ranch</strong>, the 1,400-acre development at I-69 and the Grand Parkway; <strong>Woodridge Forest</strong>, with ponds and trails linking toward Kingwood; <strong>Oakhurst</strong>, marketed as "Kingwood NW," a golf course community of about 700 acres; <strong>The Highlands</strong>, about 2,300 acres with more than 30 miles of trails; <strong>Northpark Woods</strong>; and <strong>Pinewood at Grand Texas</strong>.</p>
     <p><strong>New Caney:</strong> <strong>Tavola</strong>, near US 59 and Roman Forest Drive; <strong>Porters Mill</strong>; <strong>Kings Colony</strong>; <strong>The Canopies</strong>, 611 acres off FM 242, including the <strong>Harrington Trails</strong> section.</p>
     <p><strong>Splendora:</strong> <strong>Gemini</strong> and <strong>Lake Splendora</strong>, where lots run larger than in most subdivisions, plus acreage throughout the area. We also build in <strong>The Trails</strong> community.</p>

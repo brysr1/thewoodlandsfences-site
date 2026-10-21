@@ -46,6 +46,8 @@ faq:
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Neighborhoods we serve" %}
     <h2>Atascocita neighborhoods we work in</h2>
+    <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
+    {% include nbhd-list.html hub="atascocita" %}
     <p>We build and repair fences in <strong>Balmoral</strong>, the Land Tejas community built around a 2-acre Crystal Lagoon; <strong>Eagle Springs</strong>; <strong>Fall Creek</strong>, about 1,260 acres on the former El Dorado Country Club site; <strong>Summerwood</strong>, more than 3,200 homes inside the City of Houston; <strong>Walden on Lake Houston</strong>, with its golf course; <strong>The Groves</strong>; <strong>The Villages at Tour 18</strong>, a KB Home golf course community; and <strong>Atascocita Shores</strong>, right on the lake.</p>
     <p>Nearby: <a href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble</a> to the west, <a href="{{ '/service-areas/huffman-tx/' | relative_url }}">Huffman</a> to the east, and <a href="{{ '/service-areas/kingwood/' | relative_url }}">Kingwood</a> across the lake.</p>
   </div>

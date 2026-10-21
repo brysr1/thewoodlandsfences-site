@@ -45,6 +45,8 @@ faq:
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Neighborhoods we serve" %}
     <h2>Huffman neighborhoods we work in</h2>
+    <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
+    {% include nbhd-list.html hub="huffman-tx" %}
     <p>We build and repair fences in <strong>The Commons of Lake Houston</strong>, a deed-restricted community with large wooded lots and a community boat ramp, as well as on acreage tracts and in smaller subdivisions throughout Huffman.</p>
     <p>Nearby: <a href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita</a> to the west and <a href="{{ '/service-areas/kingwood/' | relative_url }}">Kingwood</a> across the lake.</p>
   </div>

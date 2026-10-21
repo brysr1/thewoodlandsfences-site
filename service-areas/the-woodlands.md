@@ -69,6 +69,8 @@ faq:
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Villages we serve" %}
     <h2>Every village in The Woodlands</h2>
+    <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
+    {% include nbhd-list.html hub="the-woodlands" %}
     <p>We build and repair fences in all eight villages: <strong>Grogan's Mill</strong> (the first village, opened 1974), <strong>Panther Creek</strong> (1977), <strong>Cochran's Crossing</strong> (1983), <strong>Indian Springs</strong> (1984), <strong>Alden Bridge</strong> (1994), <strong>College Park</strong> (1995), <strong>Sterling Ridge</strong> (1999), and <strong>Creekside Park</strong> (2007), the newest village, which crosses the county line into Harris County.</p>
     <p>The older villages have plenty of original fences that are ready for replacement, often on lots where the trees have grown up around the fence line. In Sterling Ridge and Creekside Park, newer homes tend to need their first replacement or an upgrade from a builder fence. We also work inside the gated <strong>Carlton Woods</strong> community in Sterling Ridge and <strong>Carlton Woods Creekside</strong> in Creekside Park.</p>
     <p>Nearby, we serve <a href="{{ '/service-areas/spring-tx/' | relative_url }}">Spring</a> to the south and east, and <a href="https://conroetxfences.com">76 Fence of Conroe</a> covers the communities to the north.</p>
