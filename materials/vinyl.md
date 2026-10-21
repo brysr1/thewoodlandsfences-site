@@ -24,7 +24,7 @@ faq:
         <li><span><b>Not allowed in The Woodlands</b>; check HOA rules elsewhere.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/vinyl-privacy.jpg' | relative_url }}" alt="White vinyl privacy fence" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/vinyl-ranch-rail.jpg' | relative_url }}" alt="White three-rail vinyl fence along a lawn lined with pine trees" loading="lazy"></figure>
   </div>
 </section>
 
