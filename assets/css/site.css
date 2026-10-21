@@ -258,7 +258,7 @@ ul, ol { padding-left: 1.2em; }
 
 /* ---------- CTA band ---------- */
 .fx-cta { text-align: center; padding: 60px 0; }
-.fx-cta h2 { margin-bottom: 10px; }
+.fx-cta h2 { margin: 0 auto 10px; }
 .fx-cta p { color: #fff; font-size: 1.08rem; margin: 0 auto; max-width: 700px; }
 
 /* ---------- FAQ ---------- */
