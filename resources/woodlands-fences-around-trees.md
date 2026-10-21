@@ -51,7 +51,7 @@ Every lot is different, but these are the habits we follow on wooded Woodlands l
 
 Trees and fences fight over the same ground. A post set into a root zone can be lifted as roots grow, a panel fastened near a trunk gets shoved out of line, and branches over the fence drop limbs in storms. Routing the fence around the trees from the start avoids most of these problems.
 
-If your fence line runs through heavy tree cover, a see-through fence, such as ornamental aluminum or a split rail, can be easier to fit between trunks than a solid privacy fence. See our [Woodlands fence rules guide](/resources/woodlands-fence-rules-height-placement/) for what's allowed where.
+If your fence line runs through heavy tree cover, a see-through fence, such as ornamental steel or a split rail, can be easier to fit between trunks than a solid privacy fence. See our [Woodlands fence rules guide](/resources/woodlands-fence-rules-height-placement/) for what's allowed where.
 
 ## Planning a fence on a wooded lot?
 

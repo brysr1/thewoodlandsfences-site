@@ -20,7 +20,7 @@ faq:
   - q: "How tall can a privacy fence be in The Woodlands?"
     a: "Solid fences can be up to 7'6\" on most lots, or 8'6\" on the portion that runs along a designated arterial, major thoroughfare, or collector street. A capped fence gets an extra two inches for the cap and trim."
   - q: "Can I build a privacy fence on a golf course or lake lot?"
-    a: "Not along the rear property line. The standards don't allow solid fences on the rear lines of golf course or lake lots, so a see-through fence such as ornamental aluminum or steel is the usual choice."
+    a: "Not along the rear property line. The standards don't allow solid fences on the rear lines of golf course or lake lots, so a see-through fence such as ornamental steel is the usual choice."
   - q: "Is vinyl allowed in The Woodlands?"
     a: "No. Plastic and fiberglass fencing are on the prohibited list, along with chain link and wire unless fully screened, and a few other materials."
 ---
@@ -66,7 +66,7 @@ Pools, hot tubs, spas, and ponds deeper than two feet need a barrier that meets 
 
 ## Putting it together
 
-On a typical interior lot, a 6- to 7-foot cedar privacy fence, set three feet behind the front of the house and finished side out, fits the standards well. On a golf course or lake lot, plan on ornamental aluminum or steel along the back. Once the design fits, the next step is [getting it approved](/resources/woodlands-fence-approval-rdrc/).
+On a typical interior lot, a 6- to 7-foot cedar privacy fence, set three feet behind the front of the house and finished side out, fits the standards well. On a golf course or lake lot, plan on ornamental steel along the back. Once the design fits, the next step is [getting it approved](/resources/woodlands-fence-approval-rdrc/).
 
 Not sure what fits your lot? [Request a free estimate](/contact/), and we'll check your lot and Neighborhood Criteria before we design anything.
 
