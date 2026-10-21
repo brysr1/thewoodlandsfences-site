@@ -24,7 +24,7 @@ faq:
         <li><span><b>Powder-coated</b> for long life.</span></li>
       </ul>
     </div>
-    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/ornamental-lake-lawn.jpg' | relative_url }}" alt="Black ornamental aluminum fence beside a pond" loading="lazy"></figure>
+    <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/ornamental-steel-garden.jpg' | relative_url }}" alt="Black ornamental steel fence along a brick patio and wooded garden" loading="lazy"></figure>
   </div>
 </section>
 
