@@ -12,7 +12,7 @@ permalink: /about/
       {% include eyebrow.html text="Who we are" %}
       <h2>Based off I-45, working from the forest to the lake</h2>
       <p>76 Fence of The Woodlands works out of 1401 Lake Plaza Drive, just off I-45. From there we cover the villages of The Woodlands, the neighborhoods of Spring, the new communities along I-69 in Porter and New Caney, and around Lake Houston to Kingwood, Humble, Atascocita, and Huffman.</p>
-      <p>We build new fences and gates, replace builder fences that have reached the end, and repair what storms and time knock loose. That might be a capped cedar fence for an RDRC submittal, an aluminum fence on a golf course lot, or a long run of no-climb wire on acreage.</p>
+      <p>We build new fences and gates, replace builder fences that have reached the end, and repair what storms and time knock loose. That might be a capped cedar fence for an RDRC submittal, an ornamental steel fence on a golf course lot, or a long run of no-climb wire on acreage.</p>
       <p>We keep the team small so the person who quotes your job is the one who answers when you call afterward.</p>
     </div>
     <figure class="fx-photo-callout"><img src="{{ '/assets/images/about-team.jpg' | relative_url }}" width="1200" height="1012" alt="Owner Bryan Hayes and general manager Byron Dean beside a 76 Fence truck" loading="lazy"></figure>

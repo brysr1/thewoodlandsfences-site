@@ -31,7 +31,7 @@ permalink: /materials/
       <tbody>
         <tr><td>Cedar</td><td>Stain every few years</td><td>Full</td><td>Yes</td></tr>
         <tr><td>Vinyl</td><td>Rinse</td><td>Full</td><td>No (plastic prohibited)</td></tr>
-        <tr><td>Aluminum / steel</td><td>Rinse</td><td>None (see-through)</td><td>Yes</td></tr>
+        <tr><td>Steel / aluminum</td><td>Rinse</td><td>None (see-through)</td><td>Yes</td></tr>
         <tr><td>Chain link</td><td>Minimal</td><td>None</td><td>Only if fully screened</td></tr>
         <tr><td>Composite</td><td>Rinse</td><td>Full</td><td>Ask first (contains plastic)</td></tr>
         <tr><td>Farm &amp; ranch</td><td>Varies</td><td>None</td><td>Hog-wire prohibited</td></tr>

@@ -17,7 +17,7 @@ faq:
   - q: How long does installation take?
     a: Most residential fences take one to three days on site. Approval and utility locates usually set the start date.
   - q: What does a fence cost?
-    a: Cedar typically runs about $30 to $47 per linear foot installed, aluminum $40 to $75, and chain link $15 to $40. See the pricing guide for more, and expect a written quote after we measure.
+    a: Cedar typically runs about $30 to $47 per linear foot installed, ornamental steel $40 to $75, and chain link $15 to $40. See the pricing guide for more, and expect a written quote after we measure.
   - q: Do you offer financing?
     a: Yes, through Hearth, with plans from a 550 credit score and possible 0% offers at 680 and above.
   - q: What's your warranty?

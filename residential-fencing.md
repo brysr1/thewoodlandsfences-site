@@ -19,7 +19,7 @@ faq:
     <h2>Residential fences we install</h2>
     <div class="fx-cards">
       <div class="fx-card"><h3>Privacy fences</h3><p>Six- to eight-foot cedar in side-by-side, board-on-board, or capped styles.</p><a class="more" href="{{ '/fence-styles/privacy/' | relative_url }}">Privacy &rarr;</a></div>
-      <div class="fx-card"><h3>Ornamental fences</h3><p>Black aluminum or steel for golf, lake, and greenbelt lots.</p><a class="more" href="{{ '/fence-styles/ornamental/' | relative_url }}">Ornamental &rarr;</a></div>
+      <div class="fx-card"><h3>Ornamental fences</h3><p>Black powder-coated steel for golf, lake, and greenbelt lots.</p><a class="more" href="{{ '/fence-styles/ornamental/' | relative_url }}">Ornamental &rarr;</a></div>
       <div class="fx-card"><h3>Pool enclosures</h3><p>Code-compliant barriers with self-closing, self-latching gates.</p><a class="more" href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool fences &rarr;</a></div>
       <div class="fx-card"><h3>Pet fences</h3><p>Dig barriers, tight gaps, and latches dogs can't nose open.</p><a class="more" href="{{ '/fence-styles/pet/' | relative_url }}">Pet fences &rarr;</a></div>
       <div class="fx-card"><h3>Gates and openers</h3><p>Walk gates, double drive gates, and automatic openers.</p><a class="more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates &rarr;</a></div>

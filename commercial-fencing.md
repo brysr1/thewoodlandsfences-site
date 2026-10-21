@@ -11,7 +11,7 @@ permalink: /commercial-fencing/
     {% include eyebrow.html text="Who we work with" %}
     <h2>Commercial projects we handle</h2>
     <div class="fx-cards">
-      <div class="fx-card"><h3>Offices and retail</h3><p>Ornamental steel and aluminum that fits the building and keeps after-hours traffic out.</p></div>
+      <div class="fx-card"><h3>Offices and retail</h3><p>Ornamental steel that fits the building and keeps after-hours traffic out.</p></div>
       <div class="fx-card"><h3>Churches and schools</h3><p>Playground, parking, and perimeter fencing with gates sized for daily use.</p></div>
       <div class="fx-card"><h3>Property managers</h3><p>Apartment and townhome perimeters, pool fences, and repairs on a schedule.</p></div>
       <div class="fx-card"><h3>Dumpster and equipment screening</h3><p>Enclosures and screens that satisfy commercial design standards.</p><a class="more" href="{{ '/dumpster-enclosures/' | relative_url }}">Enclosures &rarr;</a></div>
