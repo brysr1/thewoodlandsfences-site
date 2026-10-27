@@ -6,7 +6,7 @@ description: "Fence installation and repair in Indian Springs, The Woodlands 773
 permalink: /neighborhoods/indian-springs/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Indian Springs"
+headline: "Fence Installation in Indian Springs"
 lede: "The smallest village and the only hilly one, opened in 1984. Slopes and trees shape every fence line."
 image: /assets/images/fences/split-rail-wooded.jpg
 alt: "Split rail fence in a wooded yard"

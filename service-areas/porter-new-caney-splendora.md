@@ -14,7 +14,7 @@ faq:
     a: Yes. We build no-climb wire, board, and pipe fencing, with H-braced corners and wide gates for trailers.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · Porter, New Caney & Splendora" title="Fences for new neighborhoods and Piney Woods acreage" lede="Along I-69 and the Grand Parkway, from first fences on new builds to long runs on rural land." image="/assets/images/fences/ranch-h-brace-pines.jpg" alt="Ranch fence with an H-brace among pine trees" %}
+{% include hero.html small=true eyebrow="Service areas · Porter, New Caney & Splendora" title="Fence Company in Porter, New Caney & Splendora, TX" subtitle="Fences for new neighborhoods and Piney Woods acreage" lede="Along I-69 and the Grand Parkway, from first fences on new builds to long runs on rural land." image="/assets/images/fences/ranch-h-brace-pines.jpg" alt="Ranch fence with an H-brace among pine trees" %}
 
 <section class="fx-band">
   <div class="fx-container fx-prose">

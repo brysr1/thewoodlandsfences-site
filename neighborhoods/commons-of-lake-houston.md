@@ -6,7 +6,7 @@ description: "Fence installation and repair in The Commons of Lake Houston, Huff
 permalink: /neighborhoods/commons-of-lake-houston/
 hub: huffman-tx
 eyebrow: "Service areas · Huffman"
-headline: "Fences for The Commons of Lake Houston"
+headline: "Fence Installation in The Commons of Lake Houston"
 lede: "Acre-plus wooded lots on the east side of Lake Houston, with a boat ramp, horse trails, and deed restrictions."
 image: /assets/images/fences/ranch-h-brace-pines.jpg
 alt: "Ranch fence with an H-brace among pine trees on acreage"

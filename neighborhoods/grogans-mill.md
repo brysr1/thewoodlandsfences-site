@@ -6,7 +6,7 @@ description: "Fence replacement and repair in Grogan's Mill, The Woodlands' firs
 permalink: /neighborhoods/grogans-mill/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Grogan's Mill"
+headline: "Fence Installation in Grogan's Mill"
 lede: "The first village in The Woodlands, opened in 1974. Big trees, older fences, and golf course lots."
 image: /assets/images/fences/shadowbox-cedar.jpg
 alt: "Shadowbox cedar backyard fence with tall pines and a house behind"

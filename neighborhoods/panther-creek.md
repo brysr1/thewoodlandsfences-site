@@ -6,7 +6,7 @@ description: "Fence installation and repair in Panther Creek, The Woodlands 7738
 permalink: /neighborhoods/panther-creek/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Panther Creek"
+headline: "Fence Installation in Panther Creek"
 lede: "The second village, opened in 1977 on the west shore of Lake Woodlands."
 image: /assets/images/fences/aluminum-lakefront.jpg
 alt: "Black ornamental fence on a lakefront lawn with pines"

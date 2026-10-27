@@ -6,7 +6,7 @@ description: "Fence installation and repair in Woodridge Forest, Porter TX 77365
 permalink: /neighborhoods/woodridge-forest/
 hub: porter-new-caney-splendora
 eyebrow: "Service areas · Porter & New Caney"
-headline: "Fences for Woodridge Forest"
+headline: "Fence Installation in Woodridge Forest"
 lede: "A 332-acre neighborhood just north of Kingwood, with ponds, pond-side lots, and trails that tie into Kingwood's system."
 image: /assets/images/fences/ornamental-lake-lawn.jpg
 alt: "Black ornamental fence beside a pond with pine trees"

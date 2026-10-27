@@ -14,7 +14,7 @@ faq:
     a: A see-through ornamental steel fence is the usual choice, and many HOAs require it where a lot backs to water or a fairway.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · Atascocita" title="Fences for Lake Houston's east shore" lede="Master-planned neighborhoods, golf course lots, and lakefront homes across Atascocita." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black ornamental fence along a lakefront lawn" %}
+{% include hero.html small=true eyebrow="Service areas · Atascocita" title="Fence Company in Atascocita, TX" subtitle="Fences for Lake Houston's east shore" lede="Master-planned neighborhoods, golf course lots, and lakefront homes across Atascocita." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black ornamental fence along a lakefront lawn" %}
 
 <section class="fx-band">
   <div class="fx-container fx-prose">

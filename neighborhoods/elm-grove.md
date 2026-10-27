@@ -6,7 +6,7 @@ description: "Fence installation and repair in Elm Grove Village, Kingwood 77339
 permalink: /neighborhoods/elm-grove/
 hub: kingwood
 eyebrow: "Service areas · Kingwood"
-headline: "Fences for Elm Grove"
+headline: "Fence Installation in Elm Grove"
 lede: "A north Kingwood village of about 1,400 homes, built out in 1982, where many fences have been rebuilt after the 2019 floods."
 image: /assets/images/fences/board-on-board.jpg
 alt: "Stained board-on-board cedar fence, close view"

@@ -6,7 +6,7 @@ description: "Fence installation and repair in Oakhurst at Kingwood, Porter TX 7
 permalink: /neighborhoods/oakhurst-at-kingwood/
 hub: porter-new-caney-splendora
 eyebrow: "Service areas · Porter & New Caney"
-headline: "Fences for Oakhurst at Kingwood"
+headline: "Fence Installation in Oakhurst at Kingwood"
 lede: "About 700 wooded acres west of US 59, built around the 18-hole Oakhurst Golf Club."
 image: /assets/images/fences/shadowbox-side-yard.jpg
 alt: "Shadowbox cedar fence along a home's side yard under mature trees"

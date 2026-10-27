@@ -6,7 +6,7 @@ description: "Fence installation in The Highlands, Porter TX 77365: cedar privac
 permalink: /neighborhoods/the-highlands-porter/
 hub: porter-new-caney-splendora
 eyebrow: "Service areas · Porter & New Caney"
-headline: "Fences for The Highlands"
+headline: "Fence Installation in The Highlands"
 lede: "A 2,300-acre community at the Grand Parkway and FM 1314, with lakes, 30-plus miles of trails, and land along the San Jacinto River."
 image: /assets/images/fences/privacy-new-home.jpg
 alt: "Cedar privacy fence behind a new two-story home"

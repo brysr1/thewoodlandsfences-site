@@ -6,7 +6,7 @@ description: "Fence installation and repair in Spring Trails, Spring TX 77386: w
 permalink: /neighborhoods/spring-trails/
 hub: spring-tx
 eyebrow: "Service areas · Spring"
-headline: "Fences for Spring Trails"
+headline: "Fence Installation in Spring Trails"
 lede: "Wooded lots along the Spring Creek Greenway, where trees and the floodplain map come first."
 image: /assets/images/fences/shadowbox-side-yard.jpg
 alt: "Shadowbox cedar fence along a home's side yard under mature trees"

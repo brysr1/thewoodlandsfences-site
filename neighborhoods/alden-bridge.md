@@ -6,7 +6,7 @@ description: "Fence installation and repair in Alden Bridge, The Woodlands 77382
 permalink: /neighborhoods/alden-bridge/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Alden Bridge"
+headline: "Fence Installation in Alden Bridge"
 lede: "One of the largest villages, opened in 1994 next to Jones State Forest, with about 7,000 homes."
 image: /assets/images/fences/ornamental-lake-lawn.jpg
 alt: "Black ornamental fence beside a pond with pines"

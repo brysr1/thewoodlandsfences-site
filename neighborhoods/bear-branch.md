@@ -6,7 +6,7 @@ description: "Fence installation and repair in Bear Branch Village, Kingwood 773
 permalink: /neighborhoods/bear-branch/
 hub: kingwood
 eyebrow: "Service areas · Kingwood"
-headline: "Fences for Bear Branch"
+headline: "Fence Installation in Bear Branch"
 lede: "One of Kingwood's first villages, with about 1,100 homes from the 1970s and the entrance to the Creekwood Nature Area."
 image: /assets/images/fences/split-rail-wooded.jpg
 alt: "Split rail fence in a wooded yard"

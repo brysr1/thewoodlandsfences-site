@@ -1,9 +1,10 @@
-{%- comment -%} Split editorial hero. params: eyebrow, title, lede, image, alt, small, pos {%- endcomment -%}
+{%- comment -%} Split editorial hero. params: eyebrow, title, subtitle, lede, image, alt, small, pos {%- endcomment -%}
 <section class="fx-hero{% if include.small %} fx-hero-small{% endif %}">
   <div class="fx-hero-text">
     <div class="fx-hero-in">
       {%- if include.eyebrow %}<p class="fx-hero-eyebrow">{{ include.eyebrow }}</p>{% endif %}
       <h1>{{ include.title }}</h1>
+      {%- if include.subtitle %}<p class="fx-hero-sub">{{ include.subtitle }}</p>{% endif %}
       {%- if include.lede %}<p class="fx-hero-lede">{{ include.lede }}</p>{% endif %}
       <div class="fx-btn-row">
         <a class="fx-btn fx-btn-red" href="{{ site.business.book_url }}"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Book a Free Estimate</a>

@@ -6,7 +6,7 @@ description: "Fence installation and repair in College Park, The Woodlands 77384
 permalink: /neighborhoods/college-park/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for College Park"
+headline: "Fence Installation in College Park"
 lede: "A smaller village opened in 1995, with homes on both sides of I-45 and the area's college campuses."
 image: /assets/images/fences/shadowbox-side-yard.jpg
 alt: "Shadowbox cedar fence along a home's side yard under mature trees"

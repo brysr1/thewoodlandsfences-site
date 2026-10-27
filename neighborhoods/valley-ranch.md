@@ -6,7 +6,7 @@ description: "Fence installation and repair in Valley Ranch, Porter TX 77365: ce
 permalink: /neighborhoods/valley-ranch/
 hub: porter-new-caney-splendora
 eyebrow: "Service areas · Porter & New Caney"
-headline: "Fences for Valley Ranch"
+headline: "Fence Installation in Valley Ranch"
 lede: "A 1,400-acre community at I-69 and the Grand Parkway, with a town center out front and parks, lakes, and trails behind it."
 image: /assets/images/fences/cedar-privacy-backyard.jpg
 alt: "Cedar privacy fence around a newer home's backyard with young trees"

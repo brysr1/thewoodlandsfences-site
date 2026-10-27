@@ -6,7 +6,7 @@ description: "Fence installation and repair in Sterling Ridge, The Woodlands 773
 permalink: /neighborhoods/sterling-ridge/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Sterling Ridge"
+headline: "Fence Installation in Sterling Ridge"
 lede: "Opened in 1999 west of Kuykendahl Road, with two golf courses and the gated Carlton Woods."
 image: /assets/images/fences/board-on-board.jpg
 alt: "Stained board-on-board cedar fence, close view"

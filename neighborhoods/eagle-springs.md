@@ -6,7 +6,7 @@ description: "Fence installation and repair in Eagle Springs, Atascocita 77346: 
 permalink: /neighborhoods/eagle-springs/
 hub: atascocita
 eyebrow: "Service areas · Atascocita"
-headline: "Fences for Eagle Springs"
+headline: "Fence Installation in Eagle Springs"
 lede: "A 1,300-acre Newland community off Will Clayton and West Lake Houston parkways, with man-made lakes and trails between its villages."
 image: /assets/images/fences/ornamental-lake-lawn.jpg
 alt: "Black ornamental fence beside a pond with pine trees"

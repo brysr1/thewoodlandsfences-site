@@ -6,7 +6,7 @@ description: "Fence installation and repair in Fosters Mill Village, Kingwood 77
 permalink: /neighborhoods/fosters-mill/
 hub: kingwood
 eyebrow: "Service areas · Kingwood"
-headline: "Fences for Fosters Mill"
+headline: "Fence Installation in Fosters Mill"
 lede: "A smaller Kingwood village of about 550 homes near Kingwood Drive and Forest Garden Drive, built out in 1982."
 image: /assets/images/fences/drive-gate-cedar.jpg
 alt: "Cedar double drive gate with black steel frame"

@@ -6,7 +6,7 @@ description: "Fence installation and repair in Creekside Park, The Woodlands 773
 permalink: /neighborhoods/creekside-park/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Creekside Park"
+headline: "Fence Installation in Creekside Park"
 lede: "The newest village, opened in 2007 south of Spring Creek, and the only one in Harris County."
 image: /assets/images/fences/privacy-new-home.jpg
 alt: "Cedar privacy fence behind a new two-story home"

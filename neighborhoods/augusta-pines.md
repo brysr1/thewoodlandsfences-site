@@ -6,7 +6,7 @@ description: "Fence installation and repair in Augusta Pines, Spring TX 77389: g
 permalink: /neighborhoods/augusta-pines/
 hub: spring-tx
 eyebrow: "Service areas · Spring"
-headline: "Fences for Augusta Pines"
+headline: "Fence Installation in Augusta Pines"
 lede: "A golf community in our own 77389 ZIP, where many lots look out on fairways and water."
 image: /assets/images/fences/ornamental-steel-garden.jpg
 alt: "Black ornamental steel fence along a brick patio and wooded garden"

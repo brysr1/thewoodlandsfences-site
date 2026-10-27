@@ -6,7 +6,7 @@ description: "Fence installation and repair in Villages at Tour 18, Humble 77338
 permalink: /neighborhoods/villages-at-tour-18/
 hub: atascocita
 eyebrow: "Service areas · Atascocita"
-headline: "Fences for Villages at Tour 18"
+headline: "Fence Installation in Villages at Tour 18"
 lede: "Newer homes built around the Tour 18 golf course on FM 1960, where some yards back right up to the fairways."
 image: /assets/images/fences/ornamental-steel-garden.jpg
 alt: "Black ornamental steel fence along a brick patio and wooded garden"

@@ -6,7 +6,7 @@ description: "Fence installation and repair in Cochran's Crossing, The Woodlands
 permalink: /neighborhoods/cochrans-crossing/
 hub: the-woodlands
 eyebrow: "Service areas · The Woodlands"
-headline: "Fences for Cochran's Crossing"
+headline: "Fence Installation in Cochran's Crossing"
 lede: "The center of The Woodlands, opened in 1983 and home to The Woodlands Country Club."
 image: /assets/images/fences/ornamental-steel-garden.jpg
 alt: "Black ornamental steel fence along a brick patio and wooded garden"

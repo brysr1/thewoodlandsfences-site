@@ -16,7 +16,7 @@ faq:
     a: Usually, but greenbelt-facing fences are where village rules tend to be most specific about style and height. We confirm your village's requirements and set the fence on your side of the property line.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · Kingwood" title="Fences for the Livable Forest" lede="Every Kingwood village, with deed-restriction approvals and greenbelt and floodplain lots handled carefully." image="/assets/images/fences/cedar-privacy-backyard.jpg" alt="Cedar privacy fence around a wooded backyard" %}
+{% include hero.html small=true eyebrow="Service areas · Kingwood" title="Fence Company in Kingwood, TX" subtitle="Fences for the Livable Forest" lede="Every Kingwood village, with deed-restriction approvals and greenbelt and floodplain lots handled carefully." image="/assets/images/fences/cedar-privacy-backyard.jpg" alt="Cedar privacy fence around a wooded backyard" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

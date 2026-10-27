@@ -6,7 +6,7 @@ description: "Fence installation and repair in Kings Point Village, Kingwood 773
 permalink: /neighborhoods/kings-point/
 hub: kingwood
 eyebrow: "Service areas · Kingwood"
-headline: "Fences for Kings Point"
+headline: "Fence Installation in Kings Point"
 lede: "One of Kingwood's largest villages, with about 1,600 homes off Kingwood Drive between the Deerwood golf course and East End Park."
 image: /assets/images/fences/shadowbox-side-yard.jpg
 alt: "Shadowbox cedar fence along a home's side yard under mature trees"

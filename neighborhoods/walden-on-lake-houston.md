@@ -6,7 +6,7 @@ description: "Fence installation and repair in Walden on Lake Houston, 77346: st
 permalink: /neighborhoods/walden-on-lake-houston/
 hub: atascocita
 eyebrow: "Service areas · Atascocita"
-headline: "Fences for Walden on Lake Houston"
+headline: "Fence Installation in Walden on Lake Houston"
 lede: "About 750 wooded acres on the Lake Houston shoreline, built since 1984 around an 18-hole golf course."
 image: /assets/images/fences/aluminum-lakefront.jpg
 alt: "Black ornamental fence on a lakefront lawn with pine trees"

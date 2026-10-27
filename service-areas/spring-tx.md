@@ -16,7 +16,7 @@ faq:
     a: Yes. Most Spring HOAs specify a stain or color. We match it and include the details in your approval request.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · Spring" title="Fences for Spring's creeks, courses, and cul-de-sacs" lede="From established neighborhoods along Cypress Creek to new master-planned communities off the Grand Parkway." image="/assets/images/fences/privacy-new-home.jpg" alt="New cedar privacy fence around the backyard of a new home" %}
+{% include hero.html small=true eyebrow="Service areas · Spring" title="Fence Company in Spring, TX" subtitle="Fences for Spring's creeks, courses, and cul-de-sacs" lede="From established neighborhoods along Cypress Creek to new master-planned communities off the Grand Parkway." image="/assets/images/fences/privacy-new-home.jpg" alt="New cedar privacy fence around the backyard of a new home" %}
 
 <section class="fx-band">
   <div class="fx-container fx-prose">

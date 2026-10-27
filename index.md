@@ -16,7 +16,7 @@ faq:
     a: Every time. Utility lines get marked before any post hole is dug.
 ---
 
-{% include hero.html eyebrow="76 Fence of The Woodlands" title="Fences built for the forest, the creeks, and the HOA." lede="Fence installation and repair for homes, HOAs, and businesses in The Woodlands, Spring, Kingwood, Humble, and the Lake Houston area." image="/assets/images/fences/shadowbox-cedar.jpg" alt="New shadowbox cedar fence along a backyard lined with tall pine trees" %}
+{% include hero.html eyebrow="76 Fence of The Woodlands" title="Fence Company in The Woodlands, TX" subtitle="Fences built for the forest, the creeks, and the HOA." lede="Fence installation and repair for homes, HOAs, and businesses in The Woodlands, Spring, Kingwood, Humble, and the Lake Houston area." image="/assets/images/fences/shadowbox-cedar.jpg" alt="New shadowbox cedar fence along a backyard lined with tall pine trees" %}
 
 <section class="fx-band">
   <div class="fx-container">

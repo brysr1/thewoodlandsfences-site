@@ -14,7 +14,7 @@ faq:
     a: Yes. The Commons has large lots and its own deed restrictions, so we confirm what's allowed for your section before we quote.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · Huffman" title="Fences for Huffman acreage and lake lots" lede="Room to spread out east of Lake Houston, from estate lots to working land." image="/assets/images/fences/ranch-black-board.jpg" alt="Black four-board ranch fence along a pasture" %}
+{% include hero.html small=true eyebrow="Service areas · Huffman" title="Fence Company in Huffman, TX" subtitle="Fences for Huffman acreage and lake lots" lede="Room to spread out east of Lake Houston, from estate lots to working land." image="/assets/images/fences/ranch-black-board.jpg" alt="Black four-board ranch fence along a pasture" %}
 
 <section class="fx-band">
   <div class="fx-container fx-prose">

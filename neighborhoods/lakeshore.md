@@ -6,7 +6,7 @@ description: "Fence installation and repair in Lakeshore, north of Summerwood of
 permalink: /neighborhoods/lakeshore/
 hub: humble-tx
 eyebrow: "Service areas · Humble"
-headline: "Fences for Lakeshore"
+headline: "Fence Installation in Lakeshore"
 lede: "About 1,150 homes north of Summerwood, built out by 2009 and now ready for their next fence."
 image: /assets/images/fences/cedar-privacy-backyard.jpg
 alt: "Cedar privacy fence around a newer home's backyard with young trees"

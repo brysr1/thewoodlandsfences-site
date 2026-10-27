@@ -14,7 +14,7 @@ faq:
     a: Yes. Neighborhoods like Foxwood and Kenswick were built in the 1980s, and many of their fences are due. We'll tell you whether a repair will hold or a replacement makes more sense.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · Humble" title="Fences for Humble homes, old and new" lede="Inside city limits or out, we sort out the permit question and build to your neighborhood's rules." image="/assets/images/fences/board-on-board.jpg" alt="Board-on-board cedar privacy fence" %}
+{% include hero.html small=true eyebrow="Service areas · Humble" title="Fence Company in Humble, TX" subtitle="Fences for Humble homes, old and new" lede="Inside city limits or out, we sort out the permit question and build to your neighborhood's rules." image="/assets/images/fences/board-on-board.jpg" alt="Board-on-board cedar privacy fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-prose">

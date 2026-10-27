@@ -6,7 +6,7 @@ description: "Fence installation and repair in Gleannloch Farms, Spring TX 77379
 permalink: /neighborhoods/gleannloch-farms/
 hub: spring-tx
 eyebrow: "Service areas · Spring"
-headline: "Fences for Gleannloch Farms"
+headline: "Fence Installation in Gleannloch Farms"
 lede: "Golf holes, lakes, and a former horse farm's open ground. We fit the fence to the lot and the community association's review."
 image: /assets/images/fences/ornamental-lake-lawn.jpg
 alt: "Black ornamental fence beside a pond with pine trees behind"

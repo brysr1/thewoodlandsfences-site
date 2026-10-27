@@ -1,10 +1,10 @@
 ---
-title: "Picket Fences"
+title: "Picket Fences in The Woodlands, TX"
 description: "Low, open fences for front yards, gardens, and curb appeal. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/picket/
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Picket fences" lede="Low, open fences for front yards, gardens, and curb appeal." image="https://images.unsplash.com/photo-1720175338668-2e96d090d780?auto=format&fit=crop&w=1400&q=80" alt="Cottage-style house with a white picket fence and arbor gate" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Picket Fences in The Woodlands, TX" lede="Low, open fences for front yards, gardens, and curb appeal." image="https://images.unsplash.com/photo-1720175338668-2e96d090d780?auto=format&fit=crop&w=1400&q=80" alt="Cottage-style house with a white picket fence and arbor gate" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
