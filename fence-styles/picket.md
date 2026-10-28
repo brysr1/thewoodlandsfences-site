@@ -12,7 +12,7 @@ faq:
     a: "It depends on the dog. A low picket fence works for many small dogs. For a jumper or a digger, we'll suggest a taller fence or steel with puppy pickets. See [pet fences](/fence-styles/pet/)."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Picket Fences in The Woodlands, TX" lede="Low, open fences for front yards, gardens, and curb appeal." image="https://images.unsplash.com/photo-1720175338668-2e96d090d780?auto=format&fit=crop&w=1400&q=80" alt="Cottage-style house with a white picket fence and arbor gate" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Picket Fences in The Woodlands, TX" lede="Low, open fences for front yards, gardens, and curb appeal." image="/assets/images/fences/walk-gate-aluminum.jpg" alt="Black steel picket fence and walk gate in front of a brick home with an arched entry" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
