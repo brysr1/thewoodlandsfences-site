@@ -58,7 +58,7 @@ faq:
     <h2>What we build most in The Woodlands</h2>
     <div class="fx-cards">
       <div class="fx-card"><h3>Cedar privacy, capped</h3><p>Board-on-board or shadowbox cedar is the most common backyard fence. A capped design earns two extra inches of allowed height, and a 6-inch rot board is the limit unless screened by evergreens.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
-      <div class="fx-card"><h3>Ornamental on golf, lake &amp; reserve lots</h3><p>Where solid fencing isn't allowed, black ornamental steel keeps the view open and still contains kids and pets.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
+      <div class="fx-card"><h3>Ornamental on golf, lake &amp; reserve lots</h3><p>Where solid fencing isn't allowed, black ornamental steel keeps the view open and still contains kids and pets.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel &rarr;</a></div>
       <div class="fx-card"><h3>Pool barriers</h3><p>Self-closing, self-latching gates and code-compliant spacing, inspected as part of approval.</p><a class="more" href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool enclosures &rarr;</a></div>
       <div class="fx-card"><h3>Working around trees and drainage</h3><p>Heavy tree cover means roots in many post holes. Many lots also back to natural drainage channels and greenbelts, and Panther Branch and Bear Branch both flooded in April 2016. We plan post locations, spacing, and footings around all of it.</p></div>
     </div>

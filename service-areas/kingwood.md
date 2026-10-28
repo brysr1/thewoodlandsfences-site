@@ -49,7 +49,7 @@ faq:
     <h2>What we build most in Kingwood</h2>
     <div class="fx-cards">
       <div class="fx-card"><h3>Original fence replacements</h3><p>Many villages date to the 1970s and 1980s, so a lot of fences here are second or third generation and ready to go again. We replace them in cedar and haul the old fence away.</p><a class="more" href="{{ '/maintenance-repair/' | relative_url }}">Repair or replace &rarr;</a></div>
-      <div class="fx-card"><h3>Greenbelt and golf-side fences</h3><p>Lots backing to greenbelts, golf courses, and the lake often call for a see-through ornamental fence instead of solid wood.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
+      <div class="fx-card"><h3>Greenbelt and golf-side fences</h3><p>Lots backing to greenbelts, golf courses, and the lake often call for a see-through ornamental fence instead of solid wood.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel &rarr;</a></div>
       <div class="fx-card"><h3>Building among the pines</h3><p>Mature trees mean roots in post holes and branches over the fence line. We route around trees and adjust post spacing rather than damage them.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
       <div class="fx-card"><h3>Pool fences</h3><p>Code-compliant pool barriers with self-closing, self-latching gates.</p><a class="more" href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool enclosures &rarr;</a></div>
     </div>

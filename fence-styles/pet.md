@@ -50,7 +50,7 @@ faq:
     <h2>Choices to make</h2>
     <div class="fx-cards">
       <div class="fx-card"><h3>Wood privacy</h3><p>Blocks the view that sets off barking.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
-      <div class="fx-card"><h3>Steel with puppy pickets</h3><p>Tight spacing at the bottom.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
+      <div class="fx-card"><h3>Steel with puppy pickets</h3><p>Tight spacing at the bottom.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel &rarr;</a></div>
       <div class="fx-card"><h3>Chain link dog runs</h3><p>Where your rules allow it.</p><a class="more" href="{{ '/materials/chain-link/' | relative_url }}">Chain link &rarr;</a></div>
       <div class="fx-card"><h3>Gates</h3><p>Self-closing, self-latching gates, with the latch where a dog can't reach it and a tight gap underneath.</p><a class="more" href="{{ '/fence-styles/gates/' | relative_url }}">Gates &rarr;</a></div>
     </div>

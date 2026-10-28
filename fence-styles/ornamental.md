@@ -31,6 +31,6 @@ permalink: /fence-styles/ornamental/
       <div class="fx-card"><h3>Spear top</h3><p>Traditional finials.</p></div>
       <div class="fx-card"><h3>Rackable panels</h3><p>Follow sloped ground smoothly.</p></div>
     </div>
-    <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a> · <a href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool enclosures</a></p>
+    <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel</a> · <a href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a> · <a href="{{ '/fence-styles/pool-enclosure/' | relative_url }}">Pool enclosures</a></p>
   </div>
 </section>

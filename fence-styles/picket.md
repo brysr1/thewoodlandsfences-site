@@ -54,7 +54,7 @@ faq:
       <div class="fx-card"><h3>French Gothic</h3><p>Pointed spade tops.</p></div>
       <div class="fx-card"><h3>Scalloped</h3><p>Pickets cut to a curve.</p></div>
       <div class="fx-card"><h3>Cedar</h3><p>Our standard wood. It takes stain well, or weathers to a soft gray. Allowed under The Woodlands standards.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
-      <div class="fx-card"><h3>Powder-coated steel</h3><p>A metal picket look that reads as see-through, with no stain to keep up. Puppy pickets are available for small dogs.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
+      <div class="fx-card"><h3>Powder-coated steel</h3><p>A metal picket look that reads as see-through, with no stain to keep up. Puppy pickets are available for small dogs.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel &rarr;</a></div>
       <div class="fx-card"><h3>Vinyl</h3><p>No painting or rot. Not allowed in The Woodlands. Many HOAs elsewhere allow it, often with color limits.</p><a class="more" href="{{ '/materials/vinyl/' | relative_url }}">Vinyl &rarr;</a></div>
     </div>
     <p style="margin-top:24px">We set posts deep in concrete and build with the finished side facing out, as most local rules require.</p>

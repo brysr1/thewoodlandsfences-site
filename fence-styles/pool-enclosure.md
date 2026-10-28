@@ -51,8 +51,8 @@ faq:
     {% include eyebrow.html text="Options" %}
     <h2>Choices to make</h2>
     <div class="fx-cards">
-      <div class="fx-card"><h3>Steel pool fence</h3><p>Strong, powder-coated, and see-through.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal &rarr;</a></div>
-      <div class="fx-card"><h3>Aluminum</h3><p>Lighter and rust-proof, with the same see-through look.</p></div>
+      <div class="fx-card"><h3>Steel pool fence</h3><p>Strong, powder-coated, and see-through.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel &rarr;</a></div>
+      <div class="fx-card"><h3>Aluminum</h3><p>Lighter and rust-proof, with the same see-through look.</p><a class="more" href="{{ '/materials/aluminum/' | relative_url }}">Aluminum &rarr;</a></div>
       <div class="fx-card"><h3>Removable mesh</h3><p>Temporary barriers for families with small children.</p></div>
       <div class="fx-card"><h3>Gate hardware</h3><p>Magnetic latches mounted out of a child's reach.</p></div>
       <div class="fx-card"><h3>Cedar or composite</h3><p>A solid fence can serve as the barrier when the rails face the pool so they can't be climbed.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
@@ -91,6 +91,6 @@ faq:
       <li><span><b>Inspections.</b> A shared fence used as the barrier can mean extra inspections.</span></li>
     </ul>
     <p>See our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a> for typical ranges by material, then get a written quote for your yard.</p>
-    <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental metal</a> · <a href="{{ '/residential-fencing/' | relative_url }}">Residential</a></p>
+    <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel</a> · <a href="{{ '/residential-fencing/' | relative_url }}">Residential</a></p>
   </div>
 </section>
