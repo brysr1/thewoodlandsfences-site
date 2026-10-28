@@ -82,7 +82,7 @@ faq:
     {% include eyebrow.html text="Cost" %}
     <h2>What affects the price</h2>
     <ul class="fx-checklist">
-      <li><span><b>Material.</b> On our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, aluminum typically runs $40&ndash;$75 per linear foot installed.</span></li>
+      <li><span><b>Material.</b> On our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, aluminum typically runs $40&ndash;$100 per linear foot installed.</span></li>
       <li><span><b>Design.</b> Rail count (2-rail or 3-rail), picket style, and top style all change the price.</span></li>
       <li><span><b>Height and length.</b> Taller panels and longer runs mean more material and posts.</span></li>
       <li><span><b>Gates.</b> Each walk gate adds a frame, hinges, and a latch. Pool gates need self-closing hardware.</span></li>

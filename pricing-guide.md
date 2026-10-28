@@ -20,9 +20,9 @@ cta_text: Call or text (713) 331-9385, or book online. We'll measure and send a 
         <tr><td>Pressure-treated pine</td><td>Budget privacy fences</td><td>$25&ndash;$35</td></tr>
         <tr><td><a href="{{ '/materials/wood-cedar/' | relative_url }}">Cedar</a></td><td>Backyard privacy, stained to match</td><td>$30&ndash;$47</td></tr>
         <tr><td><a href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></td><td>Low-upkeep privacy and rail</td><td>$25&ndash;$70 (3-rail from about $25&ndash;$30; privacy from about $50)</td></tr>
-        <tr><td><a href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></td><td>Pools, lake lots, damp shaded yards</td><td>$40&ndash;$75</td></tr>
-        <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel</a></td><td>Pools, yards, golf and lake lots</td><td>$40&ndash;$75</td></tr>
-        <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Heavy-duty steel</a></td><td>Heavier rails and pickets, drive gates, security</td><td>$50&ndash;$85</td></tr>
+        <tr><td><a href="{{ '/materials/aluminum/' | relative_url }}">Aluminum</a></td><td>Pools, lake lots, damp shaded yards</td><td>$40&ndash;$100</td></tr>
+        <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel</a></td><td>Pools, yards, golf and lake lots</td><td>$40&ndash;$100</td></tr>
+        <tr><td><a href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Heavy-duty steel</a></td><td>Heavier rails and pickets, drive gates, security</td><td>$40&ndash;$100</td></tr>
         <tr><td><a href="{{ '/materials/composite-trex/' | relative_url }}">Composite / Trex</a></td><td>Wood look, least upkeep</td><td>$100&ndash;$175+</td></tr>
         <tr><td><a href="{{ '/materials/farm-ranch/' | relative_url }}">Farm &amp; ranch</a></td><td>No-climb, field fence, barbed wire</td><td>Depends on acreage and terrain; priced on site</td></tr>
       </tbody>

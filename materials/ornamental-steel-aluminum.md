@@ -84,7 +84,7 @@ faq:
     {% include eyebrow.html text="Cost" %}
     <h2>What affects the price</h2>
     <ul class="fx-checklist">
-      <li><span><b>Grade.</b> On our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, ornamental steel typically runs $40&ndash;$75 per linear foot installed, and heavy-duty steel for drive gates and security $50&ndash;$85.</span></li>
+      <li><span><b>Grade.</b> On our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, ornamental steel, including heavy-duty steel for drive gates and security, typically runs $40&ndash;$100 per linear foot installed.</span></li>
       <li><span><b>Design.</b> Rail count (2-rail or 3-rail), picket style, and top style all change the price.</span></li>
       <li><span><b>Height.</b> Taller panels and posts cost more.</span></li>
       <li><span><b>Gates and openers.</b> Walk gates, drive gates, and automatic openers are priced separately from the fence.</span></li>
