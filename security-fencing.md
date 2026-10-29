@@ -26,3 +26,19 @@ permalink: /security-fencing/
     <p>See <a href="{{ '/commercial-fencing/' | relative_url }}">commercial</a> and <a href="{{ '/industrial-fencing/' | relative_url }}">industrial</a> fencing.</p>
   </div>
 </section>
+
+<section class="fx-band">
+  <div class="fx-container fx-prose fx-narrow">
+    {% include eyebrow.html text="Gates & openers" %}
+    <h2>Gates and openers</h2>
+    <p>A security fence is only as strong as its gates. Every vehicle should come through one you control.</p>
+    <ul class="fx-checklist">
+      <li><span><b>Gate type.</b> Swing gates for standard openings. Slide or cantilever gates for wide openings and tight drives where there's no room for a swing.</span></li>
+      <li><span><b>Access control.</b> Keypads, remotes, or phone-based entry. We coordinate with your access-control or camera installer if you have one.</span></li>
+      <li><span><b>Openers.</b> Solar where there's no power at the gate. Wired for heavy gates that cycle many times a day. Ask about battery backup so the gate keeps working in an outage, and every opener has a manual release.</span></li>
+      <li><span><b>Safety sensors.</b> Sensors stop or reverse the gate if a person or vehicle is in the way.</span></li>
+      <li><span><b>Emergency access.</b> Fire department access is planned on gated sites. In The Woodlands, a gate that restricts vehicle access needs a Knox box or other approved emergency access.</span></li>
+    </ul>
+    <p>See <a href="{{ '/fence-styles/gates/' | relative_url }}">gates &amp; openers</a>.</p>
+  </div>
+</section>
