@@ -11,7 +11,7 @@ faq:
   - q: "Can a horizontal fence be a full privacy fence?"
     a: "Yes. Boards set tight give full privacy, and a slatted layout lets light and air through. In The Woodlands, a solid fence can be up to 7'6\" tall."
   - q: "Cedar or composite?"
-    a: "Cedar costs less and takes stain well. Composite costs more up front and skips the staining. Because composite contains plastic, it may not be approved in The Woodlands, so we check before you choose it."
+    a: "Cedar costs less and takes stain well. Composite costs more up front and skips the staining. Composite isn't on The Woodlands approved-materials list, so we check before you choose it."
 ---
 
 {% include hero.html small=true eyebrow="Fence styles" title="Horizontal & modern fences" lede="Clean horizontal boards for contemporary homes and outdoor living spaces." image="/assets/images/fences/horizontal-cedar.jpg" alt="Horizontal cedar fence" %}
@@ -70,7 +70,7 @@ faq:
       <li><span><b>Height.</b> Solid fences top out at 7'6", or 8'6" along major streets. A capped design gets 2 extra inches for the cap and trim.</span></li>
       <li><span><b>Finished side out.</b> The finished side faces the street or the neighbor.</span></li>
       <li><span><b>Placement.</b> Solid fences stay at least 3 feet behind the front of the house, and aren't allowed along the rear line of golf course and lake lots.</span></li>
-      <li><span><b>Materials.</b> Wood is allowed. Plastic isn't, so check with us before choosing a composite product here.</span></li>
+      <li><span><b>Materials.</b> Wood is allowed. Composite isn't on the list, so check with us before choosing it here.</span></li>
     </ul>
     <p>Outside The Woodlands, your HOA's deed restrictions decide whether horizontal is allowed and in what colors. See <a href="{{ '/service-areas/the-woodlands/' | relative_url }}">fencing in The Woodlands</a>.</p>
     <p class="fx-note">Summary only. The recorded standards and your neighborhood's criteria control, and they can change.</p>

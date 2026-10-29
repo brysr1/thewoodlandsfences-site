@@ -20,7 +20,7 @@ faq:
     <div class="fx-prose">
       {% include eyebrow.html text="Overview" %}
       <h2>Wood look, little upkeep</h2>
-      <p>Composite boards are made with wood fiber and look like wood, but they won't rot, warp, or need stain. Trex is the best-known brand. It costs more up front and pays it back in years without staining.</p>
+      <p>Composite boards are made from wood fiber and plastic resin. They look like wood, but they won't rot, warp, or need stain. Trex is the best-known brand. It costs more up front and pays it back in years without staining.</p>
       <p>Composite isn't on every approved-materials list, including The Woodlands standards, which list wood, metal, stone, and masonry. We check before you choose it.</p>
       <ul class="fx-checklist">
         <li><span><b>No staining</b> and no rot.</span></li>
