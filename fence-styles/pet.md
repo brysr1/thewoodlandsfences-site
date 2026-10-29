@@ -80,7 +80,7 @@ faq:
     {% include eyebrow.html text="Cost" %}
     <h2>What affects the price</h2>
     <ul class="fx-checklist">
-      <li><span><b>Material.</b> On our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, chain link typically runs $15&ndash;$40 per linear foot installed, cedar $30&ndash;$47, and ornamental steel $40&ndash;$100.</span></li>
+      <li><span><b>Material.</b> On our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, chain link typically runs $18&ndash;$40 per linear foot installed, cedar $30&ndash;$47, and ornamental steel $40&ndash;$100.</span></li>
       <li><span><b>Height.</b> Taller fences need more material and deeper posts.</span></li>
       <li><span><b>Dig barriers and puppy pickets.</b> Each adds material along the full run.</span></li>
       <li><span><b>Gates.</b> Self-closing hinges and latches cost more than standard hardware.</span></li>

@@ -16,7 +16,7 @@ cta_text: Call or text (713) 331-9385, or book online. We'll measure and send a 
     <div class="fx-table-wrap"><table class="fx-table">
       <thead><tr><th>Material</th><th>Where it fits</th><th>Typical installed range, per linear foot</th></tr></thead>
       <tbody>
-        <tr><td><a href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></td><td>Dog runs, acreage, commercial yards</td><td>$15&ndash;$40</td></tr>
+        <tr><td><a href="{{ '/materials/chain-link/' | relative_url }}">Chain link</a></td><td>Dog runs, acreage, commercial yards</td><td>$18&ndash;$40</td></tr>
         <tr><td>Pressure-treated pine</td><td>Budget privacy fences</td><td>$25&ndash;$35</td></tr>
         <tr><td><a href="{{ '/materials/wood-cedar/' | relative_url }}">Cedar</a></td><td>Backyard privacy, stained to match</td><td>$30&ndash;$47</td></tr>
         <tr><td><a href="{{ '/materials/vinyl/' | relative_url }}">Vinyl</a></td><td>Low-upkeep privacy and rail</td><td>$25&ndash;$70 (3-rail from about $25&ndash;$30; privacy from about $50)</td></tr>
