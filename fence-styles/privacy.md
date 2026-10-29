@@ -1,5 +1,5 @@
 ---
-title: "Privacy Fences"
+title: "Privacy Fences in The Woodlands, TX"
 description: "Six- to eight-foot fences that close off the backyard, built to your neighborhood's height and style rules. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/privacy/
 faq:
@@ -13,7 +13,7 @@ faq:
     a: "Pine costs less up front. Cedar resists rot and insects better and takes stain well. Both get the same three-rail build and deep posts. See [wood and cedar](/materials/wood-cedar/)."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Privacy fences" lede="Six- to eight-foot fences that close off the backyard, built to your neighborhood's height and style rules." image="/assets/images/fences/cedar-privacy-backyard.jpg" alt="Cedar privacy fence" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Privacy Fences in The Woodlands" lede="Six- to eight-foot fences that close off the backyard, built to your neighborhood's height and style rules." image="/assets/images/fences/cedar-privacy-backyard.jpg" alt="Cedar privacy fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

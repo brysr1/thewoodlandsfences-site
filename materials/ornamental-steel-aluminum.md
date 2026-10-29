@@ -1,5 +1,5 @@
 ---
-title: "Ornamental Steel Fences"
+title: "Ornamental Steel Fences in The Woodlands, TX"
 description: "Powder-coated steel fencing for golf and lake lots, pools, drive gates, and security. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/ornamental-steel-aluminum/
 faq_title: Ornamental steel questions
@@ -14,7 +14,7 @@ faq:
     a: "Yes. Steel pool styles have tight picket spacing and self-closing, self-latching gates. In The Woodlands, pool barrier fences need approval and an inspection. See [pool enclosures](/fence-styles/pool-enclosure/)."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Ornamental steel" lede="Powder-coated steel for golf and lake lots, pools, drive gates, and security." image="/assets/images/fences/drive-gate-steel.jpg" alt="Black steel slide gate across a driveway between brick columns" %}
+{% include hero.html small=true eyebrow="Materials" title="Ornamental Steel Fences in The Woodlands" lede="Powder-coated steel for golf and lake lots, pools, drive gates, and security." image="/assets/images/fences/drive-gate-steel.jpg" alt="Black steel slide gate across a driveway between brick columns" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

@@ -1,5 +1,5 @@
 ---
-title: "Composite & Trex Fences"
+title: "Composite & Trex Fences Near The Woodlands, TX"
 description: "The look of wood without the sanding, staining, or rot. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/composite-trex/
 faq:
@@ -13,7 +13,7 @@ faq:
     a: "Yes, slightly. Most of the change happens in the first 6 months. After that, the color holds."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Composite & Trex fences" lede="The look of wood without the sanding, staining, or rot." image="/assets/images/fences/composite-walnut.jpg" alt="Walnut-colored composite fence" %}
+{% include hero.html small=true eyebrow="Materials" title="Composite & Trex Fences Near The Woodlands" lede="The look of wood without the sanding, staining, or rot." image="/assets/images/fences/composite-walnut.jpg" alt="Walnut-colored composite fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

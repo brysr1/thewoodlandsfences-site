@@ -1,5 +1,5 @@
 ---
-title: "Split Rail & Rail Fences"
+title: "Split Rail Fences Near The Woodlands, TX"
 description: "Open rail fences for frontage, wooded lots, and acreage. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/split-rail/
 faq_title: Split rail fence questions
@@ -12,7 +12,7 @@ faq:
     a: "In unincorporated Montgomery and Harris County, a typical residential fence doesn't need a county building permit. If the line crosses a mapped floodplain, a county floodplain permit may apply. We check the flood map for your address."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Split rail & rail fences" lede="Open rail fences for frontage, wooded lots, and acreage." image="/assets/images/fences/split-rail-pines.jpg" alt="Split rail fence under pines" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Split Rail Fences Near The Woodlands" lede="Open rail fences for frontage, wooded lots, and acreage." image="/assets/images/fences/split-rail-pines.jpg" alt="Split rail fence under pines" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

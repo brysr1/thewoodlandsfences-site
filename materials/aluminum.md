@@ -1,5 +1,5 @@
 ---
-title: "Aluminum Fences"
+title: "Aluminum Fences in The Woodlands, TX"
 description: "Rust-proof ornamental aluminum fencing for pools, lake and golf lots, and front yards. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/aluminum/
 faq_title: Aluminum fence questions
@@ -14,7 +14,7 @@ faq:
     a: "Not as routine upkeep. The factory powder coat holds up well in strong sun, and there's no steel underneath to rust if it gets scratched. A rinse now and then keeps it clean."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Aluminum" lede="Rust-proof ornamental fencing for pools, lake and golf lots, and front yards." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black aluminum fence along a lakefront lawn under pine trees" %}
+{% include hero.html small=true eyebrow="Materials" title="Aluminum Fences in The Woodlands" lede="Rust-proof ornamental fencing for pools, lake and golf lots, and front yards." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black aluminum fence along a lakefront lawn under pine trees" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

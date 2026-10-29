@@ -1,5 +1,5 @@
 ---
-title: "Wood & Cedar Fences"
+title: "Wood & Cedar Fences in The Woodlands, TX"
 description: "The most common privacy fence from The Woodlands to Lake Houston, built to last in heat and humidity. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/wood-cedar/
 faq:
@@ -13,7 +13,7 @@ faq:
     a: "Wood may weather naturally, and the transparent and semi-transparent stains on the Township's list are pre-approved. Paint and solid-color stains need approval first. See [staining](/fence-staining-power-washing/)."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Wood & cedar fences" lede="The most common privacy fence from The Woodlands to Lake Houston, built to last in heat and humidity." image="/assets/images/fences/cedar-privacy-backyard.jpg" alt="New cedar privacy fence around a backyard" %}
+{% include hero.html small=true eyebrow="Materials" title="Wood & Cedar Fences in The Woodlands" lede="The most common privacy fence from The Woodlands to Lake Houston, built to last in heat and humidity." image="/assets/images/fences/cedar-privacy-backyard.jpg" alt="New cedar privacy fence around a backyard" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

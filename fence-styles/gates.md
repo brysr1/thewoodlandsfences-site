@@ -1,5 +1,5 @@
 ---
-title: "Gates & Gate Openers"
+title: "Gates & Gate Openers in The Woodlands, TX"
 description: "Walk gates, drive gates, and automatic openers that swing true for years. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/gates/
 faq_title: Gate questions
@@ -12,7 +12,7 @@ faq:
     a: "Often, yes. We re-hang it, brace it, and fit new hinges or a latch. If the gate post is rotting at the ground, the post needs replacing too. See [repair](/maintenance-repair/)."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Gates & gate openers" lede="Walk gates, drive gates, and automatic openers that swing true for years." image="/assets/images/fences/drive-gate-cedar.jpg" alt="Cedar double drive gate" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Gates & Gate Openers in The Woodlands" lede="Walk gates, drive gates, and automatic openers that swing true for years." image="/assets/images/fences/drive-gate-cedar.jpg" alt="Cedar double drive gate" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

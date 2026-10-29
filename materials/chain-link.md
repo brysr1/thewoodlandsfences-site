@@ -1,5 +1,5 @@
 ---
-title: "Chain Link Fences"
+title: "Chain Link Fences Near The Woodlands, TX"
 description: "Tough, affordable fencing for dog runs, acreage, and commercial yards. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/chain-link/
 faq:
@@ -13,7 +13,7 @@ faq:
     a: "For most dogs, yes. For diggers, we add a dig barrier along the base. For jumpers, go taller. See [pet fences](/fence-styles/pet/)."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Chain link fences" lede="Tough, affordable fencing for dog runs, acreage, and commercial yards." image="/assets/images/fences/chain-link-black.jpg" alt="Black vinyl-coated chain link fence" %}
+{% include hero.html small=true eyebrow="Materials" title="Chain Link Fences Near The Woodlands" lede="Tough, affordable fencing for dog runs, acreage, and commercial yards." image="/assets/images/fences/chain-link-black.jpg" alt="Black vinyl-coated chain link fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

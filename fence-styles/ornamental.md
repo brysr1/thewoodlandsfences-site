@@ -1,5 +1,5 @@
 ---
-title: "Ornamental Fences"
+title: "Ornamental Fences in The Woodlands, TX"
 description: "Black powder-coated steel and aluminum fences that secure the yard and keep the view. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/ornamental/
 faq_title: Ornamental fence questions
@@ -12,7 +12,7 @@ faq:
     a: "Both give the same look. Steel is heavier and stiffer, which helps on drive gates and street frontage. Aluminum can't rust, which helps around pools and water. See [ornamental steel](/materials/ornamental-steel-aluminum/) and [aluminum](/materials/aluminum/)."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Ornamental fences" lede="Black powder-coated steel and aluminum fences that secure the yard and keep the view." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black ornamental fence on a lakefront lawn" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Ornamental Fences in The Woodlands" lede="Black powder-coated steel and aluminum fences that secure the yard and keep the view." image="/assets/images/fences/aluminum-lakefront.jpg" alt="Black ornamental fence on a lakefront lawn" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

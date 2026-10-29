@@ -1,6 +1,6 @@
 ---
 title: Fence Company in Spring, TX
-description: Fence installation and repair in Spring, TX, from Gleannloch Farms and Champion Forest to Augusta Pines, Harmony, and Woodson's Reserve. Floodplain and HOA checks included. Call (713) 331-9385.
+description: Fence installation and repair in Spring, TX, from Augusta Pines and Auburn Lakes to Harmony and Woodson's Reserve. Floodplain and HOA checks included. Call (713) 331-9385.
 permalink: /service-areas/spring-tx/
 cta_heading: Fencing a home in Spring?
 cta_text: Call or text (713) 331-9385. We'll check the flood map and your deed restrictions, then send a written quote.
@@ -36,10 +36,10 @@ faq:
     {% include eyebrow.html text="Lots, ground & styles" %}
     <h2>What Spring properties usually need</h2>
     <div class="fx-cards">
-      <div class="fx-card"><h3>Creek-side lots</h3><p>Cypress Creek's watershed covers 267 square miles. More than 8,700 homes along it flooded in Harvey, with Champion Forest among the hardest hit. On these lots we check the flood zone first, set posts for wet ground, and choose fence designs that let water pass.</p></div>
+      <div class="fx-card"><h3>Creek-side lots</h3><p>Cypress Creek's watershed covers 267 square miles. More than 8,700 homes along it flooded in Harvey. On these lots we check the flood zone first, set posts for wet ground, and choose fence designs that let water pass.</p></div>
       <div class="fx-card"><h3>Golf and lake communities</h3><p>Augusta Pines and Auburn Lakes are built around golf courses, where see-through ornamental fencing usually keeps both the view and the HOA happy.</p><a class="more" href="{{ '/fence-styles/ornamental/' | relative_url }}">Ornamental fences &rarr;</a></div>
-      <div class="fx-card"><h3>Equestrian and estate lots</h3><p>Gleannloch Farms has its own equestrian center, and Benders Landing Estates includes gated acre-plus lots. Rail, board, and no-climb wire come up here more than in a typical subdivision.</p><a class="more" href="{{ '/materials/farm-ranch/' | relative_url }}">Farm &amp; ranch &rarr;</a></div>
-      <div class="fx-card"><h3>Builder-fence replacements</h3><p>Neighborhoods built out in the 1980s and 1990s, like Champion Forest, Olde Oaks, Kleinwood, and Memorial Northwest, are full of original fences ready to be replaced.</p><a class="more" href="{{ '/maintenance-repair/' | relative_url }}">Repair or replace &rarr;</a></div>
+      <div class="fx-card"><h3>Equestrian and estate lots</h3><p>Benders Landing Estates includes gated acre-plus lots. Rail, board, and no-climb wire come up here more than in a typical subdivision.</p><a class="more" href="{{ '/materials/farm-ranch/' | relative_url }}">Farm &amp; ranch &rarr;</a></div>
+      <div class="fx-card"><h3>Builder-fence replacements</h3><p>Older Spring neighborhoods are full of original builder fences ready to be replaced.</p><a class="more" href="{{ '/maintenance-repair/' | relative_url }}">Repair or replace &rarr;</a></div>
     </div>
   </div>
 </section>
@@ -50,9 +50,22 @@ faq:
     <h2>Spring neighborhoods we work in</h2>
     <p class="fx-nbhd-label"><strong>Neighborhood guides</strong></p>
     {% include nbhd-list.html hub="spring-tx" %}
-    <p><strong>On the Harris County side:</strong> <strong>Gleannloch Farms</strong>, near Spring Cypress and Champion Forest Drive, with its equestrian center; <strong>Champion Forest</strong>, about 1,500 homes around Cypresswood and Champion Forest Drive; <strong>Memorial Northwest</strong>, more than 2,000 homes near Louetta and Champion Forest; <strong>Kleinwood</strong> and <strong>Spring Creek Oaks</strong> nearby off Louetta; <strong>Olde Oaks</strong>, along TC Jester between FM 1960 and Cypress Creek; <strong>Augusta Pines</strong>, built around its 18-hole golf club; <strong>Auburn Lakes</strong>, along Gosling Road with the Willow Creek course and gated Auburn Lakes Estates sections; plus <strong>Northgate Forest</strong>, <strong>Villages of Northgate Crossing</strong>, <strong>Enchanted Oaks</strong>, and <strong>Cypresswood Lake</strong>.</p>
+    <p><strong>On the Harris County side:</strong> <strong>Spring Creek Oaks</strong>, off Louetta; <strong>Augusta Pines</strong>, built around its 18-hole golf club; <strong>Auburn Lakes</strong>, along Gosling Road with the Willow Creek course and gated Auburn Lakes Estates sections; plus <strong>Villages of Northgate Crossing</strong>, <strong>Enchanted Oaks</strong>, and <strong>Cypresswood Lake</strong>.</p>
     <p><strong>On the Montgomery County side:</strong> <strong>Harmony</strong>, about 1,000 acres on the Rayford Road corridor; <strong>Spring Trails</strong>, with its preserved forest and trail network; <strong>Woodson's Reserve</strong>, 692 acres with fishing lakes on the Grand Parkway; <strong>Imperial Oaks</strong> and <strong>The Falls at Imperial Oaks</strong>; and <strong>Benders Landing</strong> and <strong>Benders Landing Estates</strong>, where some sections are gated with lots of an acre or more.</p>
+    <p>Klein, Champion Forest and Gleannloch Farms are served by our sister company, <a href="https://northhoustonfence.com/service-areas/northwest-houston/">76 Fence North Houston</a>.</p>
     <p>We also work just west of Spring in <strong>Villages of NorthPointe</strong>, a Tomball-area community with a lake and trails.</p>
     <p>Close by: <a href="{{ '/service-areas/the-woodlands/' | relative_url }}">The Woodlands</a> to the north and <a href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble</a> to the east.</p>
+  </div>
+</section>
+
+<section class="fx-band fx-band-alt">
+  <div class="fx-container fx-prose">
+    {% include eyebrow.html text="Repairs" %}
+    <h2>Fence Repair in Spring</h2>
+    <p>Most repair calls we get in Spring come down to a few problems: posts leaning after a wet season, sections knocked down by wind or a falling limb, loose or split pickets, and gates that drag or won't latch. On creek-side lots, ground that stays wet is hard on wood posts.</p>
+    <p>We reset or replace posts in concrete, rebuild storm-damaged sections to match what's still standing, replace pickets and re-fasten rails with brackets, and re-hang or brace sagging gates. Small repairs can often be priced from photos. Text a few pictures and a short description to (713) 331-9385. Larger or unclear repairs get a site visit.</p>
+    <p>If posts are failing along much of the line, patching only buys a season, and replacing usually costs less over time. We'll show you what we see and give you both options when both are reasonable.</p>
+    <p>Before a larger repair, check your deed restrictions. Most Spring HOAs specify a stain or color, and a rebuilt section should match the rest of the fence.</p>
+    <p>See <a href="{{ '/maintenance-repair/' | relative_url }}">fence repair &amp; maintenance</a>.</p>
   </div>
 </section>

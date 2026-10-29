@@ -103,7 +103,7 @@ faq:
     <p class="fx-lead">Our office is on Lake Plaza Drive in Spring, just off I-45. From there we cover The Woodlands and Spring, east through Porter and New Caney, and around Lake Houston to Kingwood, Humble, Atascocita, and Huffman.</p>
     <div class="fx-area-grid">
       <div><h3><a href="{{ '/service-areas/the-woodlands/' | relative_url }}">The Woodlands</a></h3><p>All eight villages, built to the Township's fence standards and RDRC approval.</p></div>
-      <div><h3><a href="{{ '/service-areas/spring-tx/' | relative_url }}">Spring</a></h3><p>Golf and lake communities, Gleannloch Farms, and the older neighborhoods along Cypress Creek.</p></div>
+      <div><h3><a href="{{ '/service-areas/spring-tx/' | relative_url }}">Spring</a></h3><p>Golf and lake communities like Augusta Pines and Auburn Lakes, plus Harmony and Woodson's Reserve.</p></div>
       <div><h3><a href="{{ '/service-areas/kingwood/' | relative_url }}">Kingwood</a></h3><p>"The Livable Forest," its villages, and City of Houston rules.</p></div>
       <div><h3><a href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita</a></h3><p>Lake Houston shoreline, golf courses, and new master-planned sections.</p></div>
       <div><h3><a href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble</a></h3><p>City of Humble and the established subdivisions around it.</p></div>

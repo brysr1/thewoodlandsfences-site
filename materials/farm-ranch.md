@@ -1,5 +1,5 @@
 ---
-title: "Farm & Ranch Fences"
+title: "Farm & Ranch Fences Near The Woodlands, TX"
 description: "Board, pipe, and wire fencing for acreage in Porter, Splendora, Huffman, and beyond. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/farm-ranch/
 faq:
@@ -13,7 +13,7 @@ faq:
     a: "We walk the line with you first. Brush and small trees along the line add labor and are part of your quote. We'll tell you up front if the line needs heavier clearing."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Farm & ranch fences" lede="Board, pipe, and wire fencing for acreage in Porter, Splendora, Huffman, and beyond." image="/assets/images/fences/ranch-black-board.jpg" alt="Black four-board ranch fence" %}
+{% include hero.html small=true eyebrow="Materials" title="Farm & Ranch Fences Near The Woodlands" lede="Board, pipe, and wire fencing for acreage in Porter, Splendora, Huffman, and beyond." image="/assets/images/fences/ranch-black-board.jpg" alt="Black four-board ranch fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

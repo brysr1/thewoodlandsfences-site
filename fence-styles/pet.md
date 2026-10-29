@@ -1,5 +1,5 @@
 ---
-title: "Pet Fences"
+title: "Dog & Pet Fences in The Woodlands, TX"
 description: "Fences that keep dogs in: dig barriers, tight gaps, and latches they can't open. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/pet/
 faq_title: Pet fence questions
@@ -12,7 +12,7 @@ faq:
     a: "It depends on the dog. Most yards are fine at 6 feet. A determined jumper may need the most height your rules allow, which in The Woodlands is 7'6\" for a solid fence."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Pet fences" lede="Fences that keep dogs in: dig barriers, tight gaps, and latches they can't open." image="/assets/images/fences/privacy-new-home.jpg" alt="Cedar privacy fence at a new home" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Dog & Pet Fences in The Woodlands" lede="Fences that keep dogs in: dig barriers, tight gaps, and latches they can't open." image="/assets/images/fences/privacy-new-home.jpg" alt="Cedar privacy fence at a new home" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

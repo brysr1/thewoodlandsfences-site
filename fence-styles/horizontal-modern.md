@@ -1,5 +1,5 @@
 ---
-title: "Horizontal & Modern Fences"
+title: "Horizontal & Modern Fences in The Woodlands, TX"
 description: "Clean horizontal boards for contemporary homes and outdoor living spaces. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/horizontal-modern/
 faq_title: Horizontal fence questions
@@ -14,7 +14,7 @@ faq:
     a: "Cedar costs less and takes stain well. Composite costs more up front and skips the staining. Composite isn't on The Woodlands approved-materials list, so we check before you choose it."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Horizontal & modern fences" lede="Clean horizontal boards for contemporary homes and outdoor living spaces." image="/assets/images/fences/horizontal-cedar.jpg" alt="Horizontal cedar fence" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Horizontal & Modern Fences in The Woodlands" lede="Clean horizontal boards for contemporary homes and outdoor living spaces." image="/assets/images/fences/horizontal-cedar.jpg" alt="Horizontal cedar fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

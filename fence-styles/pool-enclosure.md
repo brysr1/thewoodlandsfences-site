@@ -1,5 +1,5 @@
 ---
-title: "Pool Enclosure Fences"
+title: "Pool Enclosure Fences in The Woodlands, TX"
 description: "Code-compliant pool barriers with self-closing, self-latching gates. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/pool-enclosure/
 faq_title: Pool fence questions
@@ -14,7 +14,7 @@ faq:
     a: "A temporary barrier has to be up any time part of the permanent one is down."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Pool enclosures" lede="Code-compliant pool barriers with self-closing, self-latching gates." image="https://images.unsplash.com/photo-1635108200867-ccb3f64d0082?auto=format&fit=crop&w=1400&q=80" alt="Backyard pool behind a black metal pool fence and gate" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Pool Enclosure Fences in The Woodlands" lede="Code-compliant pool barriers with self-closing, self-latching gates." image="https://images.unsplash.com/photo-1635108200867-ccb3f64d0082?auto=format&fit=crop&w=1400&q=80" alt="Backyard pool behind a black metal pool fence and gate" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

@@ -1,5 +1,5 @@
 ---
-title: "Vinyl Fences"
+title: "Vinyl Fences Near The Woodlands, TX"
 description: "Privacy and rail fences with no staining, no rot, and an easy rinse when the pollen comes. Installed by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /materials/vinyl/
 faq:
@@ -15,7 +15,7 @@ faq:
     a: "Usually, yes. Panels and rails slide into the posts, so a broken section can often be swapped without rebuilding the run. Matching an older color can be harder, so it helps to keep a spare."
 ---
 
-{% include hero.html small=true eyebrow="Materials" title="Vinyl fences" lede="Privacy and rail fences with no staining, no rot, and an easy rinse when the pollen comes." image="/assets/images/fences/vinyl-privacy.jpg" alt="White vinyl privacy fence" %}
+{% include hero.html small=true eyebrow="Materials" title="Vinyl Fences Near The Woodlands" lede="Privacy and rail fences with no staining, no rot, and an easy rinse when the pollen comes." image="/assets/images/fences/vinyl-privacy.jpg" alt="White vinyl privacy fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

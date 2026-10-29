@@ -41,6 +41,17 @@ faq:
   </div>
 </section>
 
+<section class="fx-band fx-band-alt">
+  <div class="fx-container fx-prose">
+    {% include eyebrow.html text="Land, water & livestock" %}
+    <h2>Fencing Huffman acreage</h2>
+    <p><b>Check the flood risk first.</b> Huffman drains to three watersheds: the San Jacinto River, Luce Bayou, and Cedar Bayou. The Harris County Flood Control District studied <a href="https://hcfcd.org/F110" rel="noopener">the sources of flooding in and around Huffman</a>, and notes that a major flood happens somewhere in Harris County about every two years. Before we quote a long run near a bayou or low ground, we look up the lot's flood zone, since that decides whether a county permit is needed and how the fence should handle moving water.</p>
+    <p><b>Know who has to fence what.</b> Texas is open range by default: livestock owners generally don't have to fence animals in, so a neighbor who wants them kept out builds the fence. Counties can change that by local election, and land along U.S. and state highways is always treated as closed range, though farm-to-market roads aren't included. There's no single statewide list of which areas have a stock law, so Texas A&amp;M's <a href="https://agecoext.tamu.edu/wp-content/uploads/sites/5/2022/07/Second-Edition-Five-Strands.pdf" rel="noopener">Five Strands fence law handbook</a> suggests checking with the sheriff, county attorney, Extension agent, or county clerk.</p>
+    <p><b>Feral hogs.</b> If hogs are getting into your land, Texas A&amp;M AgriLife <a href="https://feralhogs.tamu.edu/preventative-options" rel="noopener">recommends</a> a strong 6-foot net-wire perimeter fence with the bottom touching the ground everywhere, gates kept closed at night, or an electric fence with at least two strands, about 8 and 18 inches off the ground. We build electric fence, too.</p>
+    <p>See <a href="{{ '/materials/farm-ranch/' | relative_url }}">farm &amp; ranch fencing</a> for what we build on acreage.</p>
+  </div>
+</section>
+
 <section class="fx-band">
   <div class="fx-container fx-prose">
     {% include eyebrow.html text="Neighborhoods we serve" %}

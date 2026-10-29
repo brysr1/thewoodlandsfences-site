@@ -1,5 +1,5 @@
 ---
-title: "Semi-Privacy Fences"
+title: "Semi-Privacy Fences in The Woodlands, TX"
 description: "Shadowbox, lattice-top, and spaced-picket designs that let air and light through. Built by 76 Fence of The Woodlands. Call (713) 331-9385."
 permalink: /fence-styles/semi-privacy/
 faq_title: Semi-privacy fence questions
@@ -14,7 +14,7 @@ faq:
     a: "Usually a little. Boards go on both sides of the rails, so it takes more pickets and more labor per foot than a side-by-side fence."
 ---
 
-{% include hero.html small=true eyebrow="Fence styles" title="Semi-privacy fences" lede="Shadowbox, lattice-top, and spaced-picket designs that let air and light through." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="Shadowbox cedar fence" %}
+{% include hero.html small=true eyebrow="Fence styles" title="Semi-Privacy Fences in The Woodlands" lede="Shadowbox, lattice-top, and spaced-picket designs that let air and light through." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="Shadowbox cedar fence" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">
