@@ -14,7 +14,7 @@ map_q: "Gleannloch Farms, Spring, TX 77379"
 map_z: 13
 facts:
   - { k: "Location", v: "Spring, between Spring Cypress Rd and Boudreaux Rd, west of Champion Forest Dr" }
-  - { k: "ZIP", v: "77379 (some sections 77388)" }
+  - { k: "ZIP", v: "77379" }
   - { k: "County", v: "Harris, unincorporated" }
   - { k: "Size", v: "About 2,100 acres" }
   - { k: "Golf", v: "27-hole Gleannloch Pines Golf Club (1999)" }
@@ -24,7 +24,7 @@ cta_text: "Call or text (713) 331-9385, or book online. We'll check the flood ma
 faq_title: "Gleannloch Farms fence questions"
 faq:
   - q: "Do you serve Gleannloch Farms?"
-    a: "Yes. We install and repair fences throughout Gleannloch Farms, in both the 77379 and 77388 sections. Our office is at 1401 Lake Plaza Dr in Spring, just off I-45."
+    a: "Yes. We install and repair fences throughout Gleannloch Farms (77379). Our office is at 1401 Lake Plaza Dr in Spring, just off I-45."
   - q: "Do I need a county permit for a fence in Gleannloch Farms?"
     a: "Gleannloch Farms is in unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. With this many lakes, some lots sit in or near a mapped flood zone, so we check your address before we quote. If it's in an A or V zone, the county needs a permit with a site plan and fence design."
   - q: "Do I need HOA approval?"
