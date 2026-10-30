@@ -16,7 +16,6 @@
   url: /service-areas/spring-tx/
   items:
     - { title: "Augusta Pines", url: /neighborhoods/augusta-pines/ }
-    - { title: "Gleannloch Farms", url: /neighborhoods/gleannloch-farms/ }
     - { title: "Spring Trails", url: /neighborhoods/spring-trails/ }
     - { title: "Woodson's Reserve", url: /neighborhoods/woodsons-reserve/ }
 - hub: kingwood
