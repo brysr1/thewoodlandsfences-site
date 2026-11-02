@@ -26,6 +26,7 @@ google_site_verification: "uDwRHa8EuJLm3ixCVrYNmSSbcY30RNPeUK3jASqn3Ew"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 defaults:
   - scope:
