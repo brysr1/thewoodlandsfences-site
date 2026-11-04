@@ -74,6 +74,6 @@ Outside the Township, your HOA's deed restrictions usually set style and height.
 
 ## Planning a fence for your dog?
 
-Tell us about your dog, digger, jumper, or escape artist, and we'll walk the line, find the weak spots, and price a fence built around it. [Request a free estimate](/contact/) or call (713) 331-9385.
+Tell us whether your dog is a digger, a jumper, or an escape artist. We'll walk the line, find the weak spots, and price a fence built around it. [Request a free estimate](/contact/) or call (713) 331-9385.
 
 <p class="fx-note">Pet fence, dog run, height, and mesh rules summarized from Sections 2.4 and 2.6 of The Woodlands Township's 2024 Residential Development Standards (recorded December 10, 2024). The recorded standards and your Neighborhood Criteria control, and they can change.</p>
