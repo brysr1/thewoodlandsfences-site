@@ -20,7 +20,7 @@ business:
   instagram: https://www.instagram.com/76fencethewoodlands
 
 # Add a GA4 measurement ID (G-XXXXXXX) and Search Console code when they exist
-google_analytics:
+google_analytics: G-8YXPTWR5EV
 google_site_verification: "uDwRHa8EuJLm3ixCVrYNmSSbcY30RNPeUK3jASqn3Ew"
 
 plugins:
