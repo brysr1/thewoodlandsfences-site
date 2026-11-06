@@ -35,7 +35,7 @@ Builder fences vary, but the ones we see most often have a few things in common:
 
 - **Two rails instead of three**, so pickets have more room to cup and warp.
 - **No rot board**, which leaves the bottom of every picket sitting in damp soil and mulch.
-- **Thin pickets** and nails that rust and streak.
+- **Nails that rust** and leave streaks down the pickets.
 - **Posts set as fast as the schedule allowed**, without much thought about depth or wet ground.
 
 For comparison, our standard wood fence uses three rails, a 6-inch rot board, galvanized ring-shank nails, and posts at least 24 inches deep with 80 pounds of concrete each, deeper in loose or wet ground. Those details don't show on day one. They show after the second wet winter.
