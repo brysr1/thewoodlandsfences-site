@@ -65,7 +65,7 @@ faq:
       <li><span><b>Good-neighbor fences.</b> A new alternating-side fence needs your neighbor's written consent, but repairing or replacing an existing one doesn't.</span></li>
       <li><span><b>Stain.</b> Transparent and semi-transparent stains on the Township's list are pre-approved. Paint and solid-color stains need approval first.</span></li>
     </ul>
-    <p>Our <a href="{{ '/resources/woodlands-fence-approval-rdrc/' | relative_url }}">step-by-step approval guide</a> covers what to submit. Outside The Woodlands, your HOA's deed restrictions usually set the style, height, and stain color, and a rebuilt section should match them.</p>
+    <p>Our <a href="{{ '/resources/woodlands-fence-repair-approval/' | relative_url }}">repair approval guide</a> covers where the line falls, and our <a href="{{ '/resources/woodlands-fence-approval-rdrc/' | relative_url }}">step-by-step approval guide</a> covers what to submit. For gates, see <a href="{{ '/resources/fix-sagging-fence-gate/' | relative_url }}">how to fix a sagging gate</a>, and after a storm, our <a href="{{ '/resources/fence-storm-damage-insurance-claim/' | relative_url }}">insurance claim guide</a>. Outside The Woodlands, your HOA's deed restrictions usually set the style, height, and stain color, and a rebuilt section should match them.</p>
     <p class="fx-note">Summary only. The recorded standards and your neighborhood's criteria control, and they can change.</p>
   </div>
 </section>

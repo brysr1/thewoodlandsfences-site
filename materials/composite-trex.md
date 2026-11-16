@@ -6,7 +6,7 @@ faq:
   - q: "Is composite worth the price?"
     a: "If you plan to stay and hate staining, often yes. Over 10-plus years the lack of maintenance closes much of the gap with cedar."
   - q: "Can I put a composite fence up in The Woodlands?"
-    a: "Maybe not. The Township's standards list wood, metal, stone, and masonry as approved materials, and composite isn't on that list. Your village RDRC makes the call, so we check before you choose it. Cedar is the usual choice there."
+    a: "No. The Township's standards list wood, metal, stone, and masonry as approved materials, and composite isn't allowed. Cedar or ornamental steel is the usual choice there. Composite can work in Kingwood, Humble, Spring, and other areas where the HOA allows it. See our [composite guide](/resources/composite-fence-woodlands/)."
   - q: "Does composite need any maintenance?"
     a: "Very little. Rinse off dirt and pollen once or twice a year. In shady, damp spots, wash off any mildew before it builds up. There's no sanding, sealing, or staining."
   - q: "Will a composite fence fade?"
@@ -20,12 +20,12 @@ faq:
     <div class="fx-prose">
       {% include eyebrow.html text="Overview" %}
       <h2>Wood look, little upkeep</h2>
-      <p>Composite boards are made from wood fiber and plastic resin. They look like wood, but they won't rot, warp, or need stain. Trex is the best-known brand. It costs more up front and pays it back in years without staining.</p>
-      <p>Composite isn't on every approved-materials list, including The Woodlands standards, which list wood, metal, stone, and masonry. We check before you choose it.</p>
+      <p>Composite boards are made from wood fiber and resin. They look like wood, but they won't rot, warp, or need stain. Trex is the best-known brand. It costs more up front and pays it back in years without staining.</p>
+      <p>Composite isn't allowed inside The Woodlands, where the standards list wood, metal, stone, and masonry. In Kingwood, Humble, Spring, and other areas, we check your HOA's rules before you choose it.</p>
       <ul class="fx-checklist">
         <li><span><b>No staining</b> and no rot.</span></li>
         <li><span><b>Consistent color</b> that resists fading.</span></li>
-        <li><span><b>Check approval</b> in The Woodlands and with your HOA.</span></li>
+        <li><span><b>Not allowed</b> in The Woodlands. Elsewhere, check with your HOA.</span></li>
       </ul>
     </div>
     <figure class="fx-photo-callout"><img src="{{ '/assets/images/fences/composite-pool-gate.jpg' | relative_url }}" alt="Brown composite privacy fence with a double gate beside a backyard pool" loading="lazy"></figure>
@@ -41,7 +41,7 @@ faq:
       <li><span><b>Around a pool.</b> Splash and wet ground don't rot composite the way they can rot wood.</span></li>
       <li><span><b>Shady, damp yards.</b> Under heavy pines, wood stays wet and wears faster. Composite holds up better.</span></li>
       <li><span><b>Modern and horizontal designs.</b> Boards stay straight, which keeps long horizontal lines clean. See <a href="{{ '/fence-styles/horizontal-modern/' | relative_url }}">horizontal fences</a>.</span></li>
-      <li><span><b>Not in The Woodlands, usually.</b> Composite isn't on the approved-materials list there. See <a href="{{ '/materials/wood-cedar/' | relative_url }}">cedar</a> instead.</span></li>
+      <li><span><b>Not in The Woodlands.</b> Composite isn't allowed there. See <a href="{{ '/materials/wood-cedar/' | relative_url }}">cedar</a> instead, or our guide to <a href="{{ '/resources/composite-fence-woodlands/' | relative_url }}">where composite works</a>.</span></li>
     </ul>
   </div>
 </section>

@@ -7,7 +7,7 @@ cta_text: Call or text (713) 331-9385. We walk the line with you and quote it in
 faq_title: Huffman fence questions
 faq:
   - q: Do I need a permit for a fence in Huffman?
-    a: Huffman is unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Inside an A or V flood zone, it does, with a site plan and fence design. Deed restrictions or HOA rules may also apply.
+    a: Huffman is unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Inside an A or V flood zone, it does. Deed restrictions or HOA rules may also apply.
   - q: Can you fence several acres?
     a: Yes. We build field fence, no-climb horse fence, board and pipe fence, and wide drive gates for acreage, and we price long runs by the foot.
   - q: Do you work in The Commons of Lake Houston?
@@ -22,7 +22,7 @@ faq:
     <h2>Open country on the edge of the lake</h2>
     <p>Huffman covers about 39 square miles of unincorporated northeast Harris County, with roughly 12,000 residents spread across acreage tracts, wooded lots, and a handful of subdivisions. Lake Houston Wilderness Park sits next door. Properties here are bigger than in most of our service area, so the work leans toward long fence runs, wide gates, and fencing for animals.</p>
     <div class="fx-rule-box">
-      <p><strong>Harris County:</strong> no county permit for a residential fence outside the special flood hazard area. Inside an A or V zone, a permit with site plan and fence design is required.</p>
+      <p><strong>Harris County:</strong> no county permit for a residential fence outside the special flood hazard area. Inside an A or V zone, a county permit is required.</p>
       <p><strong>Deed restrictions:</strong> many tracts and subdivisions have them, even out here. We check yours before we quote.</p>
     </div>
   </div>

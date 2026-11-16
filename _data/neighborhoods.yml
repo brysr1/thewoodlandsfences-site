@@ -8,6 +8,7 @@
     - { title: "College Park", url: /neighborhoods/college-park/ }
     - { title: "Creekside Park", url: /neighborhoods/creekside-park/ }
     - { title: "Grogan's Mill", url: /neighborhoods/grogans-mill/ }
+    - { title: "Harper's Landing", url: /neighborhoods/harpers-landing/ }
     - { title: "Indian Springs", url: /neighborhoods/indian-springs/ }
     - { title: "Panther Creek", url: /neighborhoods/panther-creek/ }
     - { title: "Sterling Ridge", url: /neighborhoods/sterling-ridge/ }
@@ -26,6 +27,10 @@
     - { title: "Elm Grove", url: /neighborhoods/elm-grove/ }
     - { title: "Fosters Mill", url: /neighborhoods/fosters-mill/ }
     - { title: "Kings Point", url: /neighborhoods/kings-point/ }
+    - { title: "Kingwood Greens", url: /neighborhoods/kingwood-greens/ }
+    - { title: "Mills Branch", url: /neighborhoods/mills-branch/ }
+    - { title: "Trailwood", url: /neighborhoods/trailwood/ }
+    - { title: "Woodland Hills", url: /neighborhoods/woodland-hills-kingwood/ }
 - hub: atascocita
   title: "Atascocita"
   url: /service-areas/atascocita/
@@ -45,7 +50,7 @@
   items:
     - { title: "The Commons of Lake Houston", url: /neighborhoods/commons-of-lake-houston/ }
 - hub: porter-new-caney-splendora
-  title: "Porter, New Caney & Splendora"
+  title: "Porter"
   url: /service-areas/porter-new-caney-splendora/
   items:
     - { title: "The Highlands", url: /neighborhoods/the-highlands-porter/ }

@@ -26,7 +26,7 @@ faq:
   - q: "Do you serve The Commons of Lake Houston?"
     a: "Yes. We work across Huffman, including every section of The Commons. Estimates are free, and we're open 7 days, 7 AM to 7 PM."
   - q: "Do I need a permit?"
-    a: "The Commons is in unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Inside an A or V flood zone, the county requires one with a site plan and fence design. We check the flood map for your lot."
+    a: "The Commons is in unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Inside an A or V flood zone, the county requires one. We check the flood map for your lot."
   - q: "Can I fence my whole acre or two?"
     a: "Usually, as long as the style fits your section's deed restrictions. Many owners do cedar privacy around the house and yard and a rail or wire fence on the rest of the line. We confirm what's allowed first."
   - q: "Do you build horse fence?"
@@ -65,10 +65,10 @@ faq:
     <h2>Before you fence in The Commons</h2>
     <ul class="fx-checklist">
       <li><span><b>Deed restrictions.</b> We check the restrictions for your section and get any needed approval before we build.</span></li>
-      <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, a Harris County permit with site plan and fence design is required.</span></li>
+      <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, a Harris County permit is required.</span></li>
       <li><span><b>Property lines.</b> On acreage, a survey matters. We set the fence from your survey or pins, not a guess.</span></li>
       <li><span><b>Trees and clearing.</b> We clear only a narrow line for the fence and work around the trees you want to keep.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

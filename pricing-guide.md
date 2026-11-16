@@ -39,7 +39,7 @@ cta_text: Call or text (713) 331-9385, or book online. We'll measure and send a 
       <div class="fx-card"><h3>Required styles and stain</h3><p>A capped design, board-on-board, or a specified stain color adds material and labor. We price the fence your RDRC or HOA will approve.</p></div>
       <div class="fx-card"><h3>See-through requirements</h3><p>Golf, lake, and reserve lots often need ornamental metal instead of wood, which changes the price per foot.</p></div>
       <div class="fx-card"><h3>Tear-out and haul-off</h3><p>Removing an old fence and breaking out old footings takes labor. It's included in your quote.</p></div>
-      <div class="fx-card"><h3>Flood zones and wet ground</h3><p>Creek-side and low lots may need deeper or wider footings, open designs, and in some Harris County flood zones a permit with a site plan.</p></div>
+      <div class="fx-card"><h3>Flood zones and wet ground</h3><p>Creek-side and low lots may need deeper or wider footings, open designs, and in Harris County flood zones a county permit.</p></div>
       <div class="fx-card"><h3>Long acreage runs</h3><p>On larger tracts, price per foot drops while the total rises. Brace assemblies, drive gates, and access all show up.</p></div>
     </div>
   </div>

@@ -66,10 +66,10 @@ faq:
     <h2>Before you fence in Fall Creek</h2>
     <ul class="fx-checklist">
       <li><span><b>City limits.</b> Fall Creek is outside the City of Humble and the City of Houston, so neither city's fence rules apply.</span></li>
-      <li><span><b>Permits.</b> Unincorporated Harris County requires no fence permit outside the special flood hazard area. Inside an A or V zone, a permit with site plan and fence design is required.</span></li>
+      <li><span><b>Permits.</b> Unincorporated Harris County requires no fence permit outside the special flood hazard area. Inside an A or V zone, a county permit is required.</span></li>
       <li><span><b>Approvals.</b> We confirm your HOA's current fence requirements and prepare your drawing and written quote.</span></li>
       <li><span><b>Flood and drainage.</b> Lake-side and low lots get a flood map check first, and we choose designs that let water pass.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

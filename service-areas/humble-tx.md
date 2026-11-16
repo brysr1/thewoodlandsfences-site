@@ -24,7 +24,7 @@ faq:
     <p>That split matters for fencing. Inside city limits, a fence needs a City of Humble permit. Outside, in unincorporated Harris County, a fence outside the special flood hazard area doesn't need a county permit. Either way, the HOA has its own say.</p>
     <div class="fx-rule-box">
       <p><strong>City of Humble:</strong> residential fence permit, $50 plus $1 per 25 linear feet. Commercial, $100 plus a per-foot fee.</p>
-      <p><strong>Unincorporated Harris County:</strong> no permit outside the special flood hazard area; a permit with site plan and fence design inside an A or V zone.</p>
+      <p><strong>Unincorporated Harris County:</strong> no permit outside the special flood hazard area; a permit inside an A or V zone.</p>
     </div>
   </div>
 </section>

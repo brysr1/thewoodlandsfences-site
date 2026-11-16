@@ -26,7 +26,7 @@ cta_text: Call or text (713) 331-9385, or book online. We'll check the rules for
 <section class="fx-band">
   <div class="fx-container fx-prose fx-narrow">
     <h2>Steps 1 and 2: the estimate</h2>
-    <p>Your address tells us a lot: whether you're inside The Woodlands, the City of Houston, the City of Humble, or unincorporated Harris or Montgomery County; whether an HOA is involved; and whether the lot is near a creek or in a mapped flood zone. Photos and a rough length help us arrive prepared.</p>
+    <p>Your address tells us a lot: if you're inside The Woodlands, the City of Houston, the City of Humble, or unincorporated Harris or Montgomery County; whether an HOA is involved; and whether the lot is near a creek or in a mapped flood zone. Photos and a rough length help us arrive prepared.</p>
     <p>Small repairs can sometimes be priced from photos. New fences and replacements get a site visit, because footage, grade, and trees change the price. You get a written quote for the fence we talked through, including tear-out and any clearing. See typical ranges in the <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>.</p>
   </div>
 </section>
@@ -40,7 +40,7 @@ cta_text: Call or text (713) 331-9385, or book online. We'll check the rules for
       <div class="fx-card"><h3>The Woodlands RDRC</h3><p>Nearly every fence in The Woodlands needs written approval from your village's Residential Design Review Committee, applied for through the Township's Civic Access Portal. We prepare the site sketch, heights, materials, and stain details.</p><a class="more" href="{{ '/service-areas/the-woodlands/' | relative_url }}">Woodlands rules &rarr;</a></div>
       <div class="fx-card"><h3>HOA and deed restrictions</h3><p>Most neighborhoods in Spring, Kingwood, Atascocita, and along I-69 have architectural review. We confirm the current guidelines for your lot and submit the package. Work starts after written approval.</p><a class="more" href="{{ '/hoa-fencing/' | relative_url }}">HOA fencing &rarr;</a></div>
       <div class="fx-card"><h3>City and county permits</h3><p>Houston requires a permit only above 8 feet or for masonry; Humble requires one inside city limits; Harris County requires one in a mapped flood hazard area; Montgomery County requires a floodplain development permit in its floodplain. We tell you what applies before the quote is final.</p></div>
-      <div class="fx-card"><h3>Texas 811</h3><p>We request utility locates before every dig. 811 doesn't mark private lines like sprinklers, landscape lighting, or septic, so show us where yours run.</p></div>
+      <div class="fx-card"><h3>Texas 811</h3><p>We request utility locates before every new install. 811 doesn't mark private lines like sprinklers, landscape lighting, or septic, so show us where yours run.</p></div>
     </div>
     <p class="fx-note">We don't quote a permit fee, height limit, or HOA rule from memory. Each depends on the address, and we confirm it for your property.</p>
   </div>

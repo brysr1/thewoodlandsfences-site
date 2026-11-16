@@ -69,7 +69,7 @@ faq:
       <li><span><b>City or county.</b> We confirm whether your lot is inside the City of Humble, where a fence permit is required, or in unincorporated Harris County.</span></li>
       <li><span><b>Flood map.</b> In unincorporated Harris County, a permit applies only inside a mapped special flood hazard area. We check yours.</span></li>
       <li><span><b>Easements.</b> We check your plat for utility and drainage easements along the back line.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community, city, and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

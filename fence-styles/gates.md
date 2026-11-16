@@ -52,7 +52,7 @@ faq:
       <div class="fx-card"><h3>Walk gates</h3><p>Single gates for side yards.</p></div>
       <div class="fx-card"><h3>Double drive gates</h3><p>Wide openings for trailers and mowers.</p></div>
       <div class="fx-card"><h3>Slide and cantilever</h3><p>For commercial sites and tight driveways.</p></div>
-      <div class="fx-card"><h3>Openers and keypads</h3><p>Remotes, keypads, and safety sensors.</p></div>
+      <div class="fx-card"><h3>Openers and keypads</h3><p>Remotes, keypads, and safety sensors.</p><a class="more" href="{{ '/fence-styles/gate-operators/' | relative_url }}">Gate operators &rarr;</a></div>
       <div class="fx-card"><h3>Wood</h3><p>Cedar on a steel frame to match the fence and resist sag.</p><a class="more" href="{{ '/materials/wood-cedar/' | relative_url }}">Wood &amp; cedar &rarr;</a></div>
       <div class="fx-card"><h3>Steel or aluminum</h3><p>Ornamental metal to match a see-through fence. Steel is the stiffer choice for wide drive gates.</p><a class="more" href="{{ '/materials/ornamental-steel-aluminum/' | relative_url }}">Ornamental steel &rarr;</a></div>
     </div>
@@ -101,6 +101,6 @@ faq:
       <li><span><b>Posts.</b> Gate posts are set deeper than line posts and sometimes need steel.</span></li>
     </ul>
     <p>Gates are priced as part of your written quote. See our <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a> for fence ranges by material.</p>
-    <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/maintenance-repair/' | relative_url }}">Repair</a> · <a href="{{ '/security-fencing/' | relative_url }}">Security fencing</a></p>
+    <p style="margin-top:24px"><strong>Related:</strong> <a href="{{ '/maintenance-repair/' | relative_url }}">Repair</a> · <a href="{{ '/security-fencing/' | relative_url }}">Security fencing</a> · <a href="{{ '/fence-styles/gate-operators/' | relative_url }}">Gate operators</a> · <a href="{{ '/resources/fix-sagging-fence-gate/' | relative_url }}">Fix a sagging gate</a></p>
   </div>
 </section>

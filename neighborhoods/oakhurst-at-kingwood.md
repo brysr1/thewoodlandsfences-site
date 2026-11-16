@@ -69,7 +69,7 @@ faq:
       <li><span><b>Permits.</b> No city permit in unincorporated Montgomery County. A county floodplain development permit applies only in a mapped 100-year floodplain.</span></li>
       <li><span><b>Golf-facing lines.</b> Back lines on the course may carry their own rules. We check before we draw the layout.</span></li>
       <li><span><b>Trees.</b> We move a post rather than cut a major root, and we plan the line around big trunks.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

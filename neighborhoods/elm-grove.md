@@ -69,7 +69,7 @@ faq:
       <li><span><b>Permits.</b> City of Houston permit only for fences over 8 feet or masonry and concrete fences.</span></li>
       <li><span><b>Flood and drainage.</b> We check the FEMA map for your address and keep the fence from blocking the way water leaves your yard.</span></li>
       <li><span><b>Old posts.</b> We pull or cut out old footings so new posts sit in firm ground.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and city rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

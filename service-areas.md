@@ -4,7 +4,7 @@ description: 76 Fence of The Woodlands builds and repairs fences in The Woodland
 permalink: /service-areas/
 ---
 
-{% include hero.html small=true eyebrow="Service areas" title="From The Woodlands to Lake Houston" lede="Seven areas, three counties, and a lot of different rules. We check which ones apply to your address before we quote." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="Shadowbox cedar fence along a side yard" %}
+{% include hero.html small=true eyebrow="Service areas" title="From The Woodlands to Lake Houston" lede="Nine areas, three counties, and a lot of different rules. We check which ones apply to your address before we quote." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="Shadowbox cedar fence along a side yard" %}
 
 <section class="fx-band">
   <div class="fx-container">
@@ -14,7 +14,9 @@ permalink: /service-areas/
     <div class="fx-cards">
       <div class="fx-card"><h3><a href="{{ '/service-areas/the-woodlands/' | relative_url }}">The Woodlands</a></h3><p>All eight villages, built to the Township's Residential Development Standards with RDRC approval.</p><a class="more" href="{{ '/service-areas/the-woodlands/' | relative_url }}">The Woodlands &rarr;</a></div>
       <div class="fx-card"><h3><a href="{{ '/service-areas/spring-tx/' | relative_url }}">Spring</a></h3><p>Harris and Montgomery County neighborhoods, from Augusta Pines and Auburn Lakes to Harmony and Woodson's Reserve.</p><a class="more" href="{{ '/service-areas/spring-tx/' | relative_url }}">Spring &rarr;</a></div>
-      <div class="fx-card"><h3><a href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter, New Caney &amp; Splendora</a></h3><p>New master-planned communities along I-69 and acreage in the Piney Woods.</p><a class="more" href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter, New Caney &amp; Splendora &rarr;</a></div>
+      <div class="fx-card"><h3><a href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter</a></h3><p>New master-planned communities along I-69 and the Grand Parkway, and acreage in the Piney Woods.</p><a class="more" href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter &rarr;</a></div>
+      <div class="fx-card"><h3><a href="{{ '/service-areas/new-caney-tx/' | relative_url }}">New Caney</a></h3><p>Tavola, The Canopies, and wooded acreage in unincorporated Montgomery County.</p><a class="more" href="{{ '/service-areas/new-caney-tx/' | relative_url }}">New Caney &rarr;</a></div>
+      <div class="fx-card"><h3><a href="{{ '/service-areas/splendora-tx/' | relative_url }}">Splendora</a></h3><p>Yard fences inside city limits and acreage perimeters around it.</p><a class="more" href="{{ '/service-areas/splendora-tx/' | relative_url }}">Splendora &rarr;</a></div>
       <div class="fx-card"><h3><a href="{{ '/service-areas/kingwood/' | relative_url }}">Kingwood</a></h3><p>Every village in "The Livable Forest," inside the City of Houston.</p><a class="more" href="{{ '/service-areas/kingwood/' | relative_url }}">Kingwood &rarr;</a></div>
       <div class="fx-card"><h3><a href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita</a></h3><p>Lakefront, golf course, and master-planned neighborhoods on Lake Houston's east shore.</p><a class="more" href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita &rarr;</a></div>
       <div class="fx-card"><h3><a href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble</a></h3><p>The City of Humble and the unincorporated neighborhoods around it.</p><a class="more" href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble &rarr;</a></div>

@@ -48,6 +48,7 @@ faq:
       <li><span><b>Trees.</b> Fence lines go around trees. Fences can't be fastened to a tree, and trees over 6 inches in diameter can't be removed for a fence.</span></li>
       <li><span><b>Pools.</b> Pools, spas, and ponds deeper than 2 feet need a code-compliant barrier and an inspection.</span></li>
     </ul>
+    <p>In-depth guides: <a href="{{ '/resources/woodlands-allowed-fence-materials/' | relative_url }}">allowed materials</a>, <a href="{{ '/resources/woodlands-fence-stain-colors/' | relative_url }}">stain colors</a>, <a href="{{ '/resources/woodlands-fence-repair-approval/' | relative_url }}">repair approval</a>, <a href="{{ '/resources/woodlands-pool-fence-rules/' | relative_url }}">pool fence rules</a>, and <a href="{{ '/resources/commercial-security-fencing-woodlands-tx/' | relative_url }}">commercial fencing</a>.</p>
     <p class="fx-note">Summary only. The standards are long and change over time; the current recorded version and your neighborhood criteria control.</p>
   </div>
 </section>

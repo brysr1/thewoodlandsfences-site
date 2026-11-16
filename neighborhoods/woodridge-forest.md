@@ -69,7 +69,7 @@ faq:
       <li><span><b>Permits.</b> No city permit here. A Montgomery County floodplain development permit applies only in a mapped 100-year floodplain.</span></li>
       <li><span><b>Water-facing lines.</b> Pond lots may have different rules for the back line. We check before we quote.</span></li>
       <li><span><b>Drainage.</b> We leave room under and around the fence so yard water still reaches the swale.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

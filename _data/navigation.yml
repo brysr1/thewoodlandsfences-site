@@ -33,6 +33,7 @@ main:
       - { title: Pool Enclosure, url: /fence-styles/pool-enclosure/ }
       - { title: Split Rail, url: /fence-styles/split-rail/ }
       - { title: Gates & Openers, url: /fence-styles/gates/ }
+      - { title: Gate Operators, url: /fence-styles/gate-operators/ }
       - { title: Pet & Dog Fences, url: /fence-styles/pet/ }
   - title: Service Areas
     url: /service-areas/
@@ -40,7 +41,9 @@ main:
     children:
       - { title: The Woodlands, url: /service-areas/the-woodlands/ }
       - { title: Spring, url: /service-areas/spring-tx/ }
-      - { title: "Porter, New Caney & Splendora", url: /service-areas/porter-new-caney-splendora/ }
+      - { title: Porter, url: /service-areas/porter-new-caney-splendora/ }
+      - { title: New Caney, url: /service-areas/new-caney-tx/ }
+      - { title: Splendora, url: /service-areas/splendora-tx/ }
       - { title: Kingwood, url: /service-areas/kingwood/ }
       - { title: Atascocita, url: /service-areas/atascocita/ }
       - { title: Humble, url: /service-areas/humble-tx/ }

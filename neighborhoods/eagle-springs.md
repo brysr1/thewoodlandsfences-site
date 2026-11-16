@@ -27,7 +27,7 @@ faq:
   - q: "Do you serve Eagle Springs?"
     a: "Yes. We work throughout Atascocita, including every Eagle Springs village. Estimates are free, and we're open 7 days, 7 AM to 7 PM."
   - q: "Do I need a permit?"
-    a: "Eagle Springs is in unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Inside an A or V flood zone, the county requires one with a site plan and fence design."
+    a: "Eagle Springs is in unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Inside an A or V flood zone, the county requires one."
   - q: "My builder fence is leaning. Repair or replace?"
     a: "It depends on the posts. Eagle Springs began in the early 2000s, so many first fences are well along. If the posts are solid, we replace pickets and rails. If they're rotted at the ground, a rebuild on new posts makes more sense. We'll give you a written quote for either."
   - q: "What fence works on a lake lot?"
@@ -70,7 +70,7 @@ faq:
       <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, a Harris County permit is required.</span></li>
       <li><span><b>Easements.</b> Lots often have utility or drainage easements along the back. We check your plat before we set the line.</span></li>
       <li><span><b>Shared fences.</b> We help you coordinate with your neighbor on a shared line.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

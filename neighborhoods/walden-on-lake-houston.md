@@ -27,7 +27,7 @@ faq:
   - q: "Do you serve Walden on Lake Houston?"
     a: "Yes. We work throughout Atascocita, including every section of Walden. Estimates are free, and we're open 7 days, 7 AM to 7 PM."
   - q: "Do I need a county permit?"
-    a: "Atascocita is unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Some Walden lots near the lake are in the floodplain, and inside an A or V zone the county requires a permit with a site plan and fence design. We check the flood map for your address."
+    a: "Atascocita is unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit. Some Walden lots near the lake are in the floodplain, and inside an A or V zone the county requires a permit. We check the flood map for your address."
   - q: "What fence works on a lakefront or golf course lot?"
     a: "Black powder-coated steel is the usual choice. It keeps the view of the water or fairway and stands up to wet ground. We confirm what the HOA allows on the back line before we quote."
   - q: "Do I need HOA approval?"
@@ -67,10 +67,10 @@ faq:
     <h2>Before you fence in Walden</h2>
     <ul class="fx-checklist">
       <li><span><b>HOA approval.</b> We check the deed restrictions for your section and submit the plan first.</span></li>
-      <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, a Harris County permit with site plan and fence design is required.</span></li>
+      <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, a Harris County permit is required.</span></li>
       <li><span><b>Flood and shoreline.</b> On lake lots we choose open designs and footings that let water pass.</span></li>
       <li><span><b>Trees.</b> We route the line around trunks and large roots.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

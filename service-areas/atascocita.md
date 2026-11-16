@@ -7,7 +7,7 @@ cta_text: Call or text (713) 331-9385. We'll check your HOA guidelines and flood
 faq_title: Atascocita fence questions
 faq:
   - q: Do I need a permit for a fence in Atascocita?
-    a: Atascocita is unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit; inside an A or V flood zone, the county requires one with a site plan and fence design. Summerwood is inside the City of Houston, where a permit is needed only for fences over 8 feet or masonry and concrete fences.
+    a: Atascocita is unincorporated Harris County. A residential fence outside the special flood hazard area doesn't need a county permit; inside an A or V flood zone, the county requires one. Summerwood is inside the City of Houston, where a permit is needed only for fences over 8 feet or masonry and concrete fences.
   - q: Do I need HOA approval?
     a: In nearly every Atascocita neighborhood, yes. We prepare the drawing, materials, and stain color for your HOA's architectural review and start once it's approved.
   - q: What fence works on a lake or golf course lot?
@@ -22,7 +22,7 @@ faq:
     <h2>A lake town built around neighborhoods</h2>
     <p>Atascocita sits on the east shore of Lake Houston in unincorporated Harris County, with more than 88,000 residents at the 2020 census. It's almost entirely master-planned neighborhoods with active HOAs, several built around golf courses or water, so the fence questions are usually about what the HOA allows and how to handle a lot that backs to a view.</p>
     <div class="fx-rule-box">
-      <p><strong>Harris County:</strong> no county permit for a residential fence outside the special flood hazard area. Inside an A or V zone, a permit with a site plan and fence design is required.</p>
+      <p><strong>Harris County:</strong> no county permit for a residential fence outside the special flood hazard area. Inside an A or V zone, a county permit is required.</p>
       <p><strong>Summerwood:</strong> inside the City of Houston. A city fence permit is needed only above 8 feet or for masonry and concrete fences.</p>
       <p><strong>HOA:</strong> separate from any permit, and required in nearly every neighborhood here.</p>
     </div>

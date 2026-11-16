@@ -26,7 +26,7 @@ permalink: /commercial-fencing/
       <h2>Built around your site and your schedule</h2>
       <ul class="fx-checklist">
         <li><span><b>Clear written bids</b> you can take to ownership or a board.</span></li>
-        <li><span><b>Permit and design-review checks</b> for your jurisdiction, from The Woodlands commercial standards to City of Houston permits.</span></li>
+        <li><span><b>Permit and design-review checks</b> for your jurisdiction, from <a href="{{ '/resources/commercial-security-fencing-woodlands-tx/' | relative_url }}">The Woodlands commercial standards</a> to City of Houston permits.</span></li>
         <li><span><b>Work planned around operations</b>, including phased installs to keep entrances open.</span></li>
         <li><span><b>Gates and access control</b>: swing, slide, and cantilever gates with operators and keypads.</span></li>
       </ul>

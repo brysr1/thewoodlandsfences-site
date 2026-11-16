@@ -73,7 +73,7 @@ faq:
       <li><span><b>Flood and drainage.</b> Lots near Spring Creek and its tributaries are the ones to check. We look up the flood map for your address before we quote.</span></li>
       <li><span><b>Lake lots.</b> No solid fence on the rear line. See-through fences top out at 6'6".</span></li>
       <li><span><b>Trees.</b> Trees over 6 inches in diameter can't be removed for a fence.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

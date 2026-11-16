@@ -23,7 +23,7 @@ permalink: /security-fencing/
   <div class="fx-container fx-prose fx-narrow">
     <h2>Planning a secure perimeter</h2>
     <p>We look at height, climbability, gaps at grade, how gates are controlled, and what the local design rules allow. In The Woodlands, visible chain link and wire are restricted, so commercial security there usually means ornamental steel. Elsewhere, chain link with toppers is often the practical choice. You'll get options with prices for each.</p>
-    <p>See <a href="{{ '/commercial-fencing/' | relative_url }}">commercial</a> and <a href="{{ '/industrial-fencing/' | relative_url }}">industrial</a> fencing.</p>
+    <p>See <a href="{{ '/commercial-fencing/' | relative_url }}">commercial</a> and <a href="{{ '/industrial-fencing/' | relative_url }}">industrial</a> fencing, our guide to <a href="{{ '/resources/security-fence-types/' | relative_url }}">security fence types</a>, and <a href="{{ '/resources/commercial-security-fencing-woodlands-tx/' | relative_url }}">commercial security fencing in The Woodlands</a>.</p>
   </div>
 </section>
 
@@ -34,7 +34,7 @@ permalink: /security-fencing/
     <p>A security fence is only as strong as its gates. Every vehicle should come through one you control.</p>
     <ul class="fx-checklist">
       <li><span><b>Gate type.</b> Swing gates for standard openings. Slide or cantilever gates for wide openings and tight drives where there's no room for a swing.</span></li>
-      <li><span><b>Access control.</b> Keypads, remotes, or phone-based entry. We coordinate with your access-control or camera installer if you have one.</span></li>
+      <li><span><b>Access control.</b> Keypads and remotes. We don't install card readers or call boxes, but we coordinate with your access-control or camera installer if you have one. See <a href="{{ '/fence-styles/gate-operators/' | relative_url }}">gate operators</a>.</span></li>
       <li><span><b>Openers.</b> Solar where there's no power at the gate. Wired for heavy gates that cycle many times a day. Ask about battery backup so the gate keeps working in an outage, and every opener has a manual release.</span></li>
       <li><span><b>Safety sensors.</b> Sensors stop or reverse the gate if a person or vehicle is in the way.</span></li>
       <li><span><b>Emergency access.</b> Fire department access is planned on gated sites. In The Woodlands, a gate that restricts vehicle access needs a Knox box or other approved emergency access.</span></li>

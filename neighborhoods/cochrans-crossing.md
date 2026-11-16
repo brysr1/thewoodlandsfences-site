@@ -71,7 +71,7 @@ faq:
       <li><span><b>Greenbelts.</b> Fences stay on your lot, never in a greenbelt or open space reserve.</span></li>
       <li><span><b>Permits.</b> The village is in unincorporated Montgomery County. A county floodplain development permit applies only in a mapped floodplain. We check the map for your address.</span></li>
       <li><span><b>Trees.</b> Trees over 6 inches in diameter can't be removed for a fence.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

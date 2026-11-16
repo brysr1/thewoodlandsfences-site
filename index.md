@@ -13,7 +13,7 @@ faq:
   - q: Do I need a permit in Spring, Atascocita, or Huffman?
     a: In unincorporated Harris County, a residential fence outside the special flood hazard area doesn't need a county permit. Inside a mapped floodplain it counts as development and does. We check the flood map for your lot before we quote.
   - q: Do you call 811 before digging?
-    a: Every time. Utility lines get marked before any post hole is dug.
+    a: Yes, before every new install. Utility lines get marked before the first post hole is dug.
 ---
 
 {% include hero.html eyebrow="76 Fence of The Woodlands" title="Fence Company Serving The Woodlands, Spring &amp; Kingwood" subtitle="Fences built for the forest, the creeks, and the HOA." lede="Fence installation and repair for homes, HOAs, and businesses in The Woodlands, Spring, Kingwood, Humble, and the Lake Houston area." image="/assets/images/fences/shadowbox-cedar.jpg" alt="New shadowbox cedar fence along a backyard lined with tall pine trees" %}
@@ -60,7 +60,7 @@ faq:
         <ul class="fx-checklist">
           <li><span><b>The same person from estimate to install.</b> Whoever walks your fence line is on site for the build, making sure it goes the way you planned.</span></li>
           <li><span><b>Approval packets done for you.</b> Drawings, heights, materials, and stain details for your RDRC, HOA, or POA.</span></li>
-          <li><span><b>811 locates on every job.</b> Gas, water, and fiber lines get marked before we dig.</span></li>
+          <li><span><b>811 locates on every new install.</b> Gas, water, and fiber lines get marked before we dig.</span></li>
           <li><span><b>Posts set for the ground you have.</b> Depth and concrete matched to clay, sand, and wet spots near the creeks.</span></li>
         </ul>
         <a class="fx-btn fx-btn-navy" href="{{ '/about/' | relative_url }}">Meet the team</a>
@@ -108,7 +108,7 @@ faq:
       <div><h3><a href="{{ '/service-areas/atascocita/' | relative_url }}">Atascocita</a></h3><p>Lake Houston shoreline, golf courses, and new master-planned sections.</p></div>
       <div><h3><a href="{{ '/service-areas/humble-tx/' | relative_url }}">Humble</a></h3><p>City of Humble and the established subdivisions around it.</p></div>
       <div><h3><a href="{{ '/service-areas/huffman-tx/' | relative_url }}">Huffman</a></h3><p>Acreage, horse property, and lake lots on the east side of Lake Houston.</p></div>
-      <div><h3><a href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter, New Caney &amp; Splendora</a></h3><p>New master-planned communities along I-69 and wooded acreage further out.</p></div>
+      <div><h3><a href="{{ '/service-areas/porter-new-caney-splendora/' | relative_url }}">Porter</a>, <a href="{{ '/service-areas/new-caney-tx/' | relative_url }}">New Caney</a> &amp; <a href="{{ '/service-areas/splendora-tx/' | relative_url }}">Splendora</a></h3><p>New master-planned communities along I-69 and wooded acreage further out.</p></div>
     </div>
     <a href="{{ '/service-areas/' | relative_url }}"><strong>See all service areas &rarr;</strong></a>
   </div>

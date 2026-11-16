@@ -39,7 +39,7 @@ faq:
       <p><strong>Village approval:</strong> separate from the city and required under most villages' deed restrictions.</p>
       <p><strong>Floodplain:</strong> Harvey damaged about 16,000 homes in the Lake Houston area, including much of Kingwood. Since 2018, Houston has required new construction in both the 100-year and 500-year floodplains to sit 2 feet above the 500-year flood elevation. A fence isn't a building, but on these lots we choose designs and footings that hold up to standing water and let it pass.</p>
     </div>
-    <p>Before any digging, we request Texas 811 utility locates.</p>
+    <p>Before every new install, we request Texas 811 utility locates.</p>
   </div>
 </section>
 

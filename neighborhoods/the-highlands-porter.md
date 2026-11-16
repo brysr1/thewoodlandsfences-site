@@ -70,7 +70,7 @@ faq:
       <li><span><b>Permits.</b> No city permit. A Montgomery County floodplain development permit applies only in a mapped 100-year floodplain, which matters near the San Jacinto River.</span></li>
       <li><span><b>New-build soil.</b> Fill dirt on new lots settles. We set posts deep in concrete so the line stays straight.</span></li>
       <li><span><b>Drainage.</b> We keep the fence clear of swales and drainage easements behind the lot.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

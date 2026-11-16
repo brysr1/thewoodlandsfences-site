@@ -13,7 +13,7 @@ faq:
   - q: Who handles HOA paperwork?
     a: We prepare the drawing, height, material, style, and stain details for your RDRC or HOA submittal, and start once you have written approval.
   - q: Do you call 811?
-    a: Yes, before every dig. Texas 811 marks public utility lines; private lines like sprinklers and landscape lighting aren't marked, so please show us where yours run.
+    a: "Yes, before every new install. Texas 811 marks public utility lines; private lines like sprinklers and landscape lighting aren't marked, so please show us where yours run. See [Texas 811](/faq/texas-811/)."
   - q: How long does installation take?
     a: Most residential fences take one to three days on site. Approval and utility locates usually set the start date.
   - q: What does a fence cost?
@@ -33,5 +33,18 @@ faq:
 <section class="fx-band">
   <div class="fx-container fx-prose fx-narrow">
     <p>Have a question about a specific neighborhood? Each <a href="{{ '/service-areas/' | relative_url }}">service area page</a> covers the local rules in more detail. For costs, see the <a href="{{ '/pricing-guide/' | relative_url }}">pricing guide</a>, and for longer reads, the <a href="{{ '/resources/' | relative_url }}">resources</a> page.</p>
+  </div>
+</section>
+
+<section class="fx-band fx-band-alt">
+  <div class="fx-container">
+    {% include eyebrow.html text="In-depth answers" %}
+    <h2>More fence questions, answered in full</h2>
+    <div class="fx-cards">
+      {%- assign faqs = site.pages | where: "kind", "faq" | sort: "title" %}
+      {%- for f in faqs %}
+      <div class="fx-card"><h3><a href="{{ f.url | relative_url }}">{{ f.headline | default: f.title }}</a></h3><p>{{ f.lede }}</p><a class="more" href="{{ f.url | relative_url }}">Read the answer &rarr;</a></div>
+      {%- endfor %}
+    </div>
   </div>
 </section>

@@ -7,7 +7,7 @@ cta_text: Call or text (713) 331-9385. We'll check the flood map and your deed r
 faq_title: Spring fence questions
 faq:
   - q: Do I need a permit for a fence in Spring?
-    a: Most of Spring is unincorporated Harris County. There, a residential fence outside the special flood hazard area doesn't need a county permit. In an A or V flood zone it does, with a site plan and a fence design that shows the material and footing depth. Floodway lots need engineering as well.
+    a: Most of Spring is unincorporated Harris County. There, a residential fence outside the special flood hazard area doesn't need a county permit. In an A or V flood zone, it does.
   - q: What about the Montgomery County side of Spring?
     a: Neighborhoods such as Harmony, Spring Trails, Woodson's Reserve, and Benders Landing are in Montgomery County. The county's floodplain rules require a development permit for work in a mapped floodplain; a three-strand barbed wire fence is exempt. Deed restrictions and HOA approval still apply either way.
   - q: Is Old Town Spring in your area?
@@ -25,7 +25,7 @@ faq:
     <p>Spring started as a trading post on Spring Creek in 1838. German farmers followed in the 1840s, the railroad arrived in 1871, and the original town site survives as Old Town Spring at Spring-Cypress and Hardy roads. Today the Spring census area, entirely in north Harris County, counts more than 62,000 residents, and "Spring" is also the everyday name for a large part of southern Montgomery County.</p>
     <p>There's no city government, so fence rules come from three places: the county, the floodplain map, and your deed restrictions. That makes the address the first thing we check.</p>
     <div class="fx-rule-box">
-      <p><strong>Harris County:</strong> no permit is required for a residential fence outside the special flood hazard area. In an A or V zone, the county needs an application, a site plan, and a fence design showing elevation, material, and footing depth. Floodway or V-zone lots also need a scour report and hydraulic analysis sealed by a professional engineer.</p>
+      <p><strong>Harris County:</strong> no permit is required for a residential fence outside the special flood hazard area. In an A or V zone, a county permit is required.</p>
       <p><strong>Montgomery County:</strong> the county's floodplain regulations require a development permit for work in a mapped floodplain; a three-strand barbed wire fence is exempt.</p>
     </div>
   </div>

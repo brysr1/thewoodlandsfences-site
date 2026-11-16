@@ -70,7 +70,7 @@ faq:
       <li><span><b>Lake lots.</b> No solid fence on the rear property line. See-through fences top out at 6'6".</span></li>
       <li><span><b>Permits.</b> Panther Creek is in unincorporated Montgomery County. A county floodplain development permit applies only in a mapped floodplain, which matters on lots near the lake and creek. We check the map for your address.</span></li>
       <li><span><b>Trees.</b> Trees over 6 inches in diameter can't be removed for a fence. We route the line around them.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

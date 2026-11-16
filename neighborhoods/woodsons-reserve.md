@@ -70,7 +70,7 @@ faq:
       <li><span><b>Permits.</b> Montgomery County requires a floodplain development permit for work in a mapped floodplain. We check your lot against the map.</span></li>
       <li><span><b>Flood and drainage.</b> Lots near the lakes and the greenway get a closer look, and we keep fences from blocking drainage swales.</span></li>
       <li><span><b>Builder warranty.</b> If your home is new, check whether a fence change affects your builder's drainage or landscape warranty.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

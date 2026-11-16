@@ -68,7 +68,7 @@ faq:
       <li><span><b>Permits.</b> City of Houston permit only for fences over 8 feet or masonry and concrete fences.</span></li>
       <li><span><b>Shared fences.</b> If the fence line is shared, we help you talk through it with your neighbor before work starts.</span></li>
       <li><span><b>Trees.</b> We work around mature roots and trim only what's needed to set the fence.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and city rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

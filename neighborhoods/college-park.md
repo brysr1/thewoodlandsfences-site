@@ -41,7 +41,7 @@ faq:
       {% include eyebrow.html text="About College Park" %}
       <h2>The college town of The Woodlands</h2>
       <p>College Park opened in 1995 and is named for the higher-education campuses inside it, Lone Star College-University Center and Sam Houston State University-The Woodlands Center. It's one of the smaller villages, with homes on both sides of I-45. The village also has three hospitals, two active adult communities, six parks, and The Woodlands College Park High School.</p>
-      <p>College Park addresses include 77384, and Harper's Landing, on the east side of I-45, is in 77385.</p>
+      <p>College Park addresses include 77384, and <a href="{{ '/neighborhoods/harpers-landing/' | relative_url }}">Harper's Landing</a>, on the east side of I-45, is in 77385.</p>
       <p>Lots tend to be compact, and some back to busier roads, which can change the allowed fence height. Fence approvals go through the College Park Residential Design Review Committee.</p>
     </div>
     <div>{% include nbhd-facts.html %}</div>
@@ -69,7 +69,7 @@ faq:
       <li><span><b>Height.</b> 7'6" for solid fences on most lots, 8'6" along designated arterial and collector streets, 6'6" for see-through.</span></li>
       <li><span><b>Permits.</b> College Park is in unincorporated Montgomery County. A county floodplain development permit applies only in a mapped floodplain. We check the map for your address.</span></li>
       <li><span><b>Trees.</b> Trees over 6 inches in diameter can't be removed for a fence.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

@@ -28,7 +28,7 @@ faq:
   - q: "Is Augusta Pines part of The Woodlands?"
     a: "No. It's often grouped with The Woodlands, but it's a separate community in unincorporated Harris County. The Woodlands' RDRC process doesn't apply. Your HOA's rules and the county flood map do."
   - q: "Do I need a permit?"
-    a: "Outside the special flood hazard area, unincorporated Harris County doesn't require a residential fence permit. If your lot is in an A or V zone, the county requires a permit with a site plan and fence design. We check the map for your address."
+    a: "Outside the special flood hazard area, unincorporated Harris County doesn't require a residential fence permit. If your lot is in an A or V zone, the county requires a permit. We check the map for your address."
   - q: "What's the best fence for a lot on the golf course?"
     a: "Usually a see-through fence in powder-coated steel, which keeps the fairway view and stands up to stray shots and sprinklers better than wood pickets. We confirm what your HOA allows on course lines before we design."
   - q: "Do patio homes need a different kind of fence?"
@@ -66,10 +66,10 @@ faq:
     <h2>Before you fence in Augusta Pines</h2>
     <ul class="fx-checklist">
       <li><span><b>Approvals.</b> We confirm your HOA's current fence rules and give you a drawing and written quote for your request.</span></li>
-      <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, Harris County needs a permit with site plan and fence design.</span></li>
+      <li><span><b>Permits.</b> No county permit outside the special flood hazard area. Inside an A or V zone, Harris County requires a permit.</span></li>
       <li><span><b>Golf course lines.</b> We check what's allowed along the course before we pick a style or height.</span></li>
       <li><span><b>Shared fences.</b> On patio homes, a fence often serves two owners. We help you sort out the line and the neighbor before we start.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>

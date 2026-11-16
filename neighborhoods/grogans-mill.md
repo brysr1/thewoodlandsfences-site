@@ -70,7 +70,7 @@ faq:
       <li><span><b>Permits.</b> Grogan's Mill is in unincorporated Montgomery County. A county floodplain development permit comes into play only if the lot is in a mapped floodplain, and we check that for your address.</span></li>
       <li><span><b>Golf course lots.</b> No solid fence on the rear line. Plan on see-through steel up to 6'6" along the course.</span></li>
       <li><span><b>Trees.</b> Trees over 6 inches in diameter can't be removed for a fence, and nothing gets fastened to a trunk.</span></li>
-      <li><span><b>Texas 811.</b> We request utility locates before every dig.</span></li>
+      <li><span><b>Texas 811.</b> We request utility locates before every new install.</span></li>
     </ul>
     <p class="fx-note">Community and county rules change. We confirm what applies to your address before we quote, and we don't build until approvals are in hand.</p>
   </div>
