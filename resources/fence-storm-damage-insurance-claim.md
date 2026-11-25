@@ -27,6 +27,10 @@ faq:
 
 Fence damage is a common sight after a big storm. Whether insurance helps depends on your policy, but the Texas Department of Insurance (TDI) publishes plain-language guidance that answers most of the first questions. This article sums it up. It isn't legal or insurance advice, and your policy is what counts.
 
+## Does homeowners insurance cover fence damage?
+
+Usually, if the damage was sudden, like wind or a fallen tree, and only after your deductible. Rot, termites and normal wear usually aren't covered. Check your own policy, because coverage varies.
+
 ## Is fence damage covered?
 
 According to TDI's [guide to covered structures](https://tdi.texas.gov/tips/home-insurance-structures-covered.html):

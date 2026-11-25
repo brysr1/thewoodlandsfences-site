@@ -16,9 +16,11 @@ faq:
     a: Solid fences aren't allowed along the rear property line of golf course or lake lots. A see-through fence such as ornamental steel, up to 6'6", is the usual answer.
   - q: Do you work in Carlton Woods?
     a: Yes. Carlton Woods is a gated community inside the Village of Sterling Ridge, and Carlton Woods Creekside is in Creekside Park. Both follow The Woodlands standards plus their own neighborhood criteria.
+  - q: How do I pick a fence contractor in The Woodlands?
+    a: Ask whether they handle Township RDRC approval, call Texas 811 before digging, and put the warranty in writing. We do all three on every job.
 ---
 
-{% include hero.html small=true eyebrow="Service areas · The Woodlands" title="Fence Company in The Woodlands, TX" subtitle="Fences built to The Woodlands standards" lede="All eight villages, from Grogan's Mill to Creekside Park. We design to the Residential Development Standards and handle the RDRC submittal." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="New shadowbox cedar fence along the side yard of a home under mature trees" %}
+{% include hero.html small=true eyebrow="Service areas · The Woodlands" title="Fence Company in The Woodlands, TX" subtitle="Fences built to The Woodlands standards" lede="A local fence company serving all eight villages, from Grogan's Mill to Creekside Park. As your fence contractor, we design to the Residential Development Standards and handle the RDRC submittal." image="/assets/images/fences/shadowbox-side-yard.jpg" alt="New shadowbox cedar fence along the side yard of a home under mature trees" %}
 
 <section class="fx-band">
   <div class="fx-container fx-why-grid">

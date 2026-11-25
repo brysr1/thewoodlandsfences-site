@@ -40,6 +40,17 @@ Outside The Woodlands, an HOA may not ask for a survey, but it still answers que
 
 Many homeowners have a survey from their closing papers. If it shows the lot lines and easements clearly, it's usually enough to plan a residential fence. If the lot has changed, the corners can't be found, or a neighbor disputes the line, a new survey with the corners marked is worth having.
 
+## How to read your survey before you fence
+
+A typical residential survey is a drawing of your lot seen from above. Here's what to look for:
+
+- **Property lines.** The outer boundary of the lot, usually a solid line with a distance and bearing along each side. Your fence plan starts here.
+- **Corner pins.** Small circles or symbols at each corner mark iron rods or pipes set in the ground. They can be hidden under grass or soil, and finding them is the surest way to locate the line on site.
+- **Easements.** Dashed lines labeled as drainage or utility easements show strips where others may have rights to reach pipes, lines, or water flow. Note where they cross your fence line.
+- **Building lines.** A dashed line set back from the street, often labeled "B.L.", marks how far back structures sit. Deed restrictions sometimes tie fence placement to it.
+
+If anything on the drawing is unclear, ask the surveyor who prepared it.
+
 ## Acreage
 
 On rural land, old fences are often a rough guess at the boundary. Before a long perimeter, a survey with corners set lets us build on your side of the line. See our [acreage fencing guide](/acreage-ranch-fencing/).
