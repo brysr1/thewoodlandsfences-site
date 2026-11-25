@@ -25,7 +25,7 @@ faq:
     a: "Not really. One face of a board-on-board fence always shows the posts and rails. If both neighbors want a finished face, shadowbox is the simpler answer."
 ---
 
-If you're replacing a fence on a shared line, the board-on-board vs. shadowbox fence question comes up fast. Both are upgrades over a plain side-by-side cedar fence, and both show up all over The Woodlands, Porter, New Caney, and Splendora. They look alike from a distance, but they're built differently, and that changes how private the yard feels and who gets the good side.
+If you're replacing a fence on a shared line, the board-on-board vs. shadowbox fence question comes up fast. Shadowbox (also written shadow box) and board-on-board are both upgrades over a plain side-by-side cedar fence, and both show up all over The Woodlands, Porter, New Caney, and Splendora. They look alike from a distance, but they're built differently, and that changes how private the yard feels and who gets the good side.
 
 Here's how the two compare, one factor at a time.
 
@@ -34,6 +34,12 @@ Here's how the two compare, one factor at a time.
 **Board-on-board** puts every picket on the same side of the rails. The first layer goes up with gaps, and a second layer covers those gaps, overlapping the boards on each side. The finished face is a solid wall of cedar, and the posts and rails show on the other side.
 
 **Shadowbox** splits the pickets between both sides of the rails, alternating one in front and one behind. Each board covers the gap on the opposite side, so straight on, it reads as solid. Both faces look the same, and the rails sit in the middle.
+
+## Shadow box vs. a standard privacy fence
+
+The standard privacy fence is side-by-side: pickets butted edge to edge on one side of the rails. It costs the least, but cedar shrinks as it dries. As it does, thin gaps open at the joints, and you can see light and movement through the fence.
+
+Shadowbox and board-on-board solve that the same way. They overlap the boards, so each picket covers the joint next to it with room to spare. When the wood shrinks, the overlap gets a little smaller, but the gap stays covered. That's why both cost more per foot: the overlap takes extra pickets and labor. If you're weighing a basic fence against an upgrade, our [privacy fence page](/fence-styles/privacy/) covers side-by-side and board-on-board builds.
 
 ## Board-on-board vs. shadowbox fence, compared
 

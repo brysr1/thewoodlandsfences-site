@@ -68,6 +68,18 @@ If the frame is rotted or the joints have failed, rebuilding the gate is better 
 
 This one rarely fixes for long with braces or wedges. If the post is loose in the ground or rotted at grade, it needs to be replaced and reset, ideally deeper than a line post. Then re-hang the gate. If the latch post is also failing, replace both.
 
+## Fixing a sagging farm or ranch gate
+
+Long pipe or tube gates on acreage put a lot of weight far from the hinges. When one sags, the hinge post usually goes first: it leans toward the gate or loosens in soft ground, and the latch end drops.
+
+The common fixes:
+
+- **Reset or brace the hinge post.** Dig it out, set it plumb and deeper, or tie it into an H-brace so the next post down the line shares the load.
+- **Add a gate wheel.** A wheel under the latch end carries part of the weight, as long as the ground it rolls on is fairly level.
+- **Add a diagonal brace** to a frame that has started to bend.
+
+Call a pro if the post is rotted or set in concrete that has cracked, if the gate is wide enough for trailers, or if it has an opener. See our [farm and ranch fencing](/materials/farm-ranch/) page.
+
 ## When to call a pro
 
 - The **hinge post is rotted** or loose in the ground.

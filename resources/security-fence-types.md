@@ -57,6 +57,15 @@ Not every security job is a perimeter. Cages protect HVAC units, generators, bac
 
 For most homes, security means privacy, a fence that's hard to see over, and gates that lock. A capped cedar privacy fence at the tallest height your rules allow does most of that. In The Woodlands, solid fences can be up to 7'6" on most lots. See our [height and placement guide](/resources/woodlands-fence-rules-height-placement/).
 
+## Security fencing for homes
+
+A home security fence comes down to four things:
+
+- **Height.** Go as tall as your rules allow. In The Woodlands, that's 7'6" for a solid fence on most lots and 6'6" for a see-through one.
+- **No footholds.** Keep rails, braces, and gate frames on the inside, so the outside face gives nothing to step on. Keep stored items and grills away from the fence line, too.
+- **Solid or narrow-gap infill.** Board-on-board cedar leaves no gaps to see through or grab. Where you need a view, ornamental steel with closely spaced pickets is hard to climb and hard to squeeze through.
+- **A lockable gate.** Fit every gate with a latch that takes a padlock, and keep it locked when no one's using it.
+
 ## Gates matter most
 
 A security fence is only as strong as its gates. On a commercial site, every vehicle should come through a gate you control:
