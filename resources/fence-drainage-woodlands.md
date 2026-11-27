@@ -59,11 +59,11 @@ Beds built up against the fence, or soil added to level a yard, raise the ground
 
 ### Leave a gap at the bottom
 
-We hold the pickets a couple of inches off the ground so water and debris can pass under. On a low spot, we may raise that section a little more.
+Almost every wood fence we build has a rot board along the bottom, and we hold that board a couple of inches off the ground so water and debris can pass under. On a low spot, we may raise that section a little more.
 
-### Use a rot board where it makes sense
+### Use a rot board
 
-A rot board (also called a kickboard) is a horizontal board run along the bottom of the fence. It takes the abuse from moisture and soil instead of the pickets, and it can be replaced on its own. We use ground-contact treated lumber for it. On a lot where water must cross the line, we leave openings at the low point rather than seal the whole run.
+A rot board (also called a kickboard) is a horizontal board run along the bottom of the fence. It takes the abuse from moisture and soil instead of the pickets, and it can be replaced on its own. On a lot where water must cross the line, we leave openings at the low point rather than seal the whole run.
 
 ### Don't pour concrete into a wet hole
 
